@@ -1,0 +1,41 @@
+# BLASTN 2.6.0+
+# Query: NODE_1648_length_842_cov_2.01904_1 type=bac_23SrRNA len=180 start=6 end=838 strand=-
+# Database: /media/jt/jt_bkup/db/blast/silva_LSURef.fasta
+# Fields: query id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, % query coverage per hsp, % identity, evalue, bit score, subject title
+# 5 hits found
+NODE_1648_length_842_cov_2.01904_1	833	2805	4	833	1056	226	836	99	94.258	0.0	1267	LXYS01000008.2777.5581 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella apis]
+NODE_1648_length_842_cov_2.01904_1	833	2805	4	833	1056	226	836	99	94.258	0.0	1267	LXYT01000001.586972.589776 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella apis]
+NODE_1648_length_842_cov_2.01904_1	833	2805	4	833	1056	226	836	99	94.258	0.0	1267	LXYU01000001.753058.755862 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella apis]
+NODE_1648_length_842_cov_2.01904_1	833	2805	4	833	1056	226	836	99	94.258	0.0	1267	LXYT01000001.725915.728719 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella apis]
+NODE_1648_length_842_cov_2.01904_1	833	2805	4	833	1056	226	836	99	94.258	0.0	1267	LXYU01000001.891781.894585 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella apis]
+# BLASTN 2.6.0+
+# Query: NODE_2037_length_725_cov_1.69851_1 type=bac_23SrRNA len=180 start=67 end=711 strand=+
+# Database: /media/jt/jt_bkup/db/blast/silva_LSURef.fasta
+# Fields: query id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, % query coverage per hsp, % identity, evalue, bit score, subject title
+# 5 hits found
+NODE_2037_length_725_cov_1.69851_1	645	2906	3	542	2246	2785	540	84	94.074	0.0	821	JXLG01000011.204.3109 [Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus apis]
+NODE_2037_length_725_cov_1.69851_1	645	2912	3	542	2252	2791	540	84	94.074	0.0	821	FOMN01000018.203.3117 [Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus bombicola]
+NODE_2037_length_725_cov_1.69851_1	645	2907	2	542	2248	2788	541	84	93.715	0.0	811	JRJB01000024.199.3168 [Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus sp. wkB10]
+NODE_2037_length_725_cov_1.69851_1	645	2907	2	542	2246	2786	541	84	93.715	0.0	811	JXLH01000030.191.3097 [Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus kimbladii]
+NODE_2037_length_725_cov_1.69851_1	645	1902	2	542	1241	1781	541	84	93.715	0.0	811	JXBY01000032.187.2088 [Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus kullabergensis]
+# BLASTN 2.6.0+
+# Query: NODE_3273_length_489_cov_2.62673_1 type=bac_23SrRNA len=180 start=2 end=484 strand=-
+# Database: /media/jt/jt_bkup/db/blast/silva_LSURef.fasta
+# Fields: query id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, % query coverage per hsp, % identity, evalue, bit score, subject title
+# 5 hits found
+NODE_3273_length_489_cov_2.62673_1	483	2809	1	483	2158	1676	483	100	100.000	0.0	893	CP015821.2335280.2338090 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella apis]
+NODE_3273_length_489_cov_2.62673_1	483	2809	1	483	2158	1676	483	100	100.000	0.0	893	CP015820.2311251.2314061 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella apis]
+NODE_3273_length_489_cov_2.62673_1	483	2809	1	483	2158	1676	483	100	100.000	0.0	893	CP015821.2188536.2191346 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella apis]
+NODE_3273_length_489_cov_2.62673_1	483	2809	1	483	2158	1676	483	100	100.000	0.0	893	CP015820.2165040.2167850 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella apis]
+NODE_3273_length_489_cov_2.62673_1	483	2809	1	483	2158	1676	483	100	99.793	0.0	887	CP015625.2469250.2472060 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella apis]
+# BLASTN 2.6.0+
+# Query: NODE_5327_length_355_cov_2.52667_1 type=bac_23SrRNA len=180 start=60 end=355 strand=-
+# Database: /media/jt/jt_bkup/db/blast/silva_LSURef.fasta
+# Fields: query id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, % query coverage per hsp, % identity, evalue, bit score, subject title
+# 5 hits found
+NODE_5327_length_355_cov_2.52667_1	296	2809	1	296	1500	1205	296	100	96.959	2.05e-139	497	CP015820.2311251.2314061 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella apis]
+NODE_5327_length_355_cov_2.52667_1	296	2809	1	296	1500	1205	296	100	96.959	2.05e-139	497	CP015820.2165040.2167850 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella apis]
+NODE_5327_length_355_cov_2.52667_1	296	2808	1	296	1499	1204	296	100	96.284	4.43e-136	486	AIMB01000009.2866.5673 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella tamiae Th239]
+NODE_5327_length_355_cov_2.52667_1	296	2808	1	296	1499	1204	296	100	96.284	4.43e-136	486	AIMG01000010.430952.433759 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella tamiae Th307]
+NODE_5327_length_355_cov_2.52667_1	296	2808	1	296	1499	1204	296	100	96.284	4.43e-136	486	AIMB01000008.819441.822248 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella tamiae Th239]
+# BLAST processed 4 queries

@@ -1,0 +1,3 @@
+#Taxon	Count	Count_pct
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Ochrobactrum	1	50.00
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales	1	50.00

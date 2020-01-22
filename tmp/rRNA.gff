@@ -1,0 +1,11 @@
+##gff-version 3
+##/home/jt/Software/metaerg/bin/../hmmrna, metaerg_output7/tmp/metaerg.tRNA.masked.fna
+NODE_13581_length_224_cov_1.09467	rRNAFinder.pl	euk_5_8SrRNA	23	120	9.7e-06	-	.	ID=NODE_13581_length_224_cov_1.09467_1;Name=euk_5_8SrRNA;score=27.2
+NODE_14230_length_219_cov_1.5	rRNAFinder.pl	bac_16SrRNA	5	217	1.7e-66	-	.	ID=NODE_14230_length_219_cov_1.5_1;Name=bac_16SrRNA;score=224.3
+NODE_1648_length_842_cov_2.01904	rRNAFinder.pl	bac_23SrRNA	6	838	1e-230	-	.	ID=NODE_1648_length_842_cov_2.01904_1;Name=bac_23SrRNA;score=767.0
+NODE_2037_length_725_cov_1.69851	rRNAFinder.pl	bac_23SrRNA	67	711	6.5e-227	+	.	ID=NODE_2037_length_725_cov_1.69851_1;Name=bac_23SrRNA;score=754.4
+NODE_2178_length_689_cov_1.16404	rRNAFinder.pl	bac_16SrRNA	1	600	1.3e-190	+	.	ID=NODE_2178_length_689_cov_1.16404_1;Name=bac_16SrRNA;score=635.7
+NODE_3273_length_489_cov_2.62673	rRNAFinder.pl	bac_23SrRNA	2	484	5.2e-157	-	.	ID=NODE_3273_length_489_cov_2.62673_1;Name=bac_23SrRNA;score=522.5
+NODE_3976_length_430_cov_3.55467	rRNAFinder.pl	bac_5SrRNA	239	351	9.7e-25	+	.	ID=NODE_3976_length_430_cov_3.55467_1;Name=bac_5SrRNA;score=89.5
+NODE_5327_length_355_cov_2.52667	rRNAFinder.pl	bac_23SrRNA	60	355	2.6e-60	-	.	ID=NODE_5327_length_355_cov_2.52667_1;Name=bac_23SrRNA;score=201.6
+NODE_6989_length_302_cov_1.39271	rRNAFinder.pl	bac_5SrRNA	1	80	3.9e-15	+	.	ID=NODE_6989_length_302_cov_1.39271_1;Name=bac_5SrRNA;score=58.4

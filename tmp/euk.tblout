@@ -1,0 +1,18 @@
+# target name                     accession  query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#             ------------------- ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+NODE_2178_length_689_cov_1.16404  -          euk_18SrRNA          -             1187    1848       1     592       1     594     689    +       4e-59  198.6   8.0  -
+NODE_2037_length_725_cov_1.69851  -          euk_28SrRNA          -             2613    3172      68     629      62     670     725    +     1.2e-45  152.1   6.9  -
+NODE_1648_length_842_cov_2.01904  -          euk_28SrRNA          -               30     463     822     449     837     425     842    -     3.4e-26   87.6  10.7  -
+NODE_3273_length_489_cov_2.62673  -          euk_28SrRNA          -             2116    2508     477      53     477      35     489    -     1.7e-24   82.0   0.8  -
+NODE_1648_length_842_cov_2.01904  -          euk_28SrRNA          -              799    1074     363      96     384      79     842    -     4.4e-13   44.0   3.2  -
+NODE_13581_length_224_cov_1.09467 -          euk_5_8SrRNA         -               11     105     120      23     126       7     224    -     9.7e-06   27.2   3.0  -
+#
+# Program:         nhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/jt/Software/metaerg/bin/../hmmrna/euk.hmm
+# Target file:     metaerg_output7/tmp/metaerg.tRNA.masked.fna
+# Option settings: nhmmer -o /dev/null --tblout metaerg_output7/tmp/euk.tblout -E 1e-05 --cpu 8 /home/jt/Software/metaerg/bin/../hmmrna/euk.hmm metaerg_output7/tmp/metaerg.tRNA.masked.fna 
+# Current dir:     /home/jt/Dropbox/projects/bee_phage/011820_141/spades_out
+# Date:            Tue Jan 21 15:45:53 2020
+# [ok]

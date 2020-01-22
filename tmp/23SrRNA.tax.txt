@@ -1,0 +1,4 @@
+NODE_1648_length_842_cov_2.01904_1	bac_23SrRNA	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales	[rRNA_target=db:silva_LSURef.fasta|LXYS01000008.2777.5581 4 833 evalue:0.0 qcov:99 identity:94.258]
+NODE_3273_length_489_cov_2.62673_1	bac_23SrRNA	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella	[rRNA_target=db:silva_LSURef.fasta|CP015821.2335280.2338090 1 483 evalue:0.0 qcov:100 identity:100.000]
+NODE_5327_length_355_cov_2.52667_1	bac_23SrRNA	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae	[rRNA_target=db:silva_LSURef.fasta|CP015820.2311251.2314061 1 296 evalue:2.05e-139 qcov:100 identity:96.959]
+NODE_2037_length_725_cov_1.69851_1	bac_23SrRNA	Bacteria;Firmicutes;Bacilli;Lactobacillales	[rRNA_target=db:silva_LSURef.fasta|JXLG01000011.204.3109 3 542 evalue:0.0 qcov:84 identity:94.074]

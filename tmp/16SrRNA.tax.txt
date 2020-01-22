@@ -1,0 +1,2 @@
+NODE_2178_length_689_cov_1.16404_1	bac_16SrRNA	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales	[rRNA_target=db:silva_SSURef_Nr99.fasta|ATYY01000108.4437.5897 1 587 evalue:0.0 qcov:98 identity:94.737]
+NODE_14230_length_219_cov_1.5_1	bac_16SrRNA	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Ochrobactrum	[rRNA_target=db:silva_SSURef_Nr99.fasta|LN833509.1.1452 1 213 evalue:1.55e-101 qcov:100 identity:98.122]

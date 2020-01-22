@@ -1,0 +1,1 @@
+NODE_13581_length_224_cov_1.09467_1	euk_5_8SrRNA	Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae	[rRNA_target=db:silva_LSURef.fasta|AGFR01000021.7058.9792 1 98 evalue:6.40e-40 qcov:100 identity:96.939]

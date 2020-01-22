@@ -1,0 +1,2 @@
+NODE_6989_length_302_cov_1.39271_1	bac_5SrRNA	unknown	[RNA_target=db:silva_LSURef.fasta|nohit]
+NODE_3976_length_430_cov_3.55467_1	bac_5SrRNA	unknown	[RNA_target=db:silva_LSURef.fasta|nohit]

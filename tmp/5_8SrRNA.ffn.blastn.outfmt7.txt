@@ -1,0 +1,11 @@
+# BLASTN 2.6.0+
+# Query: NODE_13581_length_224_cov_1.09467_1 type=euk_5_8SrRNA len=180 start=23 end=120 strand=-
+# Database: /media/jt/jt_bkup/db/blast/silva_LSURef.fasta
+# Fields: query id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, % query coverage per hsp, % identity, evalue, bit score, subject title
+# 5 hits found
+NODE_13581_length_224_cov_1.09467_1	98	2735	1	98	118	21	98	100	96.939	6.40e-40	165	AGFR01000021.7058.9792 [Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Commensalibacter;Commensalibacter intestini A911]
+NODE_13581_length_224_cov_1.09467_1	98	2745	1	98	110	13	98	100	89.796	3.02e-28	126	AZXM01000003.284589.287333 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhodovibrionales;Fodinicurvataceae;Rhodovibrio;Rhodovibrio salinarum DSM 9154]
+NODE_13581_length_224_cov_1.09467_1	98	2737	1	98	119	22	98	100	88.776	1.40e-26	121	BAIN01000105.2503.5239 [Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Acetobacter;Acetobacter papayae JCM 25143]
+NODE_13581_length_224_cov_1.09467_1	98	2736	1	98	116	19	99	100	87.879	6.54e-25	115	FWFR01000014.2752.5487 [Bacteria;Proteobacteria;Alphaproteobacteria;Sneathiellales;Sneathiellaceae;Oceanibacterium;Oceanibacterium hippocampi]
+NODE_13581_length_224_cov_1.09467_1	98	2974	1	98	120	23	98	100	87.755	6.54e-25	115	HM454281.5258.8255 [Bacteria;Nitrospirae;Thermodesulfovibrionia;Magnetobacteriales;Magnetobacteriaceae;HCH-1;uncultured Nitrospirae bacterium MY3-5B]
+# BLAST processed 1 queries

@@ -1,0 +1,92 @@
+data = [
+  {
+  "geneid": "metaerg.pl|06752",
+  "contigid": "NODE_1648_length_842_cov_2.01904",
+  "start": "6",
+  "end": "838",
+  "genelen": "833",
+  "strand": "-1",
+  "feature": "bac_23SrRNA",
+  "taxon": "Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales"
+  },
+  {
+  "geneid": "metaerg.pl|07256",
+  "contigid": "NODE_2037_length_725_cov_1.69851",
+  "start": "67",
+  "end": "711",
+  "genelen": "645",
+  "strand": "1",
+  "feature": "bac_23SrRNA",
+  "taxon": "Bacteria;Firmicutes;Bacilli;Lactobacillales"
+  },
+  {
+  "geneid": "metaerg.pl|07424",
+  "contigid": "NODE_2178_length_689_cov_1.16404",
+  "start": "1",
+  "end": "600",
+  "genelen": "600",
+  "strand": "1",
+  "feature": "bac_16SrRNA",
+  "taxon": "Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales"
+  },
+  {
+  "geneid": "metaerg.pl|08660",
+  "contigid": "NODE_3273_length_489_cov_2.62673",
+  "start": "2",
+  "end": "484",
+  "genelen": "483",
+  "strand": "-1",
+  "feature": "bac_23SrRNA",
+  "taxon": "Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella"
+  },
+  {
+  "geneid": "metaerg.pl|09311",
+  "contigid": "NODE_3976_length_430_cov_3.55467",
+  "start": "239",
+  "end": "351",
+  "genelen": "113",
+  "strand": "1",
+  "feature": "bac_5SrRNA",
+  "taxon": "unknown"
+  },
+  {
+  "geneid": "metaerg.pl|10503",
+  "contigid": "NODE_5327_length_355_cov_2.52667",
+  "start": "60",
+  "end": "355",
+  "genelen": "296",
+  "strand": "-1",
+  "feature": "bac_23SrRNA",
+  "taxon": "Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae"
+  },
+  {
+  "geneid": "metaerg.pl|11861",
+  "contigid": "NODE_6989_length_302_cov_1.39271",
+  "start": "1",
+  "end": "80",
+  "genelen": "80",
+  "strand": "1",
+  "feature": "bac_5SrRNA",
+  "taxon": "unknown"
+  },
+  {
+  "geneid": "metaerg.pl|16629",
+  "contigid": "NODE_13581_length_224_cov_1.09467",
+  "start": "23",
+  "end": "120",
+  "genelen": "98",
+  "strand": "-1",
+  "feature": "euk_5_8SrRNA",
+  "taxon": "Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae"
+  },
+  {
+  "geneid": "metaerg.pl|17034",
+  "contigid": "NODE_14230_length_219_cov_1.5",
+  "start": "5",
+  "end": "217",
+  "genelen": "213",
+  "strand": "-1",
+  "feature": "bac_16SrRNA",
+  "taxon": "Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Ochrobactrum"
+  }
+ ]

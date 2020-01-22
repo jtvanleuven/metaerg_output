@@ -1,0 +1,49 @@
+data = {
+ "text":"Taxonomy",
+ "children": [
+ {
+  "text": "Bacteria",
+  "children":[
+   {
+    "text": "Firmicutes",
+    "children":[
+     {
+      "text": "Bacilli",
+      "children":[
+       {
+        "text": "Lactobacillales",
+        "size": 1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "text": "Proteobacteria",
+    "children":[
+     {
+      "text": "Alphaproteobacteria",
+      "children":[
+       {
+        "text": "Rhizobiales",
+        "size": 1,
+        "children":[
+         {
+          "text": "Rhizobiaceae",
+          "size": 1,
+          "children":[
+           {
+            "text": "Bartonella",
+            "size": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+  }
+]}

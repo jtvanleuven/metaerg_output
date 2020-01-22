@@ -1,0 +1,27 @@
+# target name                    accession  query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#            ------------------- ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+NODE_2178_length_689_cov_1.16404 -          bac_16SrRNA          -              932    1533       1     600       1     600     689    +    1.3e-190  635.7   7.6  -
+NODE_14230_length_219_cov_1.5    -          bac_16SrRNA          -              240     452     217       5     219       1     219    -     1.7e-66  224.3   5.3  -
+NODE_2326_length_654_cov_1.03339 -          bac_16SrRNA          -                4     147     132       1     135       1     654    -     5.9e-28   96.6   3.8  -
+NODE_1648_length_842_cov_2.01904  -          bac_23SrRNA          -              174    1055     838       6     842       1     842    -      1e-230  767.0  20.9  -
+NODE_2037_length_725_cov_1.69851  -          bac_23SrRNA          -             2261    2919      67     711      47     718     725    +    6.5e-227  754.4   6.9  -
+NODE_3273_length_489_cov_2.62673  -          bac_23SrRNA          -             1770    2261     484       2     489       1     489    -    5.2e-157  522.5   3.8  -
+NODE_5327_length_355_cov_2.52667  -          bac_23SrRNA          -             1193    1503     355      60     355      36     355    -     2.6e-60  201.6   8.6  -
+NODE_13666_length_223_cov_1.10714 -          bac_23SrRNA          -              570     787     222       3     223       1     223    -     2.2e-47  158.7   4.5  -
+NODE_3976_length_430_cov_3.55467  -          bac_23SrRNA          -             2744    2923       1     167       1     169     430    +       1e-36  123.4   3.2  -
+NODE_10605_length_250_cov_1.7641  -          bac_23SrRNA          -                2     136      55     190      54     210     250    +     8.7e-30  100.3   1.9  -
+NODE_13581_length_224_cov_1.09467 -          bac_23SrRNA          -                9     135     135       8     144       2     224    -     1.6e-27   92.8   5.0  -
+NODE_8769_length_268_cov_0.868545 -          bac_23SrRNA          -                2     140     118     257     117     267     268    +     6.2e-25   84.2   6.2  -
+NODE_2037_length_725_cov_1.69851  -          bac_23SrRNA          -             2065    2137      75       3      83       1     725    -     8.2e-11   37.4   0.7  -
+NODE_3976_length_430_cov_3.55467 -          bac_5SrRNA           -                2     116     239     351     238     352     430    +     9.7e-25   89.5   2.3  -
+NODE_6989_length_302_cov_1.39271 -          bac_5SrRNA           -               37     116       1      80       1      81     302    +     3.9e-15   58.4   3.3  -
+#
+# Program:         nhmmer
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/jt/Software/metaerg/bin/../hmmrna/bac.hmm
+# Target file:     metaerg_output7/tmp/metaerg.tRNA.masked.fna
+# Option settings: nhmmer -o /dev/null --tblout metaerg_output7/tmp/bac.tblout -E 1e-05 --cpu 8 /home/jt/Software/metaerg/bin/../hmmrna/bac.hmm metaerg_output7/tmp/metaerg.tRNA.masked.fna 
+# Current dir:     /home/jt/Dropbox/projects/bee_phage/011820_141/spades_out
+# Date:            Tue Jan 21 15:45:51 2020
+# [ok]

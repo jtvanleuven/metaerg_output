@@ -1,0 +1,9 @@
+# BLASTN 2.6.0+
+# Query: NODE_3976_length_430_cov_3.55467_1 type=bac_5SrRNA len=180 start=239 end=351 strand=+
+# Database: /media/jt/jt_bkup/db/blast/silva_LSURef.fasta
+# 0 hits found
+# BLASTN 2.6.0+
+# Query: NODE_6989_length_302_cov_1.39271_1 type=bac_5SrRNA len=180 start=1 end=80 strand=+
+# Database: /media/jt/jt_bkup/db/blast/silva_LSURef.fasta
+# 0 hits found
+# BLAST processed 2 queries

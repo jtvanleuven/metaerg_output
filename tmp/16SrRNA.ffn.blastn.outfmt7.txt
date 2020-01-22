@@ -1,0 +1,21 @@
+# BLASTN 2.6.0+
+# Query: NODE_2178_length_689_cov_1.16404_1 type=bac_16SrRNA len=180 start=1 end=600 strand=+
+# Database: /media/jt/jt_bkup/db/blast/silva_SSURef_Nr99.fasta
+# Fields: query id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, % query coverage per hsp, % identity, evalue, bit score, subject title
+# 5 hits found
+NODE_2178_length_689_cov_1.16404_1	600	1461	1	587	875	1461	589	98	94.737	0.0	913	ATYY01000108.4437.5897 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium;Rhizobium mesoamericanum STM6155]
+NODE_2178_length_689_cov_1.16404_1	600	1374	1	587	788	1374	589	98	94.567	0.0	907	JUHJ01000028.1.1374 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium;Rhizobium sp. YR528]
+NODE_2178_length_689_cov_1.16404_1	600	1461	1	587	875	1461	589	98	94.567	0.0	907	JQKY01000049.70.1530 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium;Rhizobium sp. CF394]
+NODE_2178_length_689_cov_1.16404_1	600	1461	1	587	875	1461	587	98	94.549	0.0	907	AQXA01000198.35403.36863 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium;Rhizobium sp. JGI 0001005-H05]
+NODE_2178_length_689_cov_1.16404_1	600	1459	1	587	873	1459	589	98	94.567	0.0	907	EU184088.1.1476 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium;Rhizobium sp. PSB12]
+# BLASTN 2.6.0+
+# Query: NODE_14230_length_219_cov_1.5_1 type=bac_16SrRNA len=180 start=5 end=217 strand=-
+# Database: /media/jt/jt_bkup/db/blast/silva_SSURef_Nr99.fasta
+# Fields: query id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, % query coverage per hsp, % identity, evalue, bit score, subject title
+# 5 hits found
+NODE_14230_length_219_cov_1.5_1	213	1452	1	213	416	204	213	100	98.122	1.55e-101	372	LN833509.1.1452 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Ochrobactrum;uncultured Ochrobactrum sp.]
+NODE_14230_length_219_cov_1.5_1	213	1467	1	213	416	204	213	100	98.122	1.55e-101	372	AIMG01000010.428578.430052 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella;Bartonella tamiae Th307]
+NODE_14230_length_219_cov_1.5_1	213	1464	1	213	416	204	213	100	98.122	1.55e-101	372	ANNO01000005.233.1696 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Pseudochrobactrum;Pseudochrobactrum sp. AO18b]
+NODE_14230_length_219_cov_1.5_1	213	1436	1	213	396	184	213	100	98.122	1.55e-101	372	GU570648.1.1436 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Pseudochrobactrum;Pseudochrobactrum sp. enrichment culture clone B4-5]
+NODE_14230_length_219_cov_1.5_1	213	1388	1	213	388	176	213	100	98.122	1.55e-101	372	KF735806.1.1388 [Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Pseudochrobactrum;Pseudochrobactrum sp. enrichment culture clone CCNWSP4]
+# BLAST processed 2 queries
