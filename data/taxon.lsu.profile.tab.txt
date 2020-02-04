@@ -1,0 +1,5 @@
+#Taxon	Count	Count_pct
+Bacteria;Firmicutes;Bacilli;Lactobacillales	1	25.00
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella	1	25.00
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales	1	25.00
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae	1	25.00

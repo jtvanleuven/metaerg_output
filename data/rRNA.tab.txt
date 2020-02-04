@@ -1,0 +1,10 @@
+#Gene	Contig	Start	End	Gene_Length	Strand	Feature	Taxonomy
+metaerg.pl|06752	NODE_1648_length_842_cov_2.01904	6	838	833	-1	bac_23SrRNA	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales
+metaerg.pl|07256	NODE_2037_length_725_cov_1.69851	67	711	645	1	bac_23SrRNA	Bacteria;Firmicutes;Bacilli;Lactobacillales
+metaerg.pl|07424	NODE_2178_length_689_cov_1.16404	1	600	600	1	bac_16SrRNA	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales
+metaerg.pl|08660	NODE_3273_length_489_cov_2.62673	2	484	483	-1	bac_23SrRNA	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella
+metaerg.pl|09311	NODE_3976_length_430_cov_3.55467	239	351	113	1	bac_5SrRNA	unknown
+metaerg.pl|10503	NODE_5327_length_355_cov_2.52667	60	355	296	-1	bac_23SrRNA	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae
+metaerg.pl|11861	NODE_6989_length_302_cov_1.39271	1	80	80	1	bac_5SrRNA	unknown
+metaerg.pl|16629	NODE_13581_length_224_cov_1.09467	23	120	98	-1	euk_5_8SrRNA	Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae
+metaerg.pl|17034	NODE_14230_length_219_cov_1.5	5	217	213	-1	bac_16SrRNA	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Ochrobactrum

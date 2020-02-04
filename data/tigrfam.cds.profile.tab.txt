@@ -1,0 +1,396 @@
+#Accession	Name	Function	Count	Count_pct
+TIGR00473	pssA	"CDP-diacylglycerol-serine O-phosphatidyltransferase"	1	0.01
+TIGR00924	yjdL_sub1_fam	"amino acid/peptide transporter (Peptide:H+ symporter)"	1	0.01
+TIGR00516	acpS	"holo-[acyl-carrier-protein] synthase"	1	0.01
+TIGR00430	Q_tRNA_tgt	"tRNA-guanine transglycosylase"	1	0.01
+TIGR01167	LPXTG_anchor	"LPXTG cell wall anchor domain"	1	0.01
+TIGR01682	moaD	"molybdopterin converting factor, subunit 1"	1	0.01
+TIGR00576	dut	"dUTP diphosphatase"	2	0.01
+TIGR00118	acolac_lg	"acetolactate synthase, large subunit, biosynthetic type"	1	0.01
+TIGR00557	pdxA	"4-hydroxythreonine-4-phosphate dehydrogenase PdxA"	1	0.01
+TIGR02273	16S_RimM	"16S rRNA processing protein RimM"	3	0.02
+TIGR01424	gluta_reduc_2	"glutathione-disulfide reductase"	1	0.01
+TIGR00215	lpxB	"lipid-A-disaccharide synthase"	1	0.01
+TIGR04406	LPS_export_lptB	"LPS export ABC transporter ATP-binding protein"	1	0.01
+TIGR00826	EIIB_glc	"PTS system, glucose-like IIB component"	3	0.02
+TIGR00741	yfiA	"ribosomal subunit interface protein"	3	0.02
+TIGR04111	BcepMu_gp16	"phage-associated protein, BcepMu gp16 family"	4	0.02
+TIGR00427	TIGR00427	"membrane protein, MarC family"	1	0.01
+TIGR02283	MltB_2	"lytic murein transglycosylase"	1	0.01
+TIGR03061	pip_yhgE_Nterm	"YhgE/Pip N-terminal domain"	1	0.01
+TIGR02385	RelE_StbE	"addiction module toxin, RelE/StbE family"	1	0.01
+TIGR00688	rarD	"protein RarD"	1	0.01
+TIGR01254	sfuA	"ABC transporter periplasmic binding protein, thiB subfamily"	1	0.01
+TIGR00559	pdxJ	"pyridoxine 5'-phosphate synthase"	1	0.01
+TIGR01560	put_DNA_pack	"uncharacterized phage protein (possible DNA packaging)"	9	0.05
+TIGR01494	ATPase_P-type	"HAD ATPase, P-type, family IC"	8	0.04
+TIGR01024	rplS_bact	"ribosomal protein bL19"	1	0.01
+TIGR00125	cyt_tran_rel	"cytidyltransferase-like domain"	2	0.01
+TIGR00052	TIGR00052	"nudix-type nucleoside diphosphatase, YffH/AdpP family"	1	0.01
+TIGR02475	CobW	"cobalamin biosynthesis protein CobW"	1	0.01
+TIGR00521	coaBC_dfp	"phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase"	1	0.01
+TIGR00218	manA	"mannose-6-phosphate isomerase, class I"	2	0.01
+TIGR01055	parE_Gneg	"DNA topoisomerase IV, B subunit"	1	0.01
+TIGR01419	nitro_reg_IIA	"PTS IIA-like nitrogen-regulatory protein PtsN"	1	0.01
+TIGR01764	excise	"DNA binding domain, excisionase family"	1	0.01
+TIGR01179	galE	"UDP-glucose 4-epimerase GalE"	1	0.01
+TIGR02467	CbiE	"precorrin-6y C5,15-methyltransferase (decarboxylating), CbiE subunit"	1	0.01
+TIGR00653	GlnA	"glutamine synthetase, type I"	1	0.01
+TIGR04211	SH3_and_anchor	"SH3 domain protein"	1	0.01
+TIGR01665	put_anti_recept	"phage minor structural protein, N-terminal region"	13	0.07
+TIGR00020	prfB	"peptide chain release factor 2"	1	0.01
+TIGR04028	SBP_KPN_01854	"ABC transporter substrate binding protein, KPN_01854 family"	1	0.01
+TIGR03655	anti_R_Lar	"restriction alleviation protein, Lar family"	3	0.02
+TIGR00675	dcm	"DNA (cytosine-5-)-methyltransferase"	12	0.07
+TIGR00350	lytR_cpsA_psr	"cell envelope-related function transcriptional attenuator common domain"	1	0.01
+TIGR01066	rplM_bact	"ribosomal protein uL13"	1	0.01
+TIGR01326	OAH_OAS_sulfhy	"O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase"	1	0.01
+TIGR03188	histidine_hisI	"phosphoribosyl-ATP diphosphatase"	2	0.01
+TIGR03661	T1SS_VCA0849	"type I secretion C-terminal target domain (VC_A0849 subclass)"	1	0.01
+TIGR01558	sm_term_P27	"putative phage terminase, small subunit, P27 family"	4	0.02
+TIGR01465	cobM_cbiF	"precorrin-4 C11-methyltransferase"	1	0.01
+TIGR00049	TIGR00049	"iron-sulfur cluster assembly accessory protein"	1	0.01
+TIGR00757	RNaseEG	"ribonuclease, Rne/Rng family"	1	0.01
+TIGR03635	uS17_bact	"ribosomal protein uS17"	1	0.01
+TIGR02786	addB_alphas	"double-strand break repair protein AddB"	2	0.01
+TIGR02220	phg_TIGR02220	"phage conserved hypothetical protein, C-terminal domain"	8	0.04
+TIGR02258	2_5_ligase	"2'-5' RNA ligase"	1	0.01
+TIGR00107	deoD	"purine nucleoside phosphorylase"	1	0.01
+TIGR03141	cytochro_ccmD	"heme exporter protein CcmD"	2	0.01
+TIGR01913	bet_lambda	"phage recombination protein Bet"	2	0.01
+TIGR03506	FlgEFG_subfam	"flagellar hook-basal body protein"	5	0.03
+TIGR01003	PTS_HPr_family	"phosphocarrier, HPr family"	2	0.01
+TIGR03414	ABC_choline_bnd	"choline ABC transporter, periplasmic binding protein"	1	0.01
+TIGR01643	YD_repeat_2x	"YD repeat (two copies)"	3	0.02
+TIGR01611	tail_tube	"phage major tail tube protein"	4	0.02
+TIGR01550	DOC_P1	"death-on-curing family protein"	4	0.02
+TIGR01951	nusB	"transcription antitermination factor NusB"	1	0.01
+TIGR01979	sufS	"cysteine desulfurase, SufS family"	1	0.01
+TIGR01082	murC	"UDP-N-acetylmuramate--L-alanine ligase"	1	0.01
+TIGR02594	TIGR02594	"TIGR02594 family protein"	4	0.02
+TIGR02226	two_anch	"N-terminal double-transmembrane domain"	1	0.01
+TIGR01549	HAD-SF-IA-v1	"HAD hydrolase, family IA, variant 1"	2	0.01
+TIGR04306	salvage_TenA	"thiaminase II"	1	0.01
+TIGR01466	cobJ_cbiH	"precorrin-3B C17-methyltransferase"	1	0.01
+TIGR00115	tig	"trigger factor"	1	0.01
+TIGR01467	cobI_cbiL	"precorrin-2 C(20)-methyltransferase"	1	0.01
+TIGR00778	ahpD_dom	"alkylhydroperoxidase AhpD family core domain"	3	0.02
+TIGR04387	capsid_maj_N4	"major capsid protein, N4-gp56 family"	3	0.02
+TIGR00379	cobB	"cobyrinic acid a,c-diamide synthase"	1	0.01
+TIGR03719	ABC_ABC_ChvD	"ATP-binding cassette protein, ChvD family"	1	0.01
+TIGR00105	L31	"ribosomal protein bL31"	1	0.01
+TIGR01966	RNasePH	"ribonuclease PH"	1	0.01
+TIGR01538	portal_SPP1	"phage portal protein, SPP1 family"	5	0.03
+TIGR00212	hemC	"hydroxymethylbilane synthase"	1	0.01
+TIGR02067	his_9_HisN	"histidinol-phosphatase"	1	0.01
+TIGR03853	matur_matur	"putative metal-binding protein"	1	0.01
+TIGR00747	fabH	"3-oxoacyl-[acyl-carrier-protein] synthase III"	1	0.01
+TIGR00194	uvrC	"excinuclease ABC subunit C"	1	0.01
+TIGR00726	TIGR00726	"YfiH family protein"	1	0.01
+TIGR00797	matE	"MATE efflux family protein"	1	0.01
+TIGR01484	HAD-SF-IIB	"HAD hydrolase, family IIB"	2	0.01
+TIGR01844	type_I_sec_TolC	"type I secretion outer membrane protein, TolC family"	1	0.01
+TIGR00449	tgt_general	"tRNA-guanine family transglycosylase"	5	0.03
+TIGR00987	himA	"integration host factor, alpha subunit"	1	0.01
+TIGR00552	nadE	"NAD+ synthetase"	1	0.01
+TIGR04408	LptG_lptG	"LPS export ABC transporter permease LptG"	1	0.01
+TIGR00165	S18	"ribosomal protein bS18"	2	0.01
+TIGR01853	lipid_A_lpxD	"UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase LpxD"	1	0.01
+TIGR04057	SusC_RagA_signa	"TonB-dependent outer membrane receptor, SusC/RagA subfamily, signature region"	1	0.01
+TIGR00035	asp_race	"aspartate racemase"	1	0.01
+TIGR00033	aroC	"chorismate synthase"	1	0.01
+TIGR03483	FtsZ_alphas_C	"cell division protein FtsZ, alphaProteobacterial C-terminal extension"	1	0.01
+TIGR00888	guaA_Nterm	"GMP synthase (glutamine-hydrolyzing), N-terminal domain"	1	0.01
+TIGR00005	rluA_subfam	"pseudouridine synthase, RluA family"	1	0.01
+TIGR00965	dapD	"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase"	1	0.01
+TIGR00247	TIGR00247	"conserved hypothetical protein, YceG family"	1	0.01
+TIGR00062	L27	"ribosomal protein bL27"	1	0.01
+TIGR01427	PTS_IIC_fructo	"PTS system, Fru family, IIC component"	2	0.01
+TIGR01851	argC_other	"N-acetyl-gamma-glutamyl-phosphate reductase"	1	0.01
+TIGR02301	TIGR02301	"TIGR02301 family protein"	1	0.01
+TIGR01630	psiM2_ORF9	"phage uncharacterized protein, C-terminal domain"	7	0.04
+TIGR02847	CyoD	"cytochrome o ubiquinol oxidase subunit IV"	2	0.01
+TIGR01021	rpsE_bact	"ribosomal protein uS5"	1	0.01
+TIGR02327	int_mem_ywzB	"conserved hypothetical integral membrane protein"	1	0.01
+TIGR00360	ComEC_N-term	"ComEC/Rec2-related protein"	3	0.02
+TIGR03302	OM_YfiO	"outer membrane assembly lipoprotein YfiO"	3	0.02
+TIGR01469	cobA_cysG_Cterm	"uroporphyrinogen-III C-methyltransferase"	1	0.01
+TIGR03707	PPK2_P_aer	"polyphosphate kinase 2"	1	0.01
+TIGR00222	panB	"3-methyl-2-oxobutanoate hydroxymethyltransferase"	1	0.01
+TIGR00809	secB	"protein-export chaperone SecB"	1	0.01
+TIGR01551	major_capsid_P2	"phage major capsid protein, P2 family"	5	0.03
+TIGR00464	gltX_bact	"glutamate--tRNA ligase"	2	0.01
+TIGR01554	major_cap_HK97	"phage major capsid protein, HK97 family"	28	0.15
+TIGR01760	tape_meas_TP901	"phage tail tape measure protein, TP901 family, core region"	32	0.18
+TIGR00573	dnaq	"exonuclease, DNA polymerase III, epsilon subunit family"	1	0.01
+TIGR02012	tigrfam_recA	"protein RecA"	1	0.01
+TIGR03632	uS11_bact	"ribosomal protein uS11"	1	0.01
+TIGR01539	portal_lambda	"phage portal protein, lambda family"	3	0.02
+TIGR00077	lspA	"signal peptidase II"	1	0.01
+TIGR00492	alr	"alanine racemase"	1	0.01
+TIGR01395	FlgC	"flagellar basal-body rod protein FlgC"	1	0.01
+TIGR02681	phage_pRha	"phage regulatory protein, Rha family"	9	0.05
+TIGR00166	S6	"ribosomal protein bS6"	1	0.01
+TIGR00114	lumazine-synth	"6,7-dimethyl-8-ribityllumazine synthase"	1	0.01
+TIGR00515	accD	"acetyl-CoA carboxylase, carboxyl transferase, beta subunit"	1	0.01
+TIGR00967	3a0501s007	"preprotein translocase, SecY subunit"	1	0.01
+TIGR01593	holin_tox_secr	"toxin secretion/phage lysis holin"	3	0.02
+TIGR03156	GTP_HflX	"GTP-binding protein HflX"	1	0.01
+TIGR01317	GOGAT_sm_gam	"glutamate synthase, NADH/NADPH, small subunit"	1	0.01
+TIGR03654	L6_bact	"ribosomal protein uL6"	1	0.01
+TIGR00021	rpiA	"ribose 5-phosphate isomerase A"	1	0.01
+TIGR01563	gp16_SPP1	"putative phage head-tail adaptor"	8	0.04
+TIGR01087	murD	"UDP-N-acetylmuramoylalanine--D-glutamate ligase"	1	0.01
+TIGR02939	RpoE_Sigma70	"RNA polymerase sigma factor RpoE"	1	0.01
+TIGR01009	rpsC_bact	"ribosomal protein uS3"	1	0.01
+TIGR03026	NDP-sugDHase	"nucleotide sugar dehydrogenase"	1	0.01
+TIGR01646	vgr_GE	"Rhs element Vgr protein"	2	0.01
+TIGR02727	MTHFS_bact	"5-formyltetrahydrofolate cyclo-ligase"	1	0.01
+TIGR02510	NrdE-prime	"ribonucleoside-diphosphate reductase, alpha chain"	1	0.01
+TIGR00152	TIGR00152	"dephospho-CoA kinase"	1	0.01
+TIGR00589	ogt	"methylated-DNA--[protein]-cysteine S-methyltransferase"	1	0.01
+TIGR01637	phage_arpU	"phage transcriptional regulator, ArpU family"	18	0.10
+TIGR00663	dnan	"DNA polymerase III, beta subunit"	4	0.02
+TIGR03416	ABC_choXWV_perm	"choline ABC transporter, permease protein"	1	0.01
+TIGR00090	rsfS_iojap_ybeB	"ribosome silencing factor"	1	0.01
+TIGR01131	ATP_synt_6_or_A	"ATP synthase F0, A subunit"	1	0.01
+TIGR01256	modA	"molybdate ABC transporter, periplasmic molybdate-binding protein"	3	0.02
+TIGR00220	mscL	"large conductance mechanosensitive channel protein"	2	0.01
+TIGR02126	phgtail_TP901_1	"phage major tail protein, TP901-1 family"	3	0.02
+TIGR00401	msrA	"peptide-methionine (S)-S-oxide reductase"	4	0.02
+TIGR00697	TIGR00697	"conserved hypothetical integral membrane protein"	1	0.01
+TIGR00312	cbiD	"cobalamin biosynthesis protein CbiD"	1	0.01
+TIGR00351	narI	"respiratory nitrate reductase, gamma subunit"	1	0.01
+TIGR01641	phageSPP1_gp7	"phage head morphogenesis protein, SPP1 gp7 family"	14	0.08
+TIGR02158	PA_CoA_Oxy3	"phenylacetate-CoA oxygenase, PaaI subunit"	1	0.01
+TIGR00794	kup	"potassium uptake protein"	1	0.01
+TIGR02506	NrdE_NrdA	"ribonucleoside-diphosphate reductase, alpha subunit"	1	0.01
+TIGR00740	TIGR00740	"tRNA (cmo5U34)-methyltransferase"	1	0.01
+TIGR01068	thioredoxin	"thioredoxin"	1	0.01
+TIGR01542	A118_put_portal	"phage portal protein, putative, A118 family"	1	0.01
+TIGR01488	HAD-SF-IB	"HAD phosphoserine phosphatase-like hydrolase, family IB"	2	0.01
+TIGR01926	peroxid_rel	"uncharacterized peroxidase-related enzyme"	1	0.01
+TIGR01145	ATP_synt_delta	"ATP synthase F1, delta subunit"	1	0.01
+TIGR00966	3a0501s07	"protein-export membrane protein SecF"	2	0.01
+TIGR04085	rSAM_more_4Fe4S	"radical SAM additional 4Fe4S-binding SPASM domain"	1	0.01
+TIGR01978	sufC	"FeS assembly ATPase SufC"	1	0.01
+TIGR04474	tcm_partner	"three-Cys-motif partner protein"	1	0.01
+TIGR01085	murE	"UDP-N-acetylmuramyl-tripeptide synthetase"	1	0.01
+TIGR00665	DnaB	"replicative DNA helicase"	1	0.01
+TIGR00234	tyrS	"tyrosine--tRNA ligase"	1	0.01
+TIGR01297	CDF	"cation diffusion facilitator family transporter"	1	0.01
+TIGR00536	hemK_fam	"methyltransferase, HemK family"	1	0.01
+TIGR03631	uS13_bact	"ribosomal protein uS13"	1	0.01
+TIGR00638	Mop	"molybdenum-pterin binding domain"	1	0.01
+TIGR01671	phage_TIGR01671	"phage conserved hypothetical protein TIGR01671"	3	0.02
+TIGR01378	thi_PPkinase	"thiamine pyrophosphokinase"	1	0.01
+TIGR00594	polc	"DNA polymerase III, alpha subunit"	2	0.01
+TIGR00539	hemN_rel	"putative oxygen-independent coproporphyrinogen III oxidase"	1	0.01
+TIGR00465	ilvC	"ketol-acid reductoisomerase"	1	0.01
+TIGR00150	T6A_YjeE	"tRNA threonylcarbamoyl adenosine modification protein YjeE"	1	0.01
+TIGR03592	yidC_oxa1_cterm	"membrane protein insertase, YidC/Oxa1 family"	1	0.01
+TIGR00829	FRU	"PTS system, Fru family, IIB component"	3	0.02
+TIGR00633	xth	"exodeoxyribonuclease III (xth)"	1	0.01
+TIGR02218	phg_TIGR02218	"phage conserved hypothetical protein BR0599"	2	0.01
+TIGR00262	trpA	"tryptophan synthase, alpha subunit"	2	0.01
+TIGR00357	TIGR00357	"methionine-R-sulfoxide reductase"	3	0.02
+TIGR00526	folB_dom	"FolB domain"	1	0.01
+TIGR00228	ruvC	"crossover junction endodeoxyribonuclease RuvC"	1	0.01
+TIGR03953	rplD_bact	"50S ribosomal protein uL4"	1	0.01
+TIGR01965	VCBS_repeat	"VCBS repeat"	1	0.01
+TIGR02802	Pal_lipo	"peptidoglycan-associated lipoprotein"	1	0.01
+TIGR01079	rplX_bact	"ribosomal protein uL24"	1	0.01
+TIGR00202	csrA	"carbon storage regulator"	3	0.02
+TIGR01635	tail_comp_S	"phage virion morphogenesis protein"	8	0.04
+TIGR00554	panK_bact	"pantothenate kinase"	1	0.01
+TIGR01260	ATP_synt_c	"ATP synthase F0, C subunit"	1	0.01
+TIGR01258	pgm_1	"phosphoglycerate mutase 1 family"	2	0.01
+TIGR02770	nickel_nikD	"nickel import ATP-binding protein NikD"	1	0.01
+TIGR00331	hrcA	"heat-inducible transcription repressor HrcA"	1	0.01
+TIGR03692	ATP_dep_HslV	"ATP-dependent protease HslVU, peptidase subunit"	1	0.01
+TIGR01727	oligo_HPY	"oligopeptide/dipeptide ABC transporter, ATP-binding protein, C-terminal domain"	1	0.01
+TIGR00119	acolac_sm	"acetolactate synthase, small subunit"	1	0.01
+TIGR01798	cit_synth_I	"citrate (Si)-synthase"	1	0.01
+TIGR00196	yjeF_cterm	"YjeF family C-terminal domain"	1	0.01
+TIGR01603	maj_tail_phi13	"phage major tail protein, phi13 family"	1	0.01
+TIGR00012	L29	"ribosomal protein uL29"	1	0.01
+TIGR01071	rplO_bact	"ribosomal protein uL15"	1	0.01
+TIGR02419	C4_traR_proteo	"phage/conjugal plasmid C-4 type zinc finger protein, TraR family"	4	0.02
+TIGR03544	DivI1A_domain	"DivIVA domain"	1	0.01
+TIGR00006	TIGR00006	"16S rRNA (cytosine(1402)-N(4))-methyltransferase"	1	0.01
+TIGR01731	fil_hemag_20aa	"adhesin HecA family 20-residue repeat (two copies)"	3	0.02
+TIGR00197	yjeF_nterm	"YjeF family N-terminal domain"	2	0.01
+TIGR00609	recB	"exodeoxyribonuclease V, beta subunit"	1	0.01
+TIGR02135	phoU_full	"phosphate transport system regulatory protein PhoU"	1	0.01
+TIGR01192	chvA	"glucan exporter ATP-binding protein"	1	0.01
+TIGR00743	TIGR00743	"conserved hypothetical protein"	1	0.01
+TIGR01855	IMP_synth_hisH	"imidazole glycerol phosphate synthase, glutamine amidotransferase subunit"	1	0.01
+TIGR03558	oxido_grp_1	"luciferase family oxidoreductase, group 1"	1	0.01
+TIGR00008	infA	"translation initiation factor IF-1"	1	0.01
+TIGR00581	moaC	"molybdenum cofactor biosynthesis protein C"	1	0.01
+TIGR01610	phage_O_Nterm	"phage replication protein O, N-terminal domain"	2	0.01
+TIGR00468	pheS	"phenylalanine--tRNA ligase, alpha subunit"	1	0.01
+TIGR02817	adh_fam_1	"zinc-binding alcohol dehydrogenase family protein"	1	0.01
+TIGR01011	rpsB_bact	"ribosomal protein uS2"	1	0.01
+TIGR00214	lipB	"lipoyl(octanoyl) transferase"	1	0.01
+TIGR01891	amidohydrolases	"amidohydrolase"	2	0.01
+TIGR00613	reco	"DNA repair protein RecO"	2	0.01
+TIGR00242	TIGR00242	"division/cell wall cluster transcriptional repressor MraZ"	1	0.01
+TIGR03725	T6A_YeaZ	"tRNA threonylcarbamoyl adenosine modification protein YeaZ"	1	0.01
+TIGR01537	portal_HK97	"phage portal protein, HK97 family"	13	0.07
+TIGR01439	lp_hng_hel_AbrB	"transcriptional regulator, AbrB family"	1	0.01
+TIGR00952	S15_bact	"ribosomal protein uS15"	1	0.01
+TIGR01509	HAD-SF-IA-v3	"HAD hydrolase, family IA, variant 3"	3	0.02
+TIGR02532	IV_pilin_GFxxxE	"prepilin-type N-terminal cleavage/methylation domain"	1	0.01
+TIGR00936	ahcY	"adenosylhomocysteinase"	1	0.01
+TIGR01246	dapE_proteo	"succinyl-diaminopimelate desuccinylase"	1	0.01
+TIGR00007	TIGR00007	"1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase"	1	0.01
+TIGR01197	nramp	"metal ion transporter, metal ion (Mn2+/Fe2+) transporter (Nramp) family"	1	0.01
+TIGR02274	dCTP_deam	"deoxycytidine triphosphate deaminase"	4	0.02
+TIGR01613	primase_Cterm	"phage/plasmid primase, P4 family, C-terminal domain"	5	0.03
+TIGR00344	alaS	"alanine--tRNA ligase"	1	0.01
+TIGR03317	ygfZ_signature	"folate-binding protein YgfZ"	1	0.01
+TIGR01933	hflK	"HflK protein"	1	0.01
+TIGR00556	pantethn_trn	"phosphopantetheine--protein transferase domain"	1	0.01
+TIGR00113	queA	"S-adenosylmethionine:tRNA ribosyltransferase-isomerase"	1	0.01
+TIGR00916	2A0604s01	"protein-export membrane protein, SecD/SecF family"	1	0.01
+TIGR00406	prmA	"ribosomal protein L11 methyltransferase"	1	0.01
+TIGR00708	cobA	"cob(I)yrinic acid a,c-diamide adenosyltransferase"	1	0.01
+TIGR00043	TIGR00043	"rRNA maturation RNase YbeY"	2	0.01
+TIGR03308	phn_thr-fam	"phosphonate metabolim protein, transferase hexapeptide repeat family"	1	0.01
+TIGR00079	pept_deformyl	"peptide deformylase"	1	0.01
+TIGR03696	Rhs_assc_core	"RHS repeat-associated core domain"	1	0.01
+TIGR01644	phage_P2_V	"phage baseplate assembly protein V"	12	0.07
+TIGR02375	pseudoazurin	"pseudoazurin"	2	0.01
+TIGR02350	prok_dnaK	"chaperone protein DnaK"	1	0.01
+TIGR00413	rlpA	"rare lipoprotein A"	1	0.01
+TIGR00036	dapB	"4-hydroxy-tetrahydrodipicolinate reductase"	1	0.01
+TIGR01049	rpsJ_bact	"ribosomal protein uS10"	1	0.01
+TIGR00571	dam	"DNA adenine methylase"	3	0.02
+TIGR00436	era	"GTP-binding protein Era"	1	0.01
+TIGR00171	leuD	"3-isopropylmalate dehydratase, small subunit"	1	0.01
+TIGR02937	sigma70-ECF	"RNA polymerase sigma factor, sigma-70 family"	3	0.02
+TIGR01164	rplP_bact	"ribosomal protein uL16"	1	0.01
+TIGR00500	met_pdase_I	"methionine aminopeptidase, type I"	1	0.01
+TIGR01171	rplB_bact	"ribosomal protein uL2"	1	0.01
+TIGR00384	dhsB	"succinate dehydrogenase and fumarate reductase iron-sulfur protein"	1	0.01
+TIGR02945	SUF_assoc	"FeS assembly SUF system protein"	1	0.01
+TIGR02383	Hfq	"RNA chaperone Hfq"	1	0.01
+TIGR00127	nadp_idh_euk	"isocitrate dehydrogenase, NADP-dependent"	1	0.01
+TIGR02464	ribofla_fusion	"conserved hypothetical protein"	2	0.01
+TIGR01470	cysG_Nterm	"siroheme synthase, N-terminal domain"	1	0.01
+TIGR00654	PhzF_family	"phenazine biosynthesis protein, PhzF family"	2	0.01
+TIGR02281	clan_AA_DTGA	"clan AA aspartic protease, TIGR02281 family"	1	0.01
+TIGR01409	TAT_signal_seq	"Tat (twin-arginine translocation) pathway signal sequence"	1	0.01
+TIGR00460	fmt	"methionyl-tRNA formyltransferase"	1	0.01
+TIGR01498	folK	"2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase"	1	0.01
+TIGR01540	portal_PBSX	"phage portal protein, PBSX family"	3	0.02
+TIGR01067	rplN_bact	"ribosomal protein uL14"	1	0.01
+TIGR01543	proheadase_HK97	"phage prohead protease, HK97 family"	5	0.03
+TIGR02769	nickel_nikE	"nickel import ATP-binding protein NikE"	1	0.01
+TIGR01189	ccmA	"heme ABC exporter, ATP-binding protein CcmA"	2	0.01
+TIGR00231	small_GTP	"small GTP-binding protein domain"	13	0.07
+TIGR02469	CbiT	"precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiT subunit"	1	0.01
+TIGR03357	VI_zyme	"type VI secretion system lysozyme-like protein"	1	0.01
+TIGR02074	PBP_1a_fam	"penicillin-binding protein, 1A family"	1	0.01
+TIGR01031	rpmF_bact	"ribosomal protein bL32"	1	0.01
+TIGR00103	DNA_YbaB_EbfC	"DNA-binding protein, YbaB/EbfC family"	1	0.01
+TIGR00250	RNAse_H_YqgF	"putative transcription antitermination factor YqgF"	3	0.02
+TIGR03625	L3_bact	"50S ribosomal protein uL3"	1	0.01
+TIGR01725	phge_HK97_gp10	"phage protein, HK97 gp10 family"	9	0.05
+TIGR00445	mraY	"phospho-N-acetylmuramoyl-pentapeptide-transferase"	1	0.01
+TIGR01050	rpsS_bact	"ribosomal protein uS19"	1	0.01
+TIGR00739	yajC	"preprotein translocase, YajC subunit"	2	0.01
+TIGR01446	DnaD_dom	"DnaD domain protein"	2	0.01
+TIGR01443	intein_Cterm	"intein C-terminal splicing region"	1	0.01
+TIGR00176	mobB	"molybdopterin-guanine dinucleotide biosynthesis protein B"	1	0.01
+TIGR00988	hip	"integration host factor, beta subunit"	1	0.01
+TIGR01144	ATP_synt_b	"ATP synthase F0, B subunit"	1	0.01
+TIGR02167	Liste_lipo_26	"bacterial surface protein 26-residue repeat"	16	0.09
+TIGR02085	meth_trns_rumB	"23S rRNA (uracil-5-)-methyltransferase RumB"	1	0.01
+TIGR00388	glyQ	"glycine--tRNA ligase, alpha subunit"	1	0.01
+TIGR00981	rpsL_bact	"ribosomal protein uS12"	2	0.01
+TIGR00676	fadh2	"methylenetetrahydrofolate reductase [NAD(P)H]"	1	0.01
+TIGR00281	TIGR00281	"segregation and condensation protein B"	1	0.01
+TIGR00644	recJ	"single-stranded-DNA-specific exonuclease RecJ"	1	0.01
+TIGR03639	cas1_NMENI	"CRISPR-associated endonuclease Cas1, subtype II/NMENI"	1	0.01
+TIGR03860	FMN_nitrolo	"FMN-dependent oxidoreductase, nitrilotriacetate monooxygenase family"	1	0.01
+TIGR03284	thym_sym	"thymidylate synthase"	2	0.01
+TIGR01633	phi3626_gp14_N	"putative phage tail component, N-terminal domain"	3	0.02
+TIGR00810	secG	"preprotein translocase, SecG subunit"	1	0.01
+TIGR00630	uvra	"excinuclease ABC subunit A"	1	0.01
+TIGR00229	sensory_box	"PAS domain S-box protein"	4	0.02
+TIGR00616	rect	"recombinase, phage RecT family"	4	0.02
+TIGR00380	cobD	"cobalamin biosynthesis protein CobD"	1	0.01
+TIGR00621	ssb	"single-stranded DNA-binding protein"	33	0.18
+TIGR01444	fkbM_fam	"methyltransferase, FkbM family"	1	0.01
+TIGR02420	dksA	"RNA polymerase-binding protein DksA"	1	0.01
+TIGR01712	phage_N6A_met	"phage N-6-adenine-methyltransferase"	1	0.01
+TIGR02257	cobalto_cobN	"cobaltochelatase, CobN subunit"	1	0.01
+TIGR01411	tatAE	"twin arginine-targeting protein translocase, TatA/E family"	1	0.01
+TIGR00761	argB	"acetylglutamate kinase"	1	0.01
+TIGR01308	rpmD_bact	"ribosomal protein uL30"	1	0.01
+TIGR01600	phage_tail_L	"phage minor tail protein L"	10	0.05
+TIGR01673	holin_LLH	"phage holin, LL-H family"	1	0.01
+TIGR03349	IV_VI_DotU	"type IV/VI secretion system protein, DotU family"	1	0.01
+TIGR00497	hsdM	"type I restriction-modification system, M subunit"	2	0.01
+TIGR00002	S16	"ribosomal protein bS16"	1	0.01
+TIGR00151	ispF	"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"	1	0.01
+TIGR00754	bfr	"bacterioferritin"	1	0.01
+TIGR00041	DTMP_kinase	"dTMP kinase"	1	0.01
+TIGR02027	rpoA	"DNA-directed RNA polymerase, alpha subunit"	1	0.01
+TIGR01634	tail_P2_I	"phage tail protein I"	8	0.04
+TIGR01490	HAD-SF-IB-hyp1	"HAD hydrolase, family IB"	1	0.01
+TIGR02007	fdx_isc	"ferredoxin, 2Fe-2S type, ISC system"	1	0.01
+TIGR02675	tape_meas_nterm	"tape measure domain"	38	0.21
+TIGR00276	TIGR00276	"epoxyqueuosine reductase"	1	0.01
+TIGR01499	folC	"bifunctional protein FolC"	1	0.01
+TIGR00422	valS	"valine--tRNA ligase"	1	0.01
+TIGR02194	GlrX_NrdH	"glutaredoxin-like protein NrdH"	1	0.01
+TIGR01129	secD	"protein-export membrane protein SecD"	1	0.01
+TIGR00313	cobQ	"cobyric acid synthase CobQ"	1	0.01
+TIGR01088	aroQ	"3-dehydroquinate dehydratase, type II"	2	0.01
+TIGR01555	phge_rel_HI1409	"phage-associated protein, HI1409 family"	5	0.03
+TIGR01528	NMN_trans_PnuC	"nicotinamide mononucleotide transporter PnuC"	1	0.01
+TIGR00055	uppS	"di-trans,poly-cis-decaprenylcistransferase"	1	0.01
+TIGR03533	L3_gln_methyl	"protein-(glutamine-N5) methyltransferase, ribosomal protein L3-specific"	1	0.01
+TIGR01032	rplT_bact	"ribosomal protein bL20"	2	0.01
+TIGR01280	xseB	"exodeoxyribonuclease VII, small subunit"	1	0.01
+TIGR01726	HEQRo_perm_3TM	"amino ABC transporter, permease protein, 3-TM region, His/Glu/Gln/Arg/opine family"	12	0.07
+TIGR00168	infC	"translation initiation factor IF-3"	1	0.01
+TIGR00180	parB_part	"ParB/RepB/Spo0J family partition protein"	3	0.02
+TIGR00061	L21	"ribosomal protein bL21"	2	0.01
+TIGR03561	organ_hyd_perox	"peroxiredoxin, Ohr subfamily"	1	0.01
+TIGR03033	phage_rel_nuc	"putative phage-type endonuclease"	3	0.02
+TIGR00053	TIGR00053	"addiction module toxin component, YafQ family"	1	0.01
+TIGR01704	MTA/SAH-Nsdase	"MTA/SAH nucleosidase"	1	0.01
+TIGR02227	sigpep_I_bact	"signal peptidase I"	2	0.01
+TIGR02683	upstrm_HI1419	"putative addiction module killer protein"	2	0.01
+TIGR00390	hslU	"ATP-dependent protease HslVU, ATPase subunit"	1	0.01
+TIGR01594	holin_lambda	"phage holin, lambda family"	1	0.01
+TIGR01416	Rieske_proteo	"ubiquinol-cytochrome c reductase, iron-sulfur subunit"	2	0.01
+TIGR01379	thiL	"thiamine-phosphate kinase"	1	0.01
+TIGR02215	phage_chp_gp8	"phage conserved hypothetical protein, phiE125 gp8 family"	4	0.02
+TIGR00071	hisT_truA	"tRNA pseudouridine(38-40) synthase"	1	0.01
+TIGR01414	autotrans_barl	"outer membrane autotransporter barrel domain"	13	0.07
+TIGR00193	urease_gam	"urease, gamma subunit"	1	0.01
+TIGR01541	tape_meas_lam_C	"phage tail tape measure protein, lambda family"	2	0.01
+TIGR03593	yidC_nterm	"membrane protein insertase, YidC/Oxa1 family, N-terminal domain"	1	0.01
+TIGR00135	gatC	"aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C subunit"	2	0.01
+TIGR00481	TIGR00481	"Raf kinase inhibitor-like protein, YbhB/YbcL family"	2	0.01
+TIGR00531	BCCP	"acetyl-CoA carboxylase, biotin carboxyl carrier protein"	1	0.01
+TIGR00472	pheT_bact	"phenylalanine--tRNA ligase, beta subunit"	1	0.01
+TIGR00192	urease_beta	"urease, beta subunit"	1	0.01
+TIGR01766	tspaseT_teng_C	"transposase, IS605 OrfB family"	4	0.02
+TIGR02607	antidote_HigA	"addiction module antidote protein, HigA family"	2	0.01
+TIGR00249	sixA	"phosphohistidine phosphatase SixA"	1	0.01
+TIGR00059	L17	"ribosomal protein bL17"	2	0.01
+TIGR01166	cbiO	"cobalt ABC transporter, ATP-binding protein"	1	0.01
+TIGR01292	TRX_reduct	"thioredoxin-disulfide reductase"	1	0.01
+TIGR01993	Pyr-5-nucltdase	"pyrimidine 5'-nucleotidase"	1	0.01
+TIGR01547	phage_term_2	"phage terminase, large subunit, PBSX family"	13	0.07
+TIGR01740	pyrF	"orotidine 5'-phosphate decarboxylase"	2	0.01
+TIGR01358	DAHP_synth_II	"3-deoxy-7-phosphoheptulonate synthase"	1	0.01
+TIGR01662	HAD-SF-IIIA	"HAD hydrolase, family IIIA"	1	0.01
+TIGR00001	rpmI_bact	"ribosomal protein bL35"	1	0.01
+TIGR01393	lepA	"elongation factor 4"	1	0.01
