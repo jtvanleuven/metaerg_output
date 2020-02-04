@@ -1,0 +1,65 @@
+var mydata = {
+ "text":"Compound-process-gene",
+"state": {"opened": true},
+ "children": [
+ {
+  "text": "Oxygen",
+  "data": {"Count":3.00,"Count_pct":0.02},
+"state": {"opened": true},
+  "children": [
+   {
+    "text": "Cytochrome-(quinone)-oxidase,-bo-type",
+    "data": {"Count":3.00,"Count_pct":0.02},
+    "children": [
+     {
+      "text": "CyoE",
+      "data": {"Count":1.00,"Count_pct":0.01}
+     },
+     {
+      "text": "CyoD",
+      "data": {"Count":2.00,"Count_pct":0.01}
+     }
+    ]
+   }
+  ]
+  },
+ {
+  "text": "C1-compounds",
+  "data": {"Count":1.00,"Count_pct":0.01},
+"state": {"opened": true},
+  "children": [
+   {
+    "text": "Formate-oxidation",
+    "data": {"Count":1.00,"Count_pct":0.01},
+    "children": [
+     {
+      "text": "formate-dehydrogenase,-gamma-subunit",
+      "data": {"Count":1.00,"Count_pct":0.01}
+     }
+    ]
+   }
+  ]
+  },
+ {
+  "text": "Urea",
+  "data": {"Count":2.00,"Count_pct":0.02},
+"state": {"opened": true},
+  "children": [
+   {
+    "text": "Urease",
+    "data": {"Count":2.00,"Count_pct":0.02},
+    "children": [
+     {
+      "text": "ureB",
+      "data": {"Count":1.00,"Count_pct":0.01}
+     },
+     {
+      "text": "ureA",
+      "data": {"Count":1.00,"Count_pct":0.01}
+     }
+    ]
+   }
+  ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+tablecol = [
+{
+  "title": "Taxon",
+  "data": "taxon"
+},
+{
+  "title": "Count",
+  "data": "count"
+},
+{
+  "title": "Count%",
+  "data": "countpct"
+}
+];
+
+data = [
+  {
+   "taxon": "Bacteria;Firmicutes;Bacilli;Lactobacillales",
+   "count": 1,
+   "countpct": 25.00,
+  },
+  {
+   "taxon": "Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Bartonella",
+   "count": 1,
+   "countpct": 25.00,
+  },
+  {
+   "taxon": "Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales",
+   "count": 1,
+   "countpct": 25.00,
+  },
+  {
+   "taxon": "Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae",
+   "count": 1,
+   "countpct": 25.00,
+  }
+  ]

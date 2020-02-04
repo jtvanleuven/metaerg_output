@@ -1,0 +1,60 @@
+tablecol = [
+{
+  "title": "Compound",
+  "data": "compound"
+},
+{
+  "title": "Process",
+  "data": "process"
+},
+{
+  "title": "Gene",
+  "data": "gene"
+},
+{
+  "title": "Count",
+  "data": "count"
+},
+{
+  "title": "Count%",
+  "data": "countpct"
+}
+];
+
+data = [
+  {
+   "gene": "TIGR01583",
+   "compound": "C1 compounds",
+   "process": "Formate oxidation",
+   "count": 1,
+   "countpct": 0.01,
+  },
+  {
+   "gene": "TIGR00193",
+   "compound": "Urea",
+   "process": "Urease",
+   "count": 1,
+   "countpct": 0.01,
+  },
+  {
+   "gene": "TIGR00192",
+   "compound": "Urea",
+   "process": "Urease",
+   "count": 1,
+   "countpct": 0.01,
+  },
+  {
+   "gene": "TIGR01473",
+   "compound": "Oxygen",
+   "process": "Cytochrome (quinone) oxidase, bo type",
+   "count": 1,
+   "countpct": 0.01,
+  },
+  {
+   "gene": "TIGR02847",
+   "compound": "Oxygen",
+   "process": "Cytochrome (quinone) oxidase, bo type",
+   "count": 2,
+   "countpct": 0.01,
+  }
+  ]

@@ -1,0 +1,189 @@
+data = [
+  {
+  "geneid": "metaerg.pl|03117",
+  "contigid": "NODE_189_length_4747_cov_22.672",
+  "start": "4003",
+  "end": "4686",
+  "genelen": "684",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "12",
+  "rpt_unit_seq": "TTTCTAAACTGCCTACACGGCAGT"
+  },
+  {
+  "geneid": "metaerg.pl|05960",
+  "contigid": "NODE_1148_length_1133_cov_5.71521",
+  "start": "92",
+  "end": "300",
+  "genelen": "209",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "4",
+  "rpt_unit_seq": "ATTTCTAAACTACCTACACGGTAGTAAAC"
+  },
+  {
+  "geneid": "metaerg.pl|06662",
+  "contigid": "NODE_1587_length_873_cov_4.55134",
+  "start": "26",
+  "end": "421",
+  "genelen": "396",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "7",
+  "rpt_unit_seq": "GAGTTCCCTGTATGCACAGGGATAAACCG"
+  },
+  {
+  "geneid": "metaerg.pl|06663",
+  "contigid": "NODE_1587_length_873_cov_4.55134",
+  "start": "675",
+  "end": "825",
+  "genelen": "151",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "3",
+  "rpt_unit_seq": "GAGTTCCCTGTATGCACAGGGATAAACCG"
+  },
+  {
+  "geneid": "metaerg.pl|09089",
+  "contigid": "NODE_3724_length_448_cov_2.67684",
+  "start": "104",
+  "end": "314",
+  "genelen": "211",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "4",
+  "rpt_unit_seq": "GGTTTATCCCTGTGTATACAGGGAACAC"
+  },
+  {
+  "geneid": "metaerg.pl|11411",
+  "contigid": "NODE_6432_length_319_cov_1.67045",
+  "start": "60",
+  "end": "271",
+  "genelen": "212",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "4",
+  "rpt_unit_seq": "CGGTTTATCCCTGTGTGTACAGGGAACAC"
+  },
+  {
+  "geneid": "metaerg.pl|11421",
+  "contigid": "NODE_6451_length_318_cov_1.98479",
+  "start": "56",
+  "end": "268",
+  "genelen": "213",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "4",
+  "rpt_unit_seq": "GTGTTCCCTGTATACACAGGGATAAACCG"
+  },
+  {
+  "geneid": "metaerg.pl|11508",
+  "contigid": "NODE_6567_length_315_cov_0.811538",
+  "start": "58",
+  "end": "272",
+  "genelen": "215",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "4",
+  "rpt_unit_seq": "TTCGGTTTATCCCTGTGCATACAGGGAACAC"
+  },
+  {
+  "geneid": "metaerg.pl|11808",
+  "contigid": "NODE_6928_length_304_cov_1.36948",
+  "start": "44",
+  "end": "255",
+  "genelen": "212",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "4",
+  "rpt_unit_seq": "ATGTTCCCTGTACACACAGGGATAAACCG"
+  },
+  {
+  "geneid": "metaerg.pl|12349",
+  "contigid": "NODE_7610_length_286_cov_2.41991",
+  "start": "46",
+  "end": "280",
+  "genelen": "235",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "4",
+  "rpt_unit_seq": "AGTTGCGGCTTGACCGCATTTTCTAATCTGTTACAAC"
+  },
+  {
+  "geneid": "metaerg.pl|14856",
+  "contigid": "NODE_10996_length_246_cov_0.979058",
+  "start": "50",
+  "end": "200",
+  "genelen": "151",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "3",
+  "rpt_unit_seq": "CGGTTTATCCCTGTGTGTACAGGTAACAG"
+  },
+  {
+  "geneid": "metaerg.pl|15842",
+  "contigid": "NODE_12444_length_233_cov_2.47753",
+  "start": "34",
+  "end": "184",
+  "genelen": "151",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "3",
+  "rpt_unit_seq": "GTGTTCCCTGTATACACAGGGATAAACCG"
+  },
+  {
+  "geneid": "metaerg.pl|16341",
+  "contigid": "NODE_13201_length_227_cov_1.08721",
+  "start": "3",
+  "end": "226",
+  "genelen": "224",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "4",
+  "rpt_unit_seq": "GTTGCGGCTTGACCGCATTTTCTAAT"
+  },
+  {
+  "geneid": "metaerg.pl|17261",
+  "contigid": "NODE_14470_length_217_cov_1.14815",
+  "start": "11",
+  "end": "172",
+  "genelen": "162",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "3",
+  "rpt_unit_seq": "GTTGTAACAGATTAGAAAATGCGGTCAAGCC"
+  },
+  {
+  "geneid": "metaerg.pl|17490",
+  "contigid": "NODE_14682_length_215_cov_1.1625",
+  "start": "19",
+  "end": "168",
+  "genelen": "150",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "3",
+  "rpt_unit_seq": "AGTTTACTACCGAGTAGGTAGTTTAGAAAT"
+  },
+  {
+  "geneid": "metaerg.pl|17880",
+  "contigid": "NODE_15346_length_210_cov_1.20645",
+  "start": "49",
+  "end": "209",
+  "genelen": "161",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "3",
+  "rpt_unit_seq": "GTTGCGGCTTGACCGCATTTTCTAATC"
+  },
+  {
+  "geneid": "metaerg.pl|17937",
+  "contigid": "NODE_15390_length_210_cov_1.2",
+  "start": "29",
+  "end": "178",
+  "genelen": "150",
+  "strand": "0",
+  "feature": "repeat_region",
+  "numRepeat": "3",
+  "rpt_unit_seq": "GTGTTCCCTGTATACACAGGGATAAACC"
+  }
+ ]

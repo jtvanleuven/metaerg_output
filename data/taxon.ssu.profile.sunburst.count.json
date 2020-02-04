@@ -1,0 +1,34 @@
+data = {
+ "text":"Taxonomy",
+ "children": [
+ {
+  "text": "Bacteria",
+  "children":[
+   {
+    "text": "Proteobacteria",
+    "children":[
+     {
+      "text": "Alphaproteobacteria",
+      "children":[
+       {
+        "text": "Rhizobiales",
+        "size": 1,
+        "children":[
+         {
+          "text": "Rhizobiaceae",
+          "children":[
+           {
+            "text": "Ochrobactrum",
+            "size": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+  }
+]}

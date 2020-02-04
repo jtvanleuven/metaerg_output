@@ -1,0 +1,27 @@
+tablecol = [
+{
+  "title": "Taxon",
+  "data": "taxon"
+},
+{
+  "title": "Count",
+  "data": "count"
+},
+{
+  "title": "Count%",
+  "data": "countpct"
+}
+];
+
+data = [
+  {
+   "taxon": "Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Ochrobactrum",
+   "count": 1,
+   "countpct": 50.00,
+  },
+  {
+   "taxon": "Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales",
+   "count": 1,
+   "countpct": 50.00,
+  }
+  ]

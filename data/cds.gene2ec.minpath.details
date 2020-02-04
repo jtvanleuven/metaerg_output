@@ -1,0 +1,2940 @@
+path 1 fam0 5 fam-found 4 # PWY0-1479
+   3.1.26.12 hits 2 # 3.1.26.12
+   2.7.7.56 hits 1 # 2.7.7.56
+   3.1.13.5 hits 3 # 3.1.13.5
+   3.1.13.1 hits 11 # 3.1.13.1
+path 2 fam0 39 fam-found 21 # PWY-6146
+   4.2.1.1 hits 4 # 4.2.1.1
+   6.4.1.1 hits 1 # 6.4.1.1
+   2.7.1.40 hits 8 # 2.7.1.40
+   4.2.1.11 hits 6 # 4.2.1.11
+   5.3.1.1 hits 3 # 5.3.1.1
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.3.1.9 hits 7 # 5.3.1.9
+   2.1.1.- hits 26 # 2.1.1.-
+   1.5.1.5 hits 3 # 1.5.1.5
+   3.5.4.9 hits 3 # 3.5.4.9
+   6.3.4.3 hits 4 # 6.3.4.3
+   6.2.1.5 hits 2 # 6.2.1.5
+   4.2.1.2 hits 3 # 4.2.1.2
+   2.6.1.1 hits 11 # 2.6.1.1
+   2.6.1.2 hits 3 # 2.6.1.2
+   5.3.3.2 hits 1 # 5.3.3.2
+   2.5.1.10 hits 1 # 2.5.1.10
+   2.7.4.2 hits 1 # 2.7.4.2
+   1.1.1.34 hits 1 # 1.1.1.34
+   2.3.3.10 hits 1 # 2.3.3.10
+   2.3.1.9 hits 3 # 2.3.1.9
+path 3 fam0 4 fam-found 3 # ASPASN-PWY
+   3.5.1.1 hits 1 # 3.5.1.1
+   6.3.1.1 hits 2 # 6.3.1.1
+   2.6.1.1 hits 11 # 2.6.1.1
+path 4 fam0 8 fam-found 8 # BRANCHED-CHAIN-AA-SYN-PWY
+   4.3.1.19 hits 8 # 4.3.1.19
+   2.2.1.6 hits 9 # 2.2.1.6
+   1.1.1.86 hits 4 # 1.1.1.86
+   2.6.1.42 hits 3 # 2.6.1.42
+   4.2.1.9 hits 5 # 4.2.1.9
+   4.2.1.33 hits 3 # 4.2.1.33
+   2.3.3.13 hits 2 # 2.3.3.13
+   1.1.1.85 hits 4 # 1.1.1.85
+path 5 fam0 17 fam-found 15 # COMPLETE-ARO-PWY
+   5.4.99.5 hits 2 # 5.4.99.5
+   2.6.1.57 hits 1 # 2.6.1.57
+   4.2.1.51 hits 5 # 4.2.1.51
+   4.2.1.20 hits 6 # 4.2.1.20
+   4.1.3.27 hits 7 # 4.1.3.27
+   2.4.2.18 hits 3 # 2.4.2.18
+   5.3.1.24 hits 2 # 5.3.1.24
+   4.1.1.48 hits 2 # 4.1.1.48
+   2.5.1.54 hits 1 # 2.5.1.54
+   4.2.3.4 hits 3 # 4.2.3.4
+   4.2.1.10 hits 2 # 4.2.1.10
+   1.1.1.25 hits 3 # 1.1.1.25
+   2.7.1.71 hits 2 # 2.7.1.71
+   2.5.1.19 hits 3 # 2.5.1.19
+   4.2.3.5 hits 4 # 4.2.3.5
+path 6 fam0 18 fam-found 13 # P4-PWY
+   2.1.1.13 hits 9 # 2.1.1.13
+   2.1.1.14 hits 2 # 2.1.1.14
+   2.3.1.46 hits 1 # 2.3.1.46
+   2.7.2.4 hits 3 # 2.7.2.4
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.3.1.117 hits 4 # 2.3.1.117
+   3.5.1.18 hits 3 # 3.5.1.18
+   4.1.1.20 hits 3 # 4.1.1.20
+   5.1.1.7 hits 1 # 5.1.1.7
+   2.6.1.1 hits 11 # 2.6.1.1
+   4.2.3.1 hits 4 # 4.2.3.1
+   2.7.1.39 hits 3 # 2.7.1.39
+   1.1.1.3 hits 3 # 1.1.1.3
+path 7 fam0 4 fam-found 3 # PWY-3481
+   4.2.1.91 hits 4 # 4.2.1.91
+   5.4.99.5 hits 2 # 5.4.99.5
+   1.3.1.- hits 14 # 1.3.1.-
+path 10 fam0 14 fam-found 10 # PWY-724
+   4.1.1.20 hits 3 # 4.1.1.20
+   5.1.1.7 hits 1 # 5.1.1.7
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+   1.1.1.3 hits 3 # 1.1.1.3
+   2.1.1.10 hits 2 # 2.1.1.10
+   2.1.1.14 hits 2 # 2.1.1.14
+   2.5.1.- hits 6 # 2.5.1.-
+   2.7.1.39 hits 3 # 2.7.1.39
+   4.2.3.1 hits 4 # 4.2.3.1
+path 12 fam0 4 fam-found 4 # SER-GLYSYN-PWY
+   2.1.2.1 hits 2 # 2.1.2.1
+   3.1.3.3 hits 1 # 3.1.3.3
+   1.1.1.95 hits 4 # 1.1.1.95
+   2.6.1.52 hits 1 # 2.6.1.52
+path 13 fam0 1 fam-found 1 # ALANINE-SYN2-PWY
+   2.6.1.2 hits 3 # 2.6.1.2
+path 14 fam0 3 fam-found 2 # ALANINE-VALINESYN-PWY
+   5.1.1.1 hits 3 # 5.1.1.1
+   2.6.1.42 hits 3 # 2.6.1.42
+path 15 fam0 1 fam-found 1 # PWY0-1021
+   2.8.1.7 hits 5 # 2.8.1.7
+path 16 fam0 5 fam-found 4 # PWY0-1061
+   2.6.1.2 hits 3 # 2.6.1.2
+   2.8.1.7 hits 5 # 2.8.1.7
+   5.1.1.1 hits 3 # 5.1.1.1
+   2.6.1.42 hits 3 # 2.6.1.42
+path 17 fam0 5 fam-found 3 # ARGININE-SYN4-PWY
+   4.3.2.1 hits 4 # 4.3.2.1
+   6.3.4.5 hits 6 # 6.3.4.5
+   2.1.3.3 hits 1 # 2.1.3.3
+path 18 fam0 9 fam-found 9 # ARGSYN-PWY
+   3.5.1.16 hits 2 # 3.5.1.16
+   2.6.1.11 hits 3 # 2.6.1.11
+   1.2.1.38 hits 3 # 1.2.1.38
+   2.7.2.8 hits 2 # 2.7.2.8
+   2.3.1.1 hits 5 # 2.3.1.1
+   6.3.5.5 hits 8 # 6.3.5.5
+   2.1.3.3 hits 1 # 2.1.3.3
+   4.3.2.1 hits 4 # 4.3.2.1
+   6.3.4.5 hits 6 # 6.3.4.5
+path 19 fam0 9 fam-found 9 # ARGSYNBSUB-PWY
+   2.3.1.1 hits 5 # 2.3.1.1
+   6.3.5.5 hits 8 # 6.3.5.5
+   2.3.1.35 hits 5 # 2.3.1.35
+   2.7.2.8 hits 2 # 2.7.2.8
+   1.2.1.38 hits 3 # 1.2.1.38
+   2.6.1.11 hits 3 # 2.6.1.11
+   2.1.3.3 hits 1 # 2.1.3.3
+   4.3.2.1 hits 4 # 4.3.2.1
+   6.3.4.5 hits 6 # 6.3.4.5
+path 20 fam0 3 fam-found 3 # PWY-4983
+   4.3.2.1 hits 4 # 4.3.2.1
+   6.3.4.5 hits 6 # 6.3.4.5
+   1.14.13.39 hits 1 # 1.14.13.39
+path 21 fam0 9 fam-found 8 # PWY-5154
+   2.6.1.11 hits 3 # 2.6.1.11
+   1.2.1.38 hits 3 # 1.2.1.38
+   2.7.2.8 hits 2 # 2.7.2.8
+   2.3.1.1 hits 5 # 2.3.1.1
+   3.5.1.16 hits 2 # 3.5.1.16
+   6.3.5.5 hits 8 # 6.3.5.5
+   4.3.2.1 hits 4 # 4.3.2.1
+   6.3.4.5 hits 6 # 6.3.4.5
+path 22 fam0 1 fam-found 1 # ASPARAGINE-BIOSYNTHESIS
+   6.3.5.4 hits 1 # 6.3.5.4
+path 23 fam0 1 fam-found 1 # ASPARAGINESYN-PWY
+   6.3.1.1 hits 2 # 6.3.1.1
+path 25 fam0 2 fam-found 2 # PWY0-1325
+   6.3.1.1 hits 2 # 6.3.1.1
+   6.3.5.4 hits 1 # 6.3.5.4
+path 26 fam0 2 fam-found 1 # PWY490-4
+   6.3.5.- hits 4 # 6.3.5.-
+path 27 fam0 1 fam-found 1 # ASPARTATESYN-PWY
+   2.6.1.1 hits 11 # 2.6.1.1
+path 28 fam0 2 fam-found 1 # GLUTDEG-PWY
+   2.6.1.1 hits 11 # 2.6.1.1
+path 30 fam0 2 fam-found 1 # PWY-3981
+   1.2.1.3 hits 1 # 1.2.1.3
+path 33 fam0 2 fam-found 1 # PWY-5760
+   1.2.1.3 hits 1 # 1.2.1.3
+path 34 fam0 2 fam-found 2 # CYSTSYN-PWY
+   2.5.1.47 hits 4 # 2.5.1.47
+   2.3.1.30 hits 1 # 2.3.1.30
+path 35 fam0 2 fam-found 1 # HOMOCYSDEGR-PWY
+   4.4.1.1 hits 1 # 4.4.1.1
+path 36 fam0 5 fam-found 4 # PWY-6292
+   4.4.1.1 hits 1 # 4.4.1.1
+   2.1.1.- hits 26 # 2.1.1.-
+   3.3.1.1 hits 1 # 3.3.1.1
+   2.5.1.6 hits 5 # 2.5.1.6
+path 43 fam0 1 fam-found 1 # GLUTSYN-PWY
+   1.4.1.13 hits 13 # 1.4.1.13
+path 45 fam0 1 fam-found 1 # PWY-4341
+   1.4.7.1 hits 1 # 1.4.7.1
+path 46 fam0 6 fam-found 3 # PWY-5505
+   6.3.1.2 hits 3 # 6.3.1.2
+   1.4.7.1 hits 1 # 1.4.7.1
+   1.4.1.13 hits 13 # 1.4.1.13
+path 47 fam0 1 fam-found 1 # GLNSYN-PWY
+   6.3.1.2 hits 3 # 6.3.1.2
+path 48 fam0 1 fam-found 1 # PWY-5921
+   6.3.5.7 hits 4 # 6.3.5.7
+path 49 fam0 8 fam-found 7 # PWY-6549
+   1.1.1.42 hits 2 # 1.1.1.42
+   4.2.1.3 hits 9 # 4.2.1.3
+   6.3.1.2 hits 3 # 6.3.1.2
+   1.4.7.1 hits 1 # 1.4.7.1
+   1.1.1.41 hits 1 # 1.1.1.41
+   2.3.3.1 hits 1 # 2.3.3.1
+   2.7.9.1 hits 3 # 2.7.9.1
+path 51 fam0 1 fam-found 1 # GLYSYN-PWY
+   2.1.2.1 hits 2 # 2.1.2.1
+path 53 fam0 13 fam-found 8 # THREOCAT-PWY
+   4.3.1.19 hits 8 # 4.3.1.19
+   2.2.1.6 hits 9 # 2.2.1.6
+   1.1.1.86 hits 4 # 1.1.1.86
+   2.6.1.42 hits 3 # 2.6.1.42
+   4.2.1.9 hits 5 # 4.2.1.9
+   2.7.2.15 hits 1 # 2.7.2.15
+   2.3.1.- hits 13 # 2.3.1.-
+   1.2.1.10 hits 2 # 1.2.1.10
+path 54 fam0 9 fam-found 8 # HISTSYN-PWY
+   2.4.2.17 hits 3 # 2.4.2.17
+   3.6.1.31 hits 2 # 3.6.1.31
+   5.3.1.16 hits 3 # 5.3.1.16
+   2.4.2.- hits 5 # 2.4.2.-
+   4.2.1.19 hits 3 # 4.2.1.19
+   2.6.1.9 hits 2 # 2.6.1.9
+   3.1.3.15 hits 3 # 3.1.3.15
+   1.1.1.23 hits 3 # 1.1.1.23
+path 55 fam0 5 fam-found 5 # ILEUSYN-PWY
+   4.3.1.19 hits 8 # 4.3.1.19
+   2.2.1.6 hits 9 # 2.2.1.6
+   1.1.1.86 hits 4 # 1.1.1.86
+   2.6.1.42 hits 3 # 2.6.1.42
+   4.2.1.9 hits 5 # 4.2.1.9
+path 56 fam0 11 fam-found 11 # PWY-3001
+   4.3.1.19 hits 8 # 4.3.1.19
+   2.2.1.6 hits 9 # 2.2.1.6
+   1.1.1.86 hits 4 # 1.1.1.86
+   2.6.1.42 hits 3 # 2.6.1.42
+   4.2.1.9 hits 5 # 4.2.1.9
+   4.2.3.1 hits 4 # 4.2.3.1
+   2.7.1.39 hits 3 # 2.7.1.39
+   1.1.1.3 hits 3 # 1.1.1.3
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+   2.6.1.1 hits 11 # 2.6.1.1
+path 57 fam0 6 fam-found 4 # PWY-5101
+   2.6.1.42 hits 3 # 2.6.1.42
+   4.2.1.9 hits 5 # 4.2.1.9
+   1.1.1.86 hits 4 # 1.1.1.86
+   2.2.1.6 hits 9 # 2.2.1.6
+path 58 fam0 5 fam-found 4 # PWY-5103
+   2.6.1.42 hits 3 # 2.6.1.42
+   4.2.1.9 hits 5 # 4.2.1.9
+   1.1.1.86 hits 4 # 1.1.1.86
+   2.2.1.6 hits 9 # 2.2.1.6
+path 59 fam0 6 fam-found 4 # PWY-5104
+   2.6.1.42 hits 3 # 2.6.1.42
+   4.2.1.9 hits 5 # 4.2.1.9
+   1.1.1.86 hits 4 # 1.1.1.86
+   2.2.1.6 hits 9 # 2.2.1.6
+path 60 fam0 1 fam-found 1 # PWY-5108
+   2.6.1.42 hits 3 # 2.6.1.42
+path 61 fam0 4 fam-found 4 # LEUSYN-PWY
+   4.2.1.33 hits 3 # 4.2.1.33
+   2.3.3.13 hits 2 # 2.3.3.13
+   2.6.1.42 hits 3 # 2.6.1.42
+   1.1.1.85 hits 4 # 1.1.1.85
+path 62 fam0 9 fam-found 6 # DAPLYSINESYN-PWY
+   2.7.2.4 hits 3 # 2.7.2.4
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.3.1.117 hits 4 # 2.3.1.117
+   3.5.1.18 hits 3 # 3.5.1.18
+   4.1.1.20 hits 3 # 4.1.1.20
+   5.1.1.7 hits 1 # 5.1.1.7
+path 64 fam0 8 fam-found 4 # PWY-2941
+   5.1.1.7 hits 1 # 5.1.1.7
+   4.1.1.20 hits 3 # 4.1.1.20
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+path 67 fam0 7 fam-found 4 # PWY-5097
+   4.1.1.20 hits 3 # 4.1.1.20
+   5.1.1.7 hits 1 # 5.1.1.7
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+path 68 fam0 2 fam-found 1 # ADENOSYLHOMOCYSCAT-PWY
+   2.1.1.13 hits 9 # 2.1.1.13
+path 69 fam0 5 fam-found 3 # HOMOSER-METSYN-PWY
+   2.1.1.13 hits 9 # 2.1.1.13
+   2.1.1.14 hits 2 # 2.1.1.14
+   2.3.1.46 hits 1 # 2.3.1.46
+path 70 fam0 2 fam-found 2 # HSERMETANA-PWY
+   2.1.1.13 hits 9 # 2.1.1.13
+   2.1.1.14 hits 2 # 2.1.1.14
+path 71 fam0 9 fam-found 7 # MET-SAM-PWY
+   2.5.1.6 hits 5 # 2.5.1.6
+   1.1.1.3 hits 3 # 1.1.1.3
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+   2.1.1.13 hits 9 # 2.1.1.13
+   2.1.1.14 hits 2 # 2.1.1.14
+   2.3.1.46 hits 1 # 2.3.1.46
+path 72 fam0 8 fam-found 6 # METSYN-PWY
+   1.1.1.3 hits 3 # 1.1.1.3
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+   2.1.1.13 hits 9 # 2.1.1.13
+   2.1.1.14 hits 2 # 2.1.1.14
+   2.3.1.46 hits 1 # 2.3.1.46
+path 74 fam0 12 fam-found 8 # PWY-5345
+   2.7.7.4 hits 1 # 2.7.7.4
+   2.1.1.13 hits 9 # 2.1.1.13
+   2.1.1.14 hits 2 # 2.1.1.14
+   2.3.1.31 hits 1 # 2.3.1.31
+   1.1.1.3 hits 3 # 1.1.1.3
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+   2.6.1.1 hits 11 # 2.6.1.1
+path 75 fam0 9 fam-found 7 # PWY-5347
+   2.1.1.13 hits 9 # 2.1.1.13
+   2.1.1.14 hits 2 # 2.1.1.14
+   2.3.1.46 hits 1 # 2.3.1.46
+   1.1.1.3 hits 3 # 1.1.1.3
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+   2.6.1.1 hits 11 # 2.6.1.1
+path 76 fam0 2 fam-found 1 # PWY-5441
+   2.1.1.10 hits 2 # 2.1.1.10
+path 77 fam0 5 fam-found 4 # PWY-702
+   2.1.1.10 hits 2 # 2.1.1.10
+   2.1.1.14 hits 2 # 2.1.1.14
+   2.5.1.- hits 6 # 2.5.1.-
+   2.7.1.39 hits 3 # 2.7.1.39
+path 78 fam0 4 fam-found 4 # PWY-5041
+   2.1.1.14 hits 2 # 2.1.1.14
+   2.1.1.- hits 26 # 2.1.1.-
+   3.3.1.1 hits 1 # 3.3.1.1
+   2.5.1.6 hits 5 # 2.5.1.6
+path 79 fam0 5 fam-found 4 # PWY-6151
+   2.1.1.14 hits 2 # 2.1.1.14
+   2.1.1.- hits 26 # 2.1.1.-
+   2.5.1.6 hits 5 # 2.5.1.6
+   3.2.2.9 hits 3 # 3.2.2.9
+path 80 fam0 5 fam-found 5 # GLUTORN-PWY
+   3.5.1.16 hits 2 # 3.5.1.16
+   2.6.1.11 hits 3 # 2.6.1.11
+   1.2.1.38 hits 3 # 1.2.1.38
+   2.7.2.8 hits 2 # 2.7.2.8
+   2.3.1.1 hits 5 # 2.3.1.1
+path 81 fam0 3 fam-found 3 # HOMOSERSYN-PWY
+   1.1.1.3 hits 3 # 1.1.1.3
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+path 82 fam0 4 fam-found 2 # PWY-1186
+   2.6.1.- hits 3 # 2.6.1.-
+   1.1.1.- hits 12 # 1.1.1.-
+path 84 fam0 2 fam-found 1 # PWY-5344
+   2.3.1.31 hits 1 # 2.3.1.31
+path 88 fam0 11 fam-found 6 # PWY-5004
+   4.3.2.1 hits 4 # 4.3.2.1
+   6.3.4.5 hits 6 # 6.3.4.5
+   1.14.13.39 hits 1 # 1.14.13.39
+   2.1.3.3 hits 1 # 2.1.3.3
+   1.2.1.41 hits 6 # 1.2.1.41
+   2.7.2.11 hits 3 # 2.7.2.11
+path 89 fam0 3 fam-found 3 # PHESYN
+   5.4.99.5 hits 2 # 5.4.99.5
+   4.2.1.51 hits 5 # 4.2.1.51
+   2.6.1.57 hits 1 # 2.6.1.57
+path 90 fam0 3 fam-found 2 # PWY-3462
+   4.2.1.91 hits 4 # 4.2.1.91
+   5.4.99.5 hits 2 # 5.4.99.5
+path 92 fam0 3 fam-found 3 # PROSYN-PWY
+   2.7.2.11 hits 3 # 2.7.2.11
+   1.2.1.41 hits 6 # 1.2.1.41
+   1.5.1.2 hits 1 # 1.5.1.2
+path 93 fam0 2 fam-found 1 # PWY-3341
+   1.5.1.2 hits 1 # 1.5.1.2
+path 98 fam0 2 fam-found 1 # PWY-6196
+   4.3.1.18 hits 1 # 4.3.1.18
+path 99 fam0 3 fam-found 3 # SERSYN-PWY
+   3.1.3.3 hits 1 # 3.1.3.3
+   1.1.1.95 hits 4 # 1.1.1.95
+   2.6.1.52 hits 1 # 2.6.1.52
+path 100 fam0 2 fam-found 2 # HOMOSER-THRESYN-PWY
+   4.2.3.1 hits 4 # 4.2.3.1
+   2.7.1.39 hits 3 # 2.7.1.39
+path 101 fam0 6 fam-found 6 # THRESYN-PWY
+   2.6.1.1 hits 11 # 2.6.1.1
+   4.2.3.1 hits 4 # 4.2.3.1
+   2.7.1.39 hits 3 # 2.7.1.39
+   1.1.1.3 hits 3 # 1.1.1.3
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+path 102 fam0 5 fam-found 5 # TRPSYN-PWY
+   4.2.1.20 hits 6 # 4.2.1.20
+   4.1.3.27 hits 7 # 4.1.3.27
+   2.4.2.18 hits 3 # 2.4.2.18
+   5.3.1.24 hits 2 # 5.3.1.24
+   4.1.1.48 hits 2 # 4.1.1.48
+path 103 fam0 3 fam-found 2 # PWY-3461
+   1.3.1.- hits 14 # 1.3.1.-
+   5.4.99.5 hits 2 # 5.4.99.5
+path 104 fam0 3 fam-found 2 # PWY-6120
+   1.3.1.43 hits 1 # 1.3.1.43
+   5.4.99.5 hits 2 # 5.4.99.5
+path 106 fam0 3 fam-found 2 # TYRSYN
+   5.4.99.5 hits 2 # 5.4.99.5
+   2.6.1.57 hits 1 # 2.6.1.57
+path 107 fam0 4 fam-found 4 # VALSYN-PWY
+   2.2.1.6 hits 9 # 2.2.1.6
+   1.1.1.86 hits 4 # 1.1.1.86
+   2.6.1.42 hits 3 # 2.6.1.42
+   4.2.1.9 hits 5 # 4.2.1.9
+path 108 fam0 20 fam-found 18 # TRNA-CHARGING-PWY
+   6.1.1.14 hits 13 # 6.1.1.14
+   6.1.1.21 hits 6 # 6.1.1.21
+   6.1.1.6 hits 6 # 6.1.1.6
+   6.1.1.10 hits 8 # 6.1.1.10
+   6.1.1.20 hits 15 # 6.1.1.20
+   6.1.1.15 hits 9 # 6.1.1.15
+   6.1.1.11 hits 3 # 6.1.1.11
+   6.1.1.3 hits 6 # 6.1.1.3
+   6.1.1.1 hits 1 # 6.1.1.1
+   6.1.1.12 hits 4 # 6.1.1.12
+   6.1.1.7 hits 6 # 6.1.1.7
+   6.1.1.9 hits 10 # 6.1.1.9
+   6.1.1.4 hits 5 # 6.1.1.4
+   6.1.1.5 hits 13 # 6.1.1.5
+   6.1.1.17 hits 2 # 6.1.1.17
+   6.1.1.18 hits 1 # 6.1.1.18
+   6.1.1.16 hits 8 # 6.1.1.16
+   6.1.1.19 hits 2 # 6.1.1.19
+path 109 fam0 1 fam-found 1 # PWY-5787
+   1.10.3.- hits 12 # 1.10.3.-
+path 115 fam0 2 fam-found 1 # PWY-6457
+   6.2.1.- hits 1 # 6.2.1.-
+path 116 fam0 1 fam-found 1 # PWY-981
+   3.1.2.- hits 3 # 3.1.2.-
+path 117 fam0 2 fam-found 2 # PWY-6164
+   2.5.1.54 hits 1 # 2.5.1.54
+   4.2.3.4 hits 3 # 4.2.3.4
+path 123 fam0 8 fam-found 7 # ARO-PWY
+   2.5.1.54 hits 1 # 2.5.1.54
+   4.2.3.4 hits 3 # 4.2.3.4
+   4.2.1.10 hits 2 # 4.2.1.10
+   1.1.1.25 hits 3 # 1.1.1.25
+   2.7.1.71 hits 2 # 2.7.1.71
+   2.5.1.19 hits 3 # 2.5.1.19
+   4.2.3.5 hits 4 # 4.2.3.5
+path 124 fam0 6 fam-found 5 # PWY-6163
+   4.2.1.10 hits 2 # 4.2.1.10
+   1.1.1.25 hits 3 # 1.1.1.25
+   2.7.1.71 hits 2 # 2.7.1.71
+   2.5.1.19 hits 3 # 2.5.1.19
+   4.2.3.5 hits 4 # 4.2.3.5
+path 125 fam0 6 fam-found 5 # PWY-6165
+   4.2.1.10 hits 2 # 4.2.1.10
+   1.1.1.25 hits 3 # 1.1.1.25
+   2.7.1.71 hits 2 # 2.7.1.71
+   2.5.1.19 hits 3 # 2.5.1.19
+   4.2.3.5 hits 4 # 4.2.3.5
+path 126 fam0 4 fam-found 3 # PWY-5750
+   4.2.1.3 hits 9 # 4.2.1.3
+   2.3.3.1 hits 1 # 2.3.3.1
+   6.4.1.1 hits 1 # 6.4.1.1
+path 129 fam0 2 fam-found 1 # PWY-6333
+   1.1.1.1 hits 9 # 1.1.1.1
+path 130 fam0 12 fam-found 7 # CALVIN-PWY
+   5.3.1.6 hits 2 # 5.3.1.6
+   5.1.3.1 hits 1 # 5.1.3.1
+   3.1.3.11 hits 2 # 3.1.3.11
+   4.1.2.- hits 1 # 4.1.2.-
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.3.1.1 hits 3 # 5.3.1.1
+   2.7.2.3 hits 2 # 2.7.2.3
+path 133 fam0 2 fam-found 1 # PWY-1061
+   2.1.1.- hits 26 # 2.1.1.-
+path 137 fam0 2 fam-found 1 # PWY-862
+   3.2.1.- hits 4 # 3.2.1.-
+path 139 fam0 13 fam-found 9 # GLUCONEO-PWY
+   1.1.1.40 hits 5 # 1.1.1.40
+   2.7.9.2 hits 1 # 2.7.9.2
+   4.1.1.49 hits 3 # 4.1.1.49
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.2.3 hits 2 # 2.7.2.3
+   1.2.1.12 hits 2 # 1.2.1.12
+   4.1.2.13 hits 3 # 4.1.2.13
+   3.1.3.11 hits 2 # 3.1.3.11
+   5.3.1.9 hits 7 # 5.3.1.9
+path 140 fam0 18 fam-found 11 # PWY-6142
+   4.2.1.1 hits 4 # 4.2.1.1
+   6.4.1.1 hits 1 # 6.4.1.1
+   2.7.1.40 hits 8 # 2.7.1.40
+   4.2.1.11 hits 6 # 4.2.1.11
+   5.3.1.1 hits 3 # 5.3.1.1
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.3.1.9 hits 7 # 5.3.1.9
+   2.1.1.- hits 26 # 2.1.1.-
+   1.5.1.5 hits 3 # 1.5.1.5
+   3.5.4.9 hits 3 # 3.5.4.9
+   6.3.4.3 hits 4 # 6.3.4.3
+path 144 fam0 4 fam-found 3 # PWY-1269
+   5.3.1.13 hits 2 # 5.3.1.13
+   2.5.1.55 hits 2 # 2.5.1.55
+   2.7.7.38 hits 2 # 2.7.7.38
+path 145 fam0 6 fam-found 4 # PWY-3821
+   1.1.1.22 hits 2 # 1.1.1.22
+   2.7.7.9 hits 3 # 2.7.7.9
+   5.1.3.2 hits 2 # 5.1.3.2
+   2.7.1.6 hits 3 # 2.7.1.6
+path 147 fam0 2 fam-found 1 # PWY-4821
+   1.1.1.22 hits 2 # 1.1.1.22
+path 150 fam0 3 fam-found 2 # PWY-5111
+   2.7.7.38 hits 2 # 2.7.7.38
+   2.5.1.55 hits 2 # 2.5.1.55
+path 154 fam0 4 fam-found 2 # PWY-5661
+   2.7.1.2 hits 2 # 2.7.1.2
+   5.4.2.2 hits 7 # 5.4.2.2
+path 167 fam0 2 fam-found 1 # PWY-66
+   1.1.1.271 hits 1 # 1.1.1.271
+path 169 fam0 5 fam-found 3 # PWY0-1241
+   5.1.3.20 hits 1 # 5.1.3.20
+   2.7.7.70 hits 3 # 2.7.7.70
+   2.7.1.167 hits 3 # 2.7.1.167
+path 172 fam0 4 fam-found 4 # PWY-5659
+   2.7.7.13 hits 3 # 2.7.7.13
+   5.4.2.8 hits 1 # 5.4.2.8
+   5.3.1.8 hits 4 # 5.3.1.8
+   5.3.1.9 hits 7 # 5.3.1.9
+path 173 fam0 4 fam-found 3 # DTDPRHAMSYN-PWY
+   4.2.1.46 hits 2 # 4.2.1.46
+   1.1.1.133 hits 4 # 1.1.1.133
+   5.1.3.13 hits 1 # 5.1.3.13
+path 175 fam0 1 fam-found 1 # PWY-3221
+   4.2.1.46 hits 2 # 4.2.1.46
+path 180 fam0 2 fam-found 1 # PWY-881
+   2.4.1.- hits 12 # 2.4.1.-
+path 185 fam0 1 fam-found 1 # PWY-5342
+   2.4.1.- hits 12 # 2.4.1.-
+path 186 fam0 1 fam-found 1 # PWY-5343
+   2.4.1.- hits 12 # 2.4.1.-
+path 191 fam0 1 fam-found 1 # PWY-6403
+   2.5.1.- hits 6 # 2.5.1.-
+path 203 fam0 11 fam-found 9 # COLANSYN-PWY
+   2.7.7.13 hits 3 # 2.7.7.13
+   5.4.2.8 hits 1 # 5.4.2.8
+   5.3.1.8 hits 4 # 5.3.1.8
+   5.3.1.9 hits 7 # 5.3.1.9
+   1.1.1.271 hits 1 # 1.1.1.271
+   1.1.1.22 hits 2 # 1.1.1.22
+   2.7.7.9 hits 3 # 2.7.7.9
+   5.1.3.2 hits 2 # 5.1.3.2
+   2.7.1.6 hits 3 # 2.7.1.6
+path 204 fam0 7 fam-found 5 # ECASYN-PWY
+   4.2.1.46 hits 2 # 4.2.1.46
+   2.6.1.- hits 3 # 2.6.1.-
+   2.3.1.- hits 13 # 2.3.1.-
+   2.4.1.- hits 12 # 2.4.1.-
+   1.1.1.- hits 12 # 1.1.1.-
+path 208 fam0 8 fam-found 6 # PWY-6386
+   6.3.2.10 hits 2 # 6.3.2.10
+   6.3.2.4 hits 1 # 6.3.2.4
+   5.1.1.3 hits 5 # 5.1.1.3
+   6.3.2.9 hits 5 # 6.3.2.9
+   6.3.2.8 hits 7 # 6.3.2.8
+   2.5.1.7 hits 3 # 2.5.1.7
+path 209 fam0 8 fam-found 7 # PWY-6387
+   6.3.2.4 hits 1 # 6.3.2.4
+   6.3.2.13 hits 3 # 6.3.2.13
+   5.1.1.3 hits 5 # 5.1.1.3
+   6.3.2.9 hits 5 # 6.3.2.9
+   6.3.2.8 hits 7 # 6.3.2.8
+   6.3.2.10 hits 2 # 6.3.2.10
+   2.5.1.7 hits 3 # 2.5.1.7
+path 210 fam0 4 fam-found 4 # PWY-6397
+   2.4.1.- hits 12 # 2.4.1.-
+   2.3.1.- hits 13 # 2.3.1.-
+   5.1.3.2 hits 2 # 5.1.3.2
+   5.4.99.9 hits 1 # 5.4.99.9
+path 211 fam0 18 fam-found 15 # PWY-6404
+   2.4.1.- hits 12 # 2.4.1.-
+   2.3.1.- hits 13 # 2.3.1.-
+   5.1.3.2 hits 2 # 5.1.3.2
+   5.4.99.9 hits 1 # 5.4.99.9
+   3.6.1.- hits 5 # 3.6.1.-
+   5.3.3.2 hits 1 # 5.3.3.2
+   2.5.1.- hits 6 # 2.5.1.-
+   5.4.2.10 hits 1 # 5.4.2.10
+   2.6.1.16 hits 5 # 2.6.1.16
+   2.3.1.157 hits 3 # 2.3.1.157
+   2.7.7.23 hits 3 # 2.7.7.23
+   2.7.6.1 hits 2 # 2.7.6.1
+   4.2.1.46 hits 2 # 4.2.1.46
+   1.1.1.133 hits 4 # 1.1.1.133
+   5.1.3.13 hits 1 # 5.1.3.13
+path 212 fam0 3 fam-found 1 # PWY-6454
+   1.1.1.28 hits 2 # 1.1.1.28
+path 213 fam0 3 fam-found 1 # PWY-6455
+   6.3.2.- hits 1 # 6.3.2.-
+path 214 fam0 12 fam-found 11 # PEPTIDOGLYCANSYN-PWY
+   3.4.16.4 hits 17 # 3.4.16.4
+   2.4.1.129 hits 17 # 2.4.1.129
+   2.7.8.13 hits 5 # 2.7.8.13
+   6.3.2.4 hits 1 # 6.3.2.4
+   6.3.2.13 hits 3 # 6.3.2.13
+   5.1.1.3 hits 5 # 5.1.1.3
+   6.3.2.9 hits 5 # 6.3.2.9
+   6.3.2.8 hits 7 # 6.3.2.8
+   6.3.2.10 hits 2 # 6.3.2.10
+   2.4.1.227 hits 6 # 2.4.1.227
+   2.5.1.7 hits 3 # 2.5.1.7
+path 215 fam0 15 fam-found 10 # PWY-5265
+   2.4.1.129 hits 17 # 2.4.1.129
+   3.4.16.4 hits 17 # 3.4.16.4
+   6.3.2.10 hits 2 # 6.3.2.10
+   6.3.2.4 hits 1 # 6.3.2.4
+   5.1.1.3 hits 5 # 5.1.1.3
+   6.3.2.9 hits 5 # 6.3.2.9
+   6.3.2.8 hits 7 # 6.3.2.8
+   2.5.1.7 hits 3 # 2.5.1.7
+   2.4.1.227 hits 6 # 2.4.1.227
+   2.7.8.13 hits 5 # 2.7.8.13
+path 216 fam0 11 fam-found 10 # PWY-6385
+   2.4.1.129 hits 17 # 2.4.1.129
+   6.3.2.4 hits 1 # 6.3.2.4
+   6.3.2.13 hits 3 # 6.3.2.13
+   5.1.1.3 hits 5 # 5.1.1.3
+   6.3.2.9 hits 5 # 6.3.2.9
+   6.3.2.8 hits 7 # 6.3.2.8
+   6.3.2.10 hits 2 # 6.3.2.10
+   2.5.1.7 hits 3 # 2.5.1.7
+   2.4.1.227 hits 6 # 2.4.1.227
+   2.7.8.- hits 7 # 2.7.8.-
+path 217 fam0 14 fam-found 9 # PWY-6470
+   2.4.1.129 hits 17 # 2.4.1.129
+   2.4.1.227 hits 6 # 2.4.1.227
+   2.7.8.13 hits 5 # 2.7.8.13
+   6.3.2.10 hits 2 # 6.3.2.10
+   6.3.2.4 hits 1 # 6.3.2.4
+   5.1.1.3 hits 5 # 5.1.1.3
+   6.3.2.9 hits 5 # 6.3.2.9
+   6.3.2.8 hits 7 # 6.3.2.8
+   2.5.1.7 hits 3 # 2.5.1.7
+path 218 fam0 14 fam-found 11 # PWY-6471
+   2.4.1.129 hits 17 # 2.4.1.129
+   3.4.16.4 hits 17 # 3.4.16.4
+   6.3.1.- hits 2 # 6.3.1.-
+   2.4.1.227 hits 6 # 2.4.1.227
+   2.7.8.13 hits 5 # 2.7.8.13
+   6.3.2.10 hits 2 # 6.3.2.10
+   6.3.2.4 hits 1 # 6.3.2.4
+   5.1.1.3 hits 5 # 5.1.1.3
+   6.3.2.9 hits 5 # 6.3.2.9
+   6.3.2.8 hits 7 # 6.3.2.8
+   2.5.1.7 hits 3 # 2.5.1.7
+path 220 fam0 2 fam-found 1 # PWY-6461
+   6.3.1.- hits 2 # 6.3.1.-
+path 223 fam0 13 fam-found 10 # KDO-NAGLIPASYN-PWY
+   5.3.1.13 hits 2 # 5.3.1.13
+   2.5.1.55 hits 2 # 2.5.1.55
+   2.7.7.38 hits 2 # 2.7.7.38
+   2.3.1.- hits 13 # 2.3.1.-
+   2.3.1.129 hits 2 # 2.3.1.129
+   3.5.1.108 hits 5 # 3.5.1.108
+   2.3.1.191 hits 1 # 2.3.1.191
+   2.7.1.130 hits 2 # 2.7.1.130
+   2.4.1.182 hits 2 # 2.4.1.182
+   2.4.99.12 hits 1 # 2.4.99.12
+path 224 fam0 2 fam-found 1 # KDOSYN-PWY
+   2.4.99.12 hits 1 # 2.4.99.12
+path 225 fam0 6 fam-found 5 # NAGLIPASYN-PWY
+   2.3.1.129 hits 2 # 2.3.1.129
+   3.5.1.108 hits 5 # 3.5.1.108
+   2.3.1.191 hits 1 # 2.3.1.191
+   2.7.1.130 hits 2 # 2.7.1.130
+   2.4.1.182 hits 2 # 2.4.1.182
+path 228 fam0 9 fam-found 8 # OANTIGEN-PWY
+   5.4.2.10 hits 1 # 5.4.2.10
+   2.6.1.16 hits 5 # 2.6.1.16
+   2.3.1.157 hits 3 # 2.3.1.157
+   2.7.7.23 hits 3 # 2.7.7.23
+   4.2.1.46 hits 2 # 4.2.1.46
+   1.1.1.133 hits 4 # 1.1.1.133
+   5.1.3.13 hits 1 # 5.1.3.13
+   5.4.99.9 hits 1 # 5.4.99.9
+path 229 fam0 4 fam-found 4 # UDPNAGSYN-PWY
+   5.4.2.10 hits 1 # 5.4.2.10
+   2.6.1.16 hits 5 # 2.6.1.16
+   2.3.1.157 hits 3 # 2.3.1.157
+   2.7.7.23 hits 3 # 2.7.7.23
+path 232 fam0 5 fam-found 3 # PWY-321
+   1.1.1.- hits 12 # 1.1.1.-
+   1.14.13.- hits 5 # 1.14.13.-
+   1.2.1.- hits 5 # 1.2.1.-
+path 233 fam0 10 fam-found 3 # PWY-361
+   3.1.2.- hits 3 # 3.1.2.-
+   1.14.13.- hits 5 # 1.14.13.-
+   1.1.1.195 hits 1 # 1.1.1.195
+path 234 fam0 3 fam-found 2 # PWY-5800
+   2.4.1.- hits 12 # 2.4.1.-
+   2.4.2.- hits 5 # 2.4.2.-
+path 237 fam0 1 fam-found 1 # PWY-5196
+   2.1.1.107 hits 4 # 2.1.1.107
+path 242 fam0 4 fam-found 3 # PWY-5354
+   3.6.1.- hits 5 # 3.6.1.-
+   2.7.7.- hits 69 # 2.7.7.-
+   2.8.1.- hits 2 # 2.8.1.-
+path 246 fam0 1 fam-found 1 # PWY-5963
+   2.8.1.- hits 2 # 2.8.1.-
+path 247 fam0 2 fam-found 2 # PWY-6012
+   2.7.8.7 hits 2 # 2.7.8.7
+   3.1.4.14 hits 1 # 3.1.4.14
+path 248 fam0 5 fam-found 4 # PWY-6174
+   5.3.3.2 hits 1 # 5.3.3.2
+   1.1.1.34 hits 1 # 1.1.1.34
+   2.3.3.10 hits 1 # 2.3.3.10
+   2.3.1.9 hits 3 # 2.3.1.9
+path 249 fam0 1 fam-found 1 # PWY-6395
+   2.1.1.- hits 26 # 2.1.1.-
+path 250 fam0 1 fam-found 1 # PWY-6476
+   2.7.7.- hits 69 # 2.7.7.-
+path 251 fam0 7 fam-found 5 # PWY-922
+   5.3.3.2 hits 1 # 5.3.3.2
+   2.7.4.2 hits 1 # 2.7.4.2
+   1.1.1.34 hits 1 # 1.1.1.34
+   2.3.3.10 hits 1 # 2.3.3.10
+   2.3.1.9 hits 3 # 2.3.1.9
+path 252 fam0 2 fam-found 1 # PWY0-1433
+   1.5.1.- hits 1 # 1.5.1.-
+path 253 fam0 1 fam-found 1 # SAM-PWY
+   2.5.1.6 hits 5 # 2.5.1.6
+path 254 fam0 5 fam-found 4 # COA-PWY
+   2.7.1.33 hits 1 # 2.7.1.33
+   6.3.2.5 hits 3 # 6.3.2.5
+   4.1.1.36 hits 3 # 4.1.1.36
+   2.7.1.24 hits 3 # 2.7.1.24
+path 255 fam0 9 fam-found 6 # PANTOSYN-PWY
+   2.7.1.33 hits 1 # 2.7.1.33
+   6.3.2.5 hits 3 # 6.3.2.5
+   4.1.1.36 hits 3 # 4.1.1.36
+   2.7.1.24 hits 3 # 2.7.1.24
+   2.1.2.11 hits 4 # 2.1.2.11
+   6.3.2.1 hits 3 # 6.3.2.1
+path 256 fam0 14 fam-found 7 # PWY-4221
+   3.1.2.4 hits 2 # 3.1.2.4
+   2.1.2.11 hits 4 # 2.1.2.11
+   6.3.2.1 hits 3 # 6.3.2.1
+   2.7.1.33 hits 1 # 2.7.1.33
+   6.3.2.5 hits 3 # 6.3.2.5
+   4.1.1.36 hits 3 # 4.1.1.36
+   2.7.1.24 hits 3 # 2.7.1.24
+path 257 fam0 7 fam-found 5 # PWY-4242
+   2.7.1.33 hits 1 # 2.7.1.33
+   6.3.2.5 hits 3 # 6.3.2.5
+   4.1.1.36 hits 3 # 4.1.1.36
+   2.7.1.24 hits 3 # 2.7.1.24
+   6.3.2.1 hits 3 # 6.3.2.1
+path 260 fam0 1 fam-found 1 # PWY0-1275
+   2.8.1.8 hits 4 # 2.8.1.8
+path 261 fam0 2 fam-found 2 # PWY0-501
+   2.3.1.181 hits 2 # 2.3.1.181
+   2.8.1.8 hits 4 # 2.8.1.8
+path 263 fam0 3 fam-found 2 # NADPHOS-DEPHOS-PWY
+   3.1.3.- hits 5 # 3.1.3.-
+   2.7.1.23 hits 4 # 2.7.1.23
+path 264 fam0 5 fam-found 3 # PWY-5083
+   3.1.3.- hits 5 # 3.1.3.-
+   2.7.1.23 hits 4 # 2.7.1.23
+   1.6.1.1 hits 1 # 1.6.1.1
+path 265 fam0 10 fam-found 7 # PWY-5381
+   3.2.2.- hits 1 # 3.2.2.-
+   6.3.5.1 hits 2 # 6.3.5.1
+   2.7.7.18 hits 2 # 2.7.7.18
+   2.7.1.- hits 10 # 2.7.1.-
+   2.4.2.- hits 5 # 2.4.2.-
+   3.5.1.19 hits 1 # 3.5.1.19
+   3.1.3.5 hits 9 # 3.1.3.5
+path 270 fam0 3 fam-found 2 # PWY-5653
+   6.3.5.1 hits 2 # 6.3.5.1
+   2.7.7.18 hits 2 # 2.7.7.18
+path 273 fam0 6 fam-found 4 # PYRIDNUCSYN-PWY
+   1.4.3.16 hits 1 # 1.4.3.16
+   6.3.1.5 hits 1 # 6.3.1.5
+   6.3.5.1 hits 2 # 6.3.5.1
+   2.7.7.18 hits 2 # 2.7.7.18
+path 275 fam0 8 fam-found 6 # NONMEVIPP-PWY
+   5.3.3.2 hits 1 # 5.3.3.2
+   2.7.7.60 hits 2 # 2.7.7.60
+   2.7.1.148 hits 2 # 2.7.1.148
+   4.6.1.12 hits 2 # 4.6.1.12
+   1.1.1.267 hits 1 # 1.1.1.267
+   2.2.1.7 hits 7 # 2.2.1.7
+path 276 fam0 5 fam-found 4 # POLYISOPRENSYN-PWY
+   2.5.1.- hits 6 # 2.5.1.-
+   2.5.1.31 hits 2 # 2.5.1.31
+   5.3.3.2 hits 1 # 5.3.3.2
+   2.5.1.10 hits 1 # 2.5.1.10
+path 278 fam0 1 fam-found 1 # PWY-5783
+   2.5.1.- hits 6 # 2.5.1.-
+path 279 fam0 1 fam-found 1 # PWY-5785
+   2.5.1.31 hits 2 # 2.5.1.31
+path 280 fam0 1 fam-found 1 # PWY-5805
+   2.5.1.- hits 6 # 2.5.1.-
+path 281 fam0 1 fam-found 1 # PWY-5806
+   2.5.1.- hits 6 # 2.5.1.-
+path 283 fam0 1 fam-found 1 # PWY-5816
+   2.5.1.- hits 6 # 2.5.1.-
+path 284 fam0 1 fam-found 1 # PWY-5817
+   2.5.1.- hits 6 # 2.5.1.-
+path 285 fam0 1 fam-found 1 # PWY-5893
+   2.5.1.- hits 6 # 2.5.1.-
+path 286 fam0 5 fam-found 3 # PWY-6383
+   3.6.1.- hits 5 # 3.6.1.-
+   5.3.3.2 hits 1 # 5.3.3.2
+   2.5.1.- hits 6 # 2.5.1.-
+path 287 fam0 1 fam-found 1 # PWY-6520
+   2.5.1.- hits 6 # 2.5.1.-
+path 288 fam0 3 fam-found 2 # PWY-5123
+   5.3.3.2 hits 1 # 5.3.3.2
+   2.5.1.10 hits 1 # 2.5.1.10
+path 289 fam0 4 fam-found 2 # PWY-6577
+   1.1.1.- hits 12 # 1.1.1.-
+   2.7.1.- hits 10 # 2.7.1.-
+path 291 fam0 11 fam-found 7 # PWY-5121
+   5.3.3.2 hits 1 # 5.3.3.2
+   2.5.1.10 hits 1 # 2.5.1.10
+   2.7.7.60 hits 2 # 2.7.7.60
+   2.7.1.148 hits 2 # 2.7.1.148
+   4.6.1.12 hits 2 # 4.6.1.12
+   1.1.1.267 hits 1 # 1.1.1.267
+   2.2.1.7 hits 7 # 2.2.1.7
+path 292 fam0 10 fam-found 6 # PWY-5910
+   5.3.3.2 hits 1 # 5.3.3.2
+   2.5.1.10 hits 1 # 2.5.1.10
+   2.7.4.2 hits 1 # 2.7.4.2
+   1.1.1.34 hits 1 # 1.1.1.34
+   2.3.3.10 hits 1 # 2.3.3.10
+   2.3.1.9 hits 3 # 2.3.1.9
+path 293 fam0 3 fam-found 3 # PWY-5194
+   2.1.1.107 hits 4 # 2.1.1.107
+   4.99.1.4 hits 2 # 4.99.1.4
+   1.3.1.76 hits 2 # 1.3.1.76
+path 294 fam0 2 fam-found 2 # PWY-5064
+   1.3.1.- hits 14 # 1.3.1.-
+   2.5.1.- hits 6 # 2.5.1.-
+path 300 fam0 4 fam-found 3 # HEME-BIOSYNTHESIS-II
+   1.3.3.3 hits 2 # 1.3.3.3
+   4.99.1.1 hits 1 # 4.99.1.1
+   4.1.1.37 hits 4 # 4.1.1.37
+path 301 fam0 4 fam-found 3 # HEMESYN2-PWY
+   1.3.99.22 hits 1 # 1.3.99.22
+   4.1.1.37 hits 4 # 4.1.1.37
+   4.99.1.1 hits 1 # 4.99.1.1
+path 302 fam0 10 fam-found 8 # PWY-5918
+   1.3.3.3 hits 2 # 1.3.3.3
+   4.99.1.1 hits 1 # 4.99.1.1
+   4.1.1.37 hits 4 # 4.1.1.37
+   6.1.1.17 hits 2 # 6.1.1.17
+   1.2.1.70 hits 3 # 1.2.1.70
+   5.4.3.8 hits 4 # 5.4.3.8
+   4.2.1.24 hits 1 # 4.2.1.24
+   2.5.1.61 hits 5 # 2.5.1.61
+path 303 fam0 8 fam-found 5 # PWY-5920
+   1.3.3.3 hits 2 # 1.3.3.3
+   4.99.1.1 hits 1 # 4.99.1.1
+   4.1.1.37 hits 4 # 4.1.1.37
+   2.5.1.61 hits 5 # 2.5.1.61
+   4.2.1.24 hits 1 # 4.2.1.24
+path 304 fam0 6 fam-found 4 # PWY0-1415
+   1.3.99.22 hits 1 # 1.3.99.22
+   4.1.1.37 hits 4 # 4.1.1.37
+   4.99.1.1 hits 1 # 4.99.1.1
+   1.3.3.3 hits 2 # 1.3.3.3
+path 306 fam0 1 fam-found 1 # PWY-5851
+   2.5.1.74 hits 1 # 2.5.1.74
+path 307 fam0 1 fam-found 1 # PWY-5852
+   2.5.1.74 hits 1 # 2.5.1.74
+path 308 fam0 1 fam-found 1 # PWY-5853
+   2.5.1.74 hits 1 # 2.5.1.74
+path 312 fam0 2 fam-found 1 # PWY-6262
+   2.5.1.- hits 6 # 2.5.1.-
+path 315 fam0 1 fam-found 1 # MENAQUINONESYN-PWY
+   2.1.1.163 hits 4 # 2.1.1.163
+path 316 fam0 10 fam-found 5 # PWY-5838
+   2.5.1.74 hits 1 # 2.5.1.74
+   2.1.1.163 hits 4 # 2.1.1.163
+   3.1.2.- hits 3 # 3.1.2.-
+   6.2.1.26 hits 1 # 6.2.1.26
+   2.5.1.- hits 6 # 2.5.1.-
+path 317 fam0 2 fam-found 2 # PWY-5839
+   2.1.1.163 hits 4 # 2.1.1.163
+   2.5.1.74 hits 1 # 2.5.1.74
+path 319 fam0 1 fam-found 1 # PWY-5844
+   2.1.1.163 hits 4 # 2.1.1.163
+path 320 fam0 10 fam-found 5 # PWY-5845
+   2.5.1.74 hits 1 # 2.5.1.74
+   2.5.1.- hits 6 # 2.5.1.-
+   2.1.1.163 hits 4 # 2.1.1.163
+   3.1.2.- hits 3 # 3.1.2.-
+   6.2.1.26 hits 1 # 6.2.1.26
+path 321 fam0 1 fam-found 1 # PWY-5849
+   2.1.1.163 hits 4 # 2.1.1.163
+path 323 fam0 2 fam-found 2 # PWY-5890
+   2.1.1.163 hits 4 # 2.1.1.163
+   2.5.1.74 hits 1 # 2.5.1.74
+path 324 fam0 2 fam-found 2 # PWY-5891
+   2.1.1.163 hits 4 # 2.1.1.163
+   2.5.1.74 hits 1 # 2.5.1.74
+path 325 fam0 2 fam-found 2 # PWY-5892
+   2.1.1.163 hits 4 # 2.1.1.163
+   2.5.1.74 hits 1 # 2.5.1.74
+path 326 fam0 2 fam-found 2 # PWY-5895
+   2.1.1.163 hits 4 # 2.1.1.163
+   2.5.1.74 hits 1 # 2.5.1.74
+path 327 fam0 10 fam-found 5 # PWY-5896
+   2.5.1.- hits 6 # 2.5.1.-
+   2.1.1.163 hits 4 # 2.1.1.163
+   2.5.1.74 hits 1 # 2.5.1.74
+   3.1.2.- hits 3 # 3.1.2.-
+   6.2.1.26 hits 1 # 6.2.1.26
+path 328 fam0 10 fam-found 5 # PWY-5897
+   2.5.1.- hits 6 # 2.5.1.-
+   2.1.1.163 hits 4 # 2.1.1.163
+   2.5.1.74 hits 1 # 2.5.1.74
+   3.1.2.- hits 3 # 3.1.2.-
+   6.2.1.26 hits 1 # 6.2.1.26
+path 329 fam0 10 fam-found 5 # PWY-5898
+   2.5.1.- hits 6 # 2.5.1.-
+   2.1.1.163 hits 4 # 2.1.1.163
+   2.5.1.74 hits 1 # 2.5.1.74
+   3.1.2.- hits 3 # 3.1.2.-
+   6.2.1.26 hits 1 # 6.2.1.26
+path 330 fam0 10 fam-found 5 # PWY-5899
+   2.5.1.- hits 6 # 2.5.1.-
+   2.1.1.163 hits 4 # 2.1.1.163
+   2.5.1.74 hits 1 # 2.5.1.74
+   3.1.2.- hits 3 # 3.1.2.-
+   6.2.1.26 hits 1 # 6.2.1.26
+path 331 fam0 3 fam-found 2 # PWY-6263
+   2.5.1.- hits 6 # 2.5.1.-
+   2.1.1.163 hits 4 # 2.1.1.163
+path 332 fam0 1 fam-found 1 # PWY-5027
+   2.5.1.- hits 6 # 2.5.1.-
+path 334 fam0 2 fam-found 1 # PWY-1581
+   2.1.1.- hits 26 # 2.1.1.-
+path 335 fam0 4 fam-found 2 # PWY-5864
+   2.5.1.- hits 6 # 2.5.1.-
+   2.1.1.- hits 26 # 2.1.1.-
+path 339 fam0 5 fam-found 3 # PWY-5870
+   2.5.1.39 hits 1 # 2.5.1.39
+   1.14.14.- hits 1 # 1.14.14.-
+   2.1.1.- hits 26 # 2.1.1.-
+path 343 fam0 5 fam-found 3 # PWY3O-19
+   2.5.1.39 hits 1 # 2.5.1.39
+   2.1.1.- hits 26 # 2.1.1.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 344 fam0 5 fam-found 3 # UBISYN-PWY
+   2.5.1.39 hits 1 # 2.5.1.39
+   1.14.14.- hits 1 # 1.14.14.-
+   2.1.1.- hits 26 # 2.1.1.-
+path 345 fam0 2 fam-found 1 # GLUT-REDOX-PWY
+   1.8.1.7 hits 4 # 1.8.1.7
+path 346 fam0 2 fam-found 2 # GLUTATHIONESYN-PWY
+   6.3.2.3 hits 6 # 6.3.2.3
+   6.3.2.2 hits 6 # 6.3.2.2
+path 347 fam0 6 fam-found 4 # PWY-4041
+   3.5.2.9 hits 3 # 3.5.2.9
+   3.4.11.2 hits 3 # 3.4.11.2
+   6.3.2.3 hits 6 # 6.3.2.3
+   6.3.2.2 hits 6 # 6.3.2.2
+path 353 fam0 1 fam-found 1 # THIOREDOX-PWY
+   1.8.1.9 hits 3 # 1.8.1.9
+path 356 fam0 6 fam-found 5 # PWY-5188
+   6.1.1.17 hits 2 # 6.1.1.17
+   1.2.1.70 hits 3 # 1.2.1.70
+   5.4.3.8 hits 4 # 5.4.3.8
+   4.2.1.24 hits 1 # 4.2.1.24
+   2.5.1.61 hits 5 # 2.5.1.61
+path 357 fam0 4 fam-found 2 # PWY-5189
+   2.5.1.61 hits 5 # 2.5.1.61
+   4.2.1.24 hits 1 # 4.2.1.24
+path 360 fam0 2 fam-found 1 # PWY-6415
+   1.1.1.22 hits 2 # 1.1.1.22
+path 361 fam0 8 fam-found 6 # PWY-882
+   2.7.7.13 hits 3 # 2.7.7.13
+   5.4.2.8 hits 1 # 5.4.2.8
+   5.3.1.8 hits 4 # 5.3.1.8
+   2.7.7.- hits 69 # 2.7.7.-
+   3.1.3.- hits 5 # 3.1.3.-
+   1.1.1.- hits 12 # 1.1.1.-
+path 366 fam0 11 fam-found 9 # BIOTIN-BIOSYNTHESIS-PWY
+   2.6.1.62 hits 1 # 2.6.1.62
+   2.8.1.6 hits 4 # 2.8.1.6
+   2.3.1.47 hits 1 # 2.3.1.47
+   2.3.1.180 hits 2 # 2.3.1.180
+   2.1.1.- hits 26 # 2.1.1.-
+   1.1.1.100 hits 1 # 1.1.1.100
+   4.2.1.59 hits 1 # 4.2.1.59
+   2.3.1.41 hits 4 # 2.3.1.41
+   3.1.1.- hits 2 # 3.1.1.-
+path 367 fam0 5 fam-found 3 # PWY-5005
+   2.3.1.47 hits 1 # 2.3.1.47
+   2.6.1.62 hits 1 # 2.6.1.62
+   2.8.1.6 hits 4 # 2.8.1.6
+path 368 fam0 3 fam-found 2 # PWY0-1507
+   2.6.1.62 hits 1 # 2.6.1.62
+   2.8.1.6 hits 4 # 2.8.1.6
+path 369 fam0 8 fam-found 7 # PWY-6519
+   2.3.1.47 hits 1 # 2.3.1.47
+   2.3.1.180 hits 2 # 2.3.1.180
+   2.1.1.- hits 26 # 2.1.1.-
+   1.1.1.100 hits 1 # 1.1.1.100
+   4.2.1.59 hits 1 # 4.2.1.59
+   2.3.1.41 hits 4 # 2.3.1.41
+   3.1.1.- hits 2 # 3.1.1.-
+path 370 fam0 2 fam-found 1 # PWY-6578
+   2.3.1.47 hits 1 # 2.3.1.47
+path 373 fam0 9 fam-found 5 # PWY-5508
+   2.4.2.21 hits 1 # 2.4.2.21
+   2.7.8.26 hits 2 # 2.7.8.26
+   6.3.1.10 hits 1 # 6.3.1.10
+   6.3.5.10 hits 1 # 6.3.5.10
+   2.5.1.17 hits 2 # 2.5.1.17
+path 374 fam0 7 fam-found 5 # PWY-5509
+   2.4.2.21 hits 1 # 2.4.2.21
+   2.7.8.26 hits 2 # 2.7.8.26
+   6.3.1.10 hits 1 # 6.3.1.10
+   6.3.5.10 hits 1 # 6.3.5.10
+   2.5.1.17 hits 2 # 2.5.1.17
+path 376 fam0 6 fam-found 4 # COBALSYN-PWY
+   2.5.1.17 hits 2 # 2.5.1.17
+   2.4.2.21 hits 1 # 2.4.2.21
+   2.7.1.156 hits 1 # 2.7.1.156
+   2.7.8.26 hits 2 # 2.7.8.26
+path 377 fam0 20 fam-found 13 # P381-PWY
+   2.4.2.21 hits 1 # 2.4.2.21
+   2.7.8.26 hits 2 # 2.7.8.26
+   6.3.1.10 hits 1 # 6.3.1.10
+   6.3.5.10 hits 1 # 6.3.5.10
+   2.5.1.17 hits 2 # 2.5.1.17
+   2.1.1.107 hits 4 # 2.1.1.107
+   6.6.1.2 hits 4 # 6.6.1.2
+   6.3.5.9 hits 2 # 6.3.5.9
+   1.3.1.54 hits 2 # 1.3.1.54
+   2.1.1.132 hits 2 # 2.1.1.132
+   2.1.1.133 hits 4 # 2.1.1.133
+   2.1.1.131 hits 3 # 2.1.1.131
+   2.1.1.130 hits 2 # 2.1.1.130
+path 378 fam0 14 fam-found 9 # PWY-5507
+   2.4.2.21 hits 1 # 2.4.2.21
+   2.7.8.26 hits 2 # 2.7.8.26
+   6.3.1.10 hits 1 # 6.3.1.10
+   6.3.5.10 hits 1 # 6.3.5.10
+   2.5.1.17 hits 2 # 2.5.1.17
+   2.1.1.- hits 26 # 2.1.1.-
+   2.1.1.133 hits 4 # 2.1.1.133
+   2.1.1.131 hits 3 # 2.1.1.131
+   2.1.1.107 hits 4 # 2.1.1.107
+path 379 fam0 1 fam-found 1 # PWY-6268
+   2.5.1.17 hits 2 # 2.5.1.17
+path 380 fam0 7 fam-found 4 # PWY-6269
+   2.5.1.17 hits 2 # 2.5.1.17
+   6.3.1.10 hits 1 # 6.3.1.10
+   2.4.2.21 hits 1 # 2.4.2.21
+   2.7.8.26 hits 2 # 2.7.8.26
+path 382 fam0 8 fam-found 4 # PWY-6168
+   4.1.99.12 hits 1 # 4.1.99.12
+   2.5.1.9 hits 2 # 2.5.1.9
+   2.5.1.78 hits 1 # 2.5.1.78
+   3.5.4.25 hits 3 # 3.5.4.25
+path 384 fam0 8 fam-found 4 # RIBOSYN2-PWY
+   3.5.4.25 hits 3 # 3.5.4.25
+   4.1.99.12 hits 1 # 4.1.99.12
+   2.5.1.78 hits 1 # 2.5.1.78
+   2.5.1.9 hits 2 # 2.5.1.9
+path 385 fam0 10 fam-found 10 # 1CMET2-PWY
+   6.3.2.12 hits 2 # 6.3.2.12
+   2.1.1.45 hits 3 # 2.1.1.45
+   2.1.1.13 hits 9 # 2.1.1.13
+   1.5.1.20 hits 2 # 1.5.1.20
+   1.5.1.5 hits 3 # 1.5.1.5
+   2.1.2.1 hits 2 # 2.1.2.1
+   1.5.1.3 hits 2 # 1.5.1.3
+   3.5.1.10 hits 1 # 3.5.1.10
+   3.5.4.9 hits 3 # 3.5.4.9
+   6.3.4.3 hits 4 # 6.3.4.3
+path 386 fam0 11 fam-found 8 # FOLSYN-PWY
+   2.1.2.2 hits 1 # 2.1.2.2
+   3.5.4.16 hits 1 # 3.5.4.16
+   3.6.1.- hits 5 # 3.6.1.-
+   2.7.6.3 hits 1 # 2.7.6.3
+   1.5.1.3 hits 2 # 1.5.1.3
+   6.3.2.12 hits 2 # 6.3.2.12
+   3.5.4.9 hits 3 # 3.5.4.9
+   2.5.1.15 hits 3 # 2.5.1.15
+path 387 fam0 3 fam-found 2 # PWY-2161
+   2.1.2.1 hits 2 # 2.1.2.1
+   6.3.4.3 hits 4 # 6.3.4.3
+path 389 fam0 11 fam-found 8 # PWY-2201
+   6.3.3.2 hits 2 # 6.3.3.2
+   1.5.1.20 hits 2 # 1.5.1.20
+   2.1.1.13 hits 9 # 2.1.1.13
+   1.5.1.5 hits 3 # 1.5.1.5
+   2.1.2.1 hits 2 # 2.1.2.1
+   3.5.1.10 hits 1 # 3.5.1.10
+   3.5.4.9 hits 3 # 3.5.4.9
+   6.3.4.3 hits 4 # 6.3.4.3
+path 390 fam0 10 fam-found 10 # PWY-3841
+   2.1.1.13 hits 9 # 2.1.1.13
+   6.3.3.2 hits 2 # 6.3.3.2
+   2.1.1.45 hits 3 # 2.1.1.45
+   1.5.1.20 hits 2 # 1.5.1.20
+   6.3.4.3 hits 4 # 6.3.4.3
+   3.5.4.9 hits 3 # 3.5.4.9
+   1.5.1.5 hits 3 # 1.5.1.5
+   2.1.2.1 hits 2 # 2.1.2.1
+   1.5.1.3 hits 2 # 1.5.1.3
+   6.3.2.12 hits 2 # 6.3.2.12
+path 391 fam0 4 fam-found 3 # PWY-6147
+   3.5.4.16 hits 1 # 3.5.4.16
+   3.6.1.- hits 5 # 3.6.1.-
+   2.7.6.3 hits 1 # 2.7.6.3
+path 393 fam0 6 fam-found 5 # PWY-6548
+   3.5.1.- hits 8 # 3.5.1.-
+   2.7.6.3 hits 1 # 2.7.6.3
+   1.5.1.3 hits 2 # 1.5.1.3
+   6.3.2.12 hits 2 # 6.3.2.12
+   2.5.1.15 hits 3 # 2.5.1.15
+path 394 fam0 3 fam-found 2 # PANTO-PWY
+   2.1.2.11 hits 4 # 2.1.2.11
+   6.3.2.1 hits 3 # 6.3.2.1
+path 395 fam0 2 fam-found 1 # PWY-3961
+   6.3.2.1 hits 3 # 6.3.2.1
+path 396 fam0 8 fam-found 5 # THISYN-PWY
+   2.7.7.- hits 69 # 2.7.7.-
+   2.2.1.7 hits 7 # 2.2.1.7
+   2.7.1.49 hits 2 # 2.7.1.49
+   2.5.1.3 hits 3 # 2.5.1.3
+   2.7.4.16 hits 1 # 2.7.4.16
+path 397 fam0 5 fam-found 4 # THISYNARA-PWY
+   2.7.6.2 hits 1 # 2.7.6.2
+   3.1.3.2 hits 1 # 3.1.3.2
+   2.7.1.49 hits 2 # 2.7.1.49
+   2.5.1.3 hits 3 # 2.5.1.3
+path 398 fam0 3 fam-found 2 # PLPSAL-PWY
+   2.7.1.35 hits 1 # 2.7.1.35
+   2.7.1.- hits 10 # 2.7.1.-
+path 399 fam0 9 fam-found 6 # PWY0-845
+   1.1.1.262 hits 4 # 1.1.1.262
+   2.6.1.52 hits 1 # 2.6.1.52
+   2.6.99.2 hits 1 # 2.6.99.2
+   2.2.1.7 hits 7 # 2.2.1.7
+   2.7.1.35 hits 1 # 2.7.1.35
+   2.7.1.- hits 10 # 2.7.1.-
+path 400 fam0 7 fam-found 4 # PYRIDOXSYN-PWY
+   1.1.1.262 hits 4 # 1.1.1.262
+   2.6.1.52 hits 1 # 2.6.1.52
+   2.6.99.2 hits 1 # 2.6.99.2
+   2.2.1.7 hits 7 # 2.2.1.7
+path 403 fam0 5 fam-found 4 # PWY-6575
+   1.1.1.- hits 12 # 1.1.1.-
+   1.14.14.- hits 1 # 1.14.14.-
+   1.2.1.3 hits 1 # 1.2.1.3
+   2.1.1.- hits 26 # 2.1.1.-
+path 408 fam0 2 fam-found 1 # PWY-5271
+   1.-.-.- hits 31 # 1.-.-.-
+path 409 fam0 1 fam-found 1 # PWY-5272
+   2.4.1.- hits 12 # 2.4.1.-
+path 411 fam0 1 fam-found 1 # PWY-1822
+   3.5.1.- hits 8 # 3.5.1.-
+path 412 fam0 1 fam-found 1 # PWY-1921
+   3.1.-.- hits 73 # 3.1.-.-
+path 418 fam0 2 fam-found 1 # PWY-6303
+   2.1.1.- hits 26 # 2.1.1.-
+path 420 fam0 6 fam-found 3 # PWY-2582
+   1.14.13.- hits 5 # 1.14.13.-
+   1.14.-.- hits 3 # 1.14.-.-
+   1.3.99.- hits 2 # 1.3.99.-
+path 421 fam0 5 fam-found 3 # PWY-699
+   1.14.-.- hits 3 # 1.14.-.-
+   1.14.13.- hits 5 # 1.14.13.-
+   1.3.99.- hits 2 # 1.3.99.-
+path 422 fam0 3 fam-found 2 # PWY-2681
+   2.5.1.- hits 6 # 2.5.1.-
+   3.2.2.- hits 1 # 3.2.2.-
+path 423 fam0 1 fam-found 1 # PWY-2781
+   2.5.1.75 hits 2 # 2.5.1.75
+path 424 fam0 1 fam-found 1 # PWY-2881
+   2.4.1.- hits 12 # 2.4.1.-
+path 425 fam0 1 fam-found 1 # PWY-2901
+   2.4.1.- hits 12 # 2.4.1.-
+path 430 fam0 3 fam-found 1 # PWY-5035
+   1.14.11.- hits 1 # 1.14.11.-
+path 431 fam0 1 fam-found 1 # PWY-5036
+   1.14.11.- hits 1 # 1.14.11.-
+path 435 fam0 1 fam-found 1 # PWY-5070
+   1.14.11.- hits 1 # 1.14.11.-
+path 439 fam0 1 fam-found 1 # PWY-6297
+   2.4.1.- hits 12 # 2.4.1.-
+path 441 fam0 1 fam-found 1 # KDO-LIPASYN-PWY
+   2.3.1.- hits 13 # 2.3.1.-
+path 442 fam0 5 fam-found 4 # LIPA-CORESYN-PWY
+   2.4.-.- hits 6 # 2.4.-.-
+   2.4.1.58 hits 1 # 2.4.1.58
+   2.7.1.- hits 10 # 2.7.1.-
+   2.-.-.- hits 6 # 2.-.-.-
+path 443 fam0 18 fam-found 14 # LPSSYN-PWY
+   2.4.-.- hits 6 # 2.4.-.-
+   2.4.1.58 hits 1 # 2.4.1.58
+   2.7.1.- hits 10 # 2.7.1.-
+   2.-.-.- hits 6 # 2.-.-.-
+   2.3.1.- hits 13 # 2.3.1.-
+   2.4.99.12 hits 1 # 2.4.99.12
+   5.3.1.13 hits 2 # 5.3.1.13
+   2.5.1.55 hits 2 # 2.5.1.55
+   2.7.7.38 hits 2 # 2.7.7.38
+   2.3.1.129 hits 2 # 2.3.1.129
+   3.5.1.108 hits 5 # 3.5.1.108
+   2.3.1.191 hits 1 # 2.3.1.191
+   2.7.1.130 hits 2 # 2.7.1.130
+   2.4.1.182 hits 2 # 2.4.1.182
+path 445 fam0 8 fam-found 2 # PWY-4762
+   3.1.4.4 hits 1 # 3.1.4.4
+   2.1.1.- hits 26 # 2.1.1.-
+path 446 fam0 8 fam-found 4 # PWY-5129
+   2.4.1.- hits 12 # 2.4.1.-
+   2.4.1.80 hits 1 # 2.4.1.80
+   2.3.1.- hits 13 # 2.3.1.-
+   1.14.-.- hits 3 # 1.14.-.-
+path 452 fam0 2 fam-found 1 # PWY-6129
+   2.5.1.- hits 6 # 2.5.1.-
+path 453 fam0 1 fam-found 1 # PWY-6453
+   3.1.2.- hits 3 # 3.1.2.-
+path 455 fam0 3 fam-found 2 # PWY0-1264
+   6.4.1.2 hits 1 # 6.4.1.2
+   6.3.4.14 hits 7 # 6.3.4.14
+path 459 fam0 2 fam-found 1 # SOPHOROSYLOXYDOCOSANOATE-SYN-PWY
+   2.3.1.- hits 13 # 2.3.1.-
+path 463 fam0 1 fam-found 1 # PWY-3542
+   2.1.1.- hits 26 # 2.1.1.-
+path 465 fam0 5 fam-found 4 # FASYN-ELONG-PWY
+   2.3.1.41 hits 4 # 2.3.1.41
+   1.1.1.100 hits 1 # 1.1.1.100
+   1.3.1.9 hits 4 # 1.3.1.9
+   4.2.1.- hits 2 # 4.2.1.-
+path 466 fam0 6 fam-found 5 # FASYN-INITIAL-PWY
+   2.3.1.41 hits 4 # 2.3.1.41
+   2.3.1.- hits 13 # 2.3.1.-
+   2.3.1.180 hits 2 # 2.3.1.180
+   2.3.1.39 hits 1 # 2.3.1.39
+   6.4.1.2 hits 1 # 6.4.1.2
+path 467 fam0 3 fam-found 3 # PWY-4381
+   2.3.1.180 hits 2 # 2.3.1.180
+   2.3.1.39 hits 1 # 2.3.1.39
+   6.4.1.2 hits 1 # 6.4.1.2
+path 468 fam0 4 fam-found 2 # PWY-5080
+   1.1.1.36 hits 1 # 1.1.1.36
+   2.3.1.- hits 13 # 2.3.1.-
+path 469 fam0 12 fam-found 7 # PWY-5156
+   1.3.1.9 hits 4 # 1.3.1.9
+   1.1.1.100 hits 1 # 1.1.1.100
+   2.3.1.41 hits 4 # 2.3.1.41
+   4.2.1.59 hits 1 # 4.2.1.59
+   2.3.1.180 hits 2 # 2.3.1.180
+   2.3.1.39 hits 1 # 2.3.1.39
+   6.4.1.2 hits 1 # 6.4.1.2
+path 470 fam0 2 fam-found 2 # PWY-5965
+   2.3.1.- hits 13 # 2.3.1.-
+   2.3.1.41 hits 4 # 2.3.1.41
+path 471 fam0 2 fam-found 1 # PWY-5966
+   2.3.1.41 hits 4 # 2.3.1.41
+path 473 fam0 4 fam-found 2 # PWY-5973
+   1.1.1.100 hits 1 # 1.1.1.100
+   2.3.1.179 hits 4 # 2.3.1.179
+path 475 fam0 23 fam-found 15 # PWY-6113
+   2.3.1.- hits 13 # 2.3.1.-
+   3.6.3.- hits 44 # 3.6.3.-
+   1.-.-.- hits 31 # 1.-.-.-
+   2.1.1.- hits 26 # 2.1.1.-
+   6.4.1.3 hits 2 # 6.4.1.3
+   2.1.1.79 hits 2 # 2.1.1.79
+   1.1.1.100 hits 1 # 1.1.1.100
+   2.3.1.179 hits 4 # 2.3.1.179
+   2.3.1.41 hits 4 # 2.3.1.41
+   4.2.1.- hits 2 # 4.2.1.-
+   1.3.1.9 hits 4 # 1.3.1.9
+   4.2.1.59 hits 1 # 4.2.1.59
+   2.3.1.180 hits 2 # 2.3.1.180
+   2.3.1.39 hits 1 # 2.3.1.39
+   6.4.1.2 hits 1 # 6.4.1.2
+path 477 fam0 15 fam-found 8 # PWY-6285
+   1.1.1.100 hits 1 # 1.1.1.100
+   2.3.1.179 hits 4 # 2.3.1.179
+   2.3.1.41 hits 4 # 2.3.1.41
+   4.2.1.59 hits 1 # 4.2.1.59
+   1.3.1.9 hits 4 # 1.3.1.9
+   2.3.1.180 hits 2 # 2.3.1.180
+   2.3.1.39 hits 1 # 2.3.1.39
+   6.4.1.2 hits 1 # 6.4.1.2
+path 478 fam0 2 fam-found 1 # PWY-6465
+   1.14.14.- hits 1 # 1.14.14.-
+path 479 fam0 1 fam-found 1 # PWY-6468
+   1.14.14.- hits 1 # 1.14.14.-
+path 481 fam0 13 fam-found 9 # PWY0-881
+   2.3.1.41 hits 4 # 2.3.1.41
+   1.1.1.100 hits 1 # 1.1.1.100
+   1.3.1.9 hits 4 # 1.3.1.9
+   4.2.1.- hits 2 # 4.2.1.-
+   2.3.1.- hits 13 # 2.3.1.-
+   2.3.1.180 hits 2 # 2.3.1.180
+   2.3.1.39 hits 1 # 2.3.1.39
+   6.4.1.2 hits 1 # 6.4.1.2
+   4.2.1.59 hits 1 # 4.2.1.59
+path 482 fam0 14 fam-found 10 # PWYG-321
+   2.3.1.- hits 13 # 2.3.1.-
+   3.6.3.- hits 44 # 3.6.3.-
+   1.-.-.- hits 31 # 1.-.-.-
+   2.1.1.- hits 26 # 2.1.1.-
+   6.4.1.3 hits 2 # 6.4.1.3
+   2.1.1.79 hits 2 # 2.1.1.79
+   1.1.1.100 hits 1 # 1.1.1.100
+   2.3.1.179 hits 4 # 2.3.1.179
+   2.3.1.41 hits 4 # 2.3.1.41
+   4.2.1.- hits 2 # 4.2.1.-
+path 488 fam0 2 fam-found 1 # PWY-5996
+   3.1.2.- hits 3 # 3.1.2.-
+path 490 fam0 8 fam-found 4 # PWY-5971
+   1.3.1.9 hits 4 # 1.3.1.9
+   1.1.1.100 hits 1 # 1.1.1.100
+   2.3.1.41 hits 4 # 2.3.1.41
+   4.2.1.59 hits 1 # 4.2.1.59
+path 493 fam0 5 fam-found 3 # PWY-6282
+   2.3.1.41 hits 4 # 2.3.1.41
+   1.1.1.100 hits 1 # 1.1.1.100
+   4.2.1.59 hits 1 # 4.2.1.59
+path 494 fam0 6 fam-found 4 # PWY-5972
+   1.3.1.- hits 14 # 1.3.1.-
+   4.2.1.59 hits 1 # 4.2.1.59
+   1.1.1.- hits 12 # 1.1.1.-
+   2.3.1.- hits 13 # 2.3.1.-
+path 495 fam0 5 fam-found 4 # PWY-5989
+   1.3.1.9 hits 4 # 1.3.1.9
+   4.2.1.59 hits 1 # 4.2.1.59
+   1.1.1.100 hits 1 # 1.1.1.100
+   2.3.1.41 hits 4 # 2.3.1.41
+path 498 fam0 5 fam-found 3 # PWY-5367
+   1.3.1.- hits 14 # 1.3.1.-
+   4.2.1.- hits 2 # 4.2.1.-
+   1.1.1.100 hits 1 # 1.1.1.100
+path 500 fam0 1 fam-found 1 # PWY-6014
+   1.14.13.- hits 5 # 1.14.13.-
+path 501 fam0 1 fam-found 1 # PWY-4942
+   2.1.1.79 hits 2 # 2.1.1.79
+path 502 fam0 1 fam-found 1 # PWY0-541
+   2.1.1.79 hits 2 # 2.1.1.79
+path 503 fam0 9 fam-found 7 # PHOSLIPSYN-PWY
+   1.1.1.94 hits 3 # 1.1.1.94
+   2.7.7.41 hits 2 # 2.7.7.41
+   4.1.1.65 hits 2 # 4.1.1.65
+   2.7.8.8 hits 3 # 2.7.8.8
+   2.7.8.5 hits 2 # 2.7.8.5
+   2.7.8.- hits 7 # 2.7.8.-
+   3.1.3.27 hits 1 # 3.1.3.27
+path 504 fam0 21 fam-found 8 # PHOSLIPSYN2-PWY
+   3.1.3.27 hits 1 # 3.1.3.27
+   2.7.8.5 hits 2 # 2.7.8.5
+   1.1.1.94 hits 3 # 1.1.1.94
+   2.7.7.41 hits 2 # 2.7.7.41
+   4.1.1.65 hits 2 # 4.1.1.65
+   2.7.8.8 hits 3 # 2.7.8.8
+   2.7.8.- hits 7 # 2.7.8.-
+   2.7.7.- hits 69 # 2.7.7.-
+path 512 fam0 2 fam-found 2 # PWY-5269
+   3.1.3.27 hits 1 # 3.1.3.27
+   2.7.8.5 hits 2 # 2.7.8.5
+path 513 fam0 3 fam-found 3 # PWY-5668
+   2.7.8.5 hits 2 # 2.7.8.5
+   2.7.8.- hits 7 # 2.7.8.-
+   3.1.3.27 hits 1 # 3.1.3.27
+path 514 fam0 4 fam-found 2 # PWY-5667
+   1.1.1.94 hits 3 # 1.1.1.94
+   2.7.7.41 hits 2 # 2.7.7.41
+path 515 fam0 4 fam-found 3 # PWY-5981
+   2.3.1.- hits 13 # 2.3.1.-
+   1.1.1.94 hits 3 # 1.1.1.94
+   2.7.7.41 hits 2 # 2.7.7.41
+path 516 fam0 4 fam-found 2 # PWY0-1319
+   1.1.1.94 hits 3 # 1.1.1.94
+   2.7.7.41 hits 2 # 2.7.7.41
+path 520 fam0 4 fam-found 2 # PWY4FS-4
+   2.7.8.- hits 7 # 2.7.8.-
+   2.7.7.- hits 69 # 2.7.7.-
+path 521 fam0 2 fam-found 2 # PWY-5669
+   4.1.1.65 hits 2 # 4.1.1.65
+   2.7.8.8 hits 3 # 2.7.8.8
+path 524 fam0 6 fam-found 4 # PWY4FS-7
+   3.1.3.27 hits 1 # 3.1.3.27
+   2.7.8.5 hits 2 # 2.7.8.5
+   1.1.1.94 hits 3 # 1.1.1.94
+   2.7.7.41 hits 2 # 2.7.7.41
+path 525 fam0 6 fam-found 4 # PWY4FS-8
+   3.1.3.27 hits 1 # 3.1.3.27
+   2.7.8.5 hits 2 # 2.7.8.5
+   1.1.1.94 hits 3 # 1.1.1.94
+   2.7.7.41 hits 2 # 2.7.7.41
+path 533 fam0 1 fam-found 1 # PWY-6424
+   2.1.1.- hits 26 # 2.1.1.-
+path 538 fam0 4 fam-found 3 # PPGPPMET-PWY
+   2.7.4.6 hits 1 # 2.7.4.6
+   3.1.7.2 hits 5 # 3.1.7.2
+   2.7.6.5 hits 12 # 2.7.6.5
+path 542 fam0 5 fam-found 5 # PWY-6121
+   6.3.3.1 hits 2 # 6.3.3.1
+   6.3.5.3 hits 9 # 6.3.5.3
+   2.1.2.2 hits 1 # 2.1.2.2
+   6.3.4.13 hits 7 # 6.3.4.13
+   2.4.2.14 hits 6 # 2.4.2.14
+path 543 fam0 5 fam-found 5 # PWY-6122
+   2.1.2.- hits 1 # 2.1.2.-
+   6.3.3.1 hits 2 # 6.3.3.1
+   6.3.5.3 hits 9 # 6.3.5.3
+   6.3.4.13 hits 7 # 6.3.4.13
+   2.4.2.14 hits 6 # 2.4.2.14
+path 544 fam0 6 fam-found 6 # PWY-6277
+   2.1.2.- hits 1 # 2.1.2.-
+   6.3.3.1 hits 2 # 6.3.3.1
+   6.3.5.3 hits 9 # 6.3.5.3
+   6.3.4.13 hits 7 # 6.3.4.13
+   2.4.2.14 hits 6 # 2.4.2.14
+   2.1.2.2 hits 1 # 2.1.2.2
+path 545 fam0 6 fam-found 5 # PWY-6123
+   6.3.4.18 hits 2 # 6.3.4.18
+   3.5.4.10 hits 5 # 3.5.4.10
+   2.1.2.3 hits 5 # 2.1.2.3
+   4.3.2.2 hits 3 # 4.3.2.2
+   6.3.2.6 hits 3 # 6.3.2.6
+path 546 fam0 5 fam-found 5 # PWY-6124
+   3.5.4.10 hits 5 # 3.5.4.10
+   2.1.2.3 hits 5 # 2.1.2.3
+   4.3.2.2 hits 3 # 4.3.2.2
+   6.3.2.6 hits 3 # 6.3.2.6
+   4.1.1.21 hits 2 # 4.1.1.21
+path 547 fam0 21 fam-found 17 # DENOVOPURINE2-PWY
+   3.6.3.14 hits 4 # 3.6.3.14
+   2.7.4.6 hits 1 # 2.7.4.6
+   1.17.4.1 hits 24 # 1.17.4.1
+   2.7.4.3 hits 1 # 2.7.4.3
+   4.3.2.2 hits 3 # 4.3.2.2
+   6.3.4.4 hits 3 # 6.3.4.4
+   6.3.5.2 hits 9 # 6.3.5.2
+   1.1.1.205 hits 4 # 1.1.1.205
+   6.3.4.18 hits 2 # 6.3.4.18
+   3.5.4.10 hits 5 # 3.5.4.10
+   2.1.2.3 hits 5 # 2.1.2.3
+   6.3.2.6 hits 3 # 6.3.2.6
+   2.1.2.- hits 1 # 2.1.2.-
+   6.3.3.1 hits 2 # 6.3.3.1
+   6.3.5.3 hits 9 # 6.3.5.3
+   6.3.4.13 hits 7 # 6.3.4.13
+   2.4.2.14 hits 6 # 2.4.2.14
+path 548 fam0 7 fam-found 4 # PWY-6125
+   2.7.4.6 hits 1 # 2.7.4.6
+   1.17.4.1 hits 24 # 1.17.4.1
+   6.3.5.2 hits 9 # 6.3.5.2
+   1.1.1.205 hits 4 # 1.1.1.205
+path 549 fam0 7 fam-found 6 # PWY-6126
+   3.6.3.14 hits 4 # 3.6.3.14
+   2.7.4.6 hits 1 # 2.7.4.6
+   1.17.4.1 hits 24 # 1.17.4.1
+   2.7.4.3 hits 1 # 2.7.4.3
+   4.3.2.2 hits 3 # 4.3.2.2
+   6.3.4.4 hits 3 # 6.3.4.4
+path 550 fam0 13 fam-found 13 # PWY-841
+   3.5.4.10 hits 5 # 3.5.4.10
+   2.1.2.3 hits 5 # 2.1.2.3
+   4.3.2.2 hits 3 # 4.3.2.2
+   6.3.2.6 hits 3 # 6.3.2.6
+   4.1.1.21 hits 2 # 4.1.1.21
+   6.3.3.1 hits 2 # 6.3.3.1
+   6.3.5.3 hits 9 # 6.3.5.3
+   2.1.2.2 hits 1 # 2.1.2.2
+   6.3.4.13 hits 7 # 6.3.4.13
+   2.4.2.14 hits 6 # 2.4.2.14
+   6.3.5.2 hits 9 # 6.3.5.2
+   1.1.1.205 hits 4 # 1.1.1.205
+   6.3.4.4 hits 3 # 6.3.4.4
+path 551 fam0 15 fam-found 9 # P1-PWY
+   2.4.2.1 hits 2 # 2.4.2.1
+   2.7.1.- hits 10 # 2.7.1.-
+   2.4.2.8 hits 1 # 2.4.2.8
+   2.4.2.9 hits 5 # 2.4.2.9
+   2.1.1.45 hits 3 # 2.1.1.45
+   2.7.4.9 hits 1 # 2.7.4.9
+   2.7.1.21 hits 5 # 2.7.1.21
+   2.7.4.3 hits 1 # 2.7.4.3
+   2.4.2.7 hits 1 # 2.4.2.7
+path 552 fam0 9 fam-found 6 # P121-PWY
+   2.4.2.8 hits 1 # 2.4.2.8
+   2.4.2.1 hits 2 # 2.4.2.1
+   1.1.1.205 hits 4 # 1.1.1.205
+   2.4.2.7 hits 1 # 2.4.2.7
+   4.3.2.2 hits 3 # 4.3.2.2
+   6.3.4.4 hits 3 # 6.3.4.4
+path 554 fam0 3 fam-found 2 # PWY-6579
+   2.4.2.1 hits 2 # 2.4.2.1
+   2.4.2.8 hits 1 # 2.4.2.8
+path 556 fam0 5 fam-found 3 # SALVPURINE2-PWY
+   2.4.2.1 hits 2 # 2.4.2.1
+   2.4.2.8 hits 1 # 2.4.2.8
+   2.4.2.22 hits 1 # 2.4.2.22
+path 557 fam0 6 fam-found 5 # PWY-5686
+   4.1.1.23 hits 2 # 4.1.1.23
+   2.4.2.10 hits 1 # 2.4.2.10
+   3.5.2.3 hits 8 # 3.5.2.3
+   2.1.3.2 hits 1 # 2.1.3.2
+   6.3.5.5 hits 8 # 6.3.5.5
+path 558 fam0 3 fam-found 2 # PWY-5687
+   2.7.4.6 hits 1 # 2.7.4.6
+   6.3.4.2 hits 2 # 6.3.4.2
+path 559 fam0 9 fam-found 7 # PWY0-162
+   2.7.4.6 hits 1 # 2.7.4.6
+   6.3.4.2 hits 2 # 6.3.4.2
+   4.1.1.23 hits 2 # 4.1.1.23
+   2.4.2.10 hits 1 # 2.4.2.10
+   3.5.2.3 hits 8 # 3.5.2.3
+   2.1.3.2 hits 1 # 2.1.3.2
+   6.3.5.5 hits 8 # 6.3.5.5
+path 562 fam0 7 fam-found 6 # PWY-6545
+   1.17.4.1 hits 24 # 1.17.4.1
+   2.7.4.6 hits 1 # 2.7.4.6
+   3.5.4.13 hits 8 # 3.5.4.13
+   3.6.1.23 hits 4 # 3.6.1.23
+   2.7.4.9 hits 1 # 2.7.4.9
+   2.1.1.148 hits 1 # 2.1.1.148
+path 563 fam0 7 fam-found 6 # PWY0-166
+   1.17.4.1 hits 24 # 1.17.4.1
+   2.7.4.6 hits 1 # 2.7.4.6
+   2.7.4.9 hits 1 # 2.7.4.9
+   2.1.1.45 hits 3 # 2.1.1.45
+   3.6.1.23 hits 4 # 3.6.1.23
+   3.5.4.13 hits 8 # 3.5.4.13
+path 567 fam0 9 fam-found 6 # PWY-6270
+   5.3.3.2 hits 1 # 5.3.3.2
+   2.7.7.60 hits 2 # 2.7.7.60
+   2.7.1.148 hits 2 # 2.7.1.148
+   4.6.1.12 hits 2 # 4.6.1.12
+   1.1.1.267 hits 1 # 1.1.1.267
+   2.2.1.7 hits 7 # 2.2.1.7
+path 570 fam0 3 fam-found 3 # PWY1-3
+   1.1.1.36 hits 1 # 1.1.1.36
+   2.3.1.9 hits 3 # 2.3.1.9
+   2.3.1.- hits 13 # 2.3.1.-
+path 571 fam0 3 fam-found 2 # PWY-6153
+   3.2.2.9 hits 3 # 3.2.2.9
+   2.1.1.- hits 26 # 2.1.1.-
+path 572 fam0 3 fam-found 2 # PWY-6154
+   3.2.2.9 hits 3 # 3.2.2.9
+   2.1.1.- hits 26 # 2.1.1.-
+path 573 fam0 1 fam-found 1 # PWY-6157
+   2.3.1.184 hits 2 # 2.3.1.184
+path 575 fam0 2 fam-found 1 # PWY-6054
+   1.2.1.3 hits 1 # 1.2.1.3
+path 576 fam0 2 fam-found 1 # PWY-6055
+   1.2.1.3 hits 1 # 1.2.1.3
+path 578 fam0 1 fam-found 1 # PWY0-661
+   5.4.2.7 hits 3 # 5.4.2.7
+path 579 fam0 1 fam-found 1 # PWY0-662
+   2.7.6.1 hits 2 # 2.7.6.1
+path 580 fam0 15 fam-found 10 # ARG+POLYAMINE-SYN
+   3.5.1.16 hits 2 # 3.5.1.16
+   2.6.1.11 hits 3 # 2.6.1.11
+   1.2.1.38 hits 3 # 1.2.1.38
+   2.7.2.8 hits 2 # 2.7.2.8
+   2.3.1.1 hits 5 # 2.3.1.1
+   6.3.5.5 hits 8 # 6.3.5.5
+   2.1.3.3 hits 1 # 2.1.3.3
+   4.3.2.1 hits 4 # 4.3.2.1
+   6.3.4.5 hits 6 # 6.3.4.5
+   4.1.1.17 hits 1 # 4.1.1.17
+path 586 fam0 4 fam-found 3 # PWY-5695
+   2.4.2.1 hits 2 # 2.4.2.1
+   3.1.3.5 hits 9 # 3.1.3.5
+   1.1.1.205 hits 4 # 1.1.1.205
+path 589 fam0 2 fam-found 2 # PWY-6456
+   3.1.3.- hits 5 # 3.1.3.-
+   2.6.1.- hits 3 # 2.6.1.-
+path 590 fam0 5 fam-found 3 # PWY-6562
+   1.5.1.- hits 1 # 1.5.1.-
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+path 591 fam0 5 fam-found 3 # PWY-6565
+   1.5.1.- hits 1 # 1.5.1.-
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+path 595 fam0 6 fam-found 3 # URSIN-PWY
+   2.4.2.1 hits 2 # 2.4.2.1
+   3.1.3.5 hits 9 # 3.1.3.5
+   1.1.1.205 hits 4 # 1.1.1.205
+path 600 fam0 2 fam-found 1 # PWY-3722
+   1.1.1.1 hits 9 # 1.1.1.1
+path 601 fam0 2 fam-found 1 # PWY-4021
+   2.1.1.- hits 26 # 2.1.1.-
+path 606 fam0 1 fam-found 1 # PWY-46
+   4.1.1.17 hits 1 # 4.1.1.17
+path 609 fam0 3 fam-found 3 # PWY-6559
+   1.5.1.- hits 1 # 1.5.1.-
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.7.2.4 hits 3 # 2.7.2.4
+path 610 fam0 4 fam-found 2 # UDPNACETYLGALSYN-PWY
+   2.7.7.23 hits 3 # 2.7.7.23
+   2.6.1.16 hits 5 # 2.6.1.16
+path 619 fam0 1 fam-found 1 # PWY-5975
+   2.1.1.- hits 26 # 2.1.1.-
+path 622 fam0 2 fam-found 1 # PWY-5629
+   6.3.2.26 hits 4 # 6.3.2.26
+path 640 fam0 5 fam-found 4 # PWY1A0-6325
+   1.1.1.- hits 12 # 1.1.1.-
+   4.2.1.- hits 2 # 4.2.1.-
+   1.3.1.- hits 14 # 1.3.1.-
+   2.3.1.- hits 13 # 2.3.1.-
+path 646 fam0 11 fam-found 2 # PWY-5433
+   6.2.1.- hits 1 # 6.2.1.-
+   1.3.1.42 hits 1 # 1.3.1.42
+path 648 fam0 2 fam-found 1 # PWY-5473
+   1.14.13.- hits 5 # 1.14.13.-
+path 650 fam0 3 fam-found 3 # PWY-6442
+   2.1.1.- hits 26 # 2.1.1.-
+   1.14.-.- hits 3 # 1.14.-.-
+   2.3.1.- hits 13 # 2.3.1.-
+path 653 fam0 1 fam-found 1 # PWY-5666
+   2.4.1.- hits 12 # 2.4.1.-
+path 656 fam0 4 fam-found 2 # PWY-5958
+   4.1.3.27 hits 7 # 4.1.3.27
+   6.2.1.- hits 1 # 6.2.1.-
+path 660 fam0 2 fam-found 1 # PWY-5399
+   2.4.1.- hits 12 # 2.4.1.-
+path 661 fam0 2 fam-found 2 # PWY-5400
+   2.3.1.- hits 13 # 2.3.1.-
+   2.4.1.- hits 12 # 2.4.1.-
+path 663 fam0 2 fam-found 1 # PWY-5404
+   1.10.3.- hits 12 # 1.10.3.-
+path 666 fam0 1 fam-found 1 # PWY-5439
+   1.10.3.- hits 12 # 1.10.3.-
+path 670 fam0 1 fam-found 1 # PWY-5467
+   2.1.1.- hits 26 # 2.1.1.-
+path 675 fam0 8 fam-found 1 # PWY-5270
+   1.1.1.218 hits 1 # 1.1.1.218
+path 679 fam0 2 fam-found 1 # PWY-5876
+   2.1.1.- hits 26 # 2.1.1.-
+path 692 fam0 2 fam-found 1 # PWY-3022
+   1.14.13.- hits 5 # 1.14.13.-
+path 693 fam0 2 fam-found 1 # PWY-5990
+   1.14.13.- hits 5 # 1.14.13.-
+path 696 fam0 4 fam-found 2 # PWY-2821
+   1.-.-.- hits 31 # 1.-.-.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 699 fam0 4 fam-found 2 # PWYQT-4471
+   2.6.1.- hits 3 # 2.6.1.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 700 fam0 4 fam-found 2 # PWYQT-4472
+   2.6.1.- hits 3 # 2.6.1.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 701 fam0 4 fam-found 2 # PWYQT-4473
+   2.6.1.- hits 3 # 2.6.1.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 702 fam0 4 fam-found 2 # PWYQT-4474
+   2.6.1.- hits 3 # 2.6.1.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 703 fam0 4 fam-found 2 # PWYQT-4475
+   2.6.1.- hits 3 # 2.6.1.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 706 fam0 3 fam-found 3 # PWY-5
+   4.3.2.1 hits 4 # 4.3.2.1
+   6.3.4.5 hits 6 # 6.3.4.5
+   2.1.3.3 hits 1 # 2.1.3.3
+path 715 fam0 1 fam-found 1 # PWY-4421
+   2.4.1.- hits 12 # 2.4.1.-
+path 716 fam0 2 fam-found 1 # PWY-5048
+   1.1.1.- hits 12 # 1.1.1.-
+path 725 fam0 4 fam-found 1 # PWY-5176
+   3.2.1.21 hits 8 # 3.2.1.21
+path 726 fam0 2 fam-found 1 # PWY-5319
+   1.3.-.- hits 8 # 1.3.-.-
+path 731 fam0 1 fam-found 1 # PWY-6515
+   2.3.1.- hits 13 # 2.3.1.-
+path 734 fam0 4 fam-found 2 # PWY-5139
+   2.3.1.- hits 13 # 2.3.1.-
+   2.4.1.- hits 12 # 2.4.1.-
+path 735 fam0 2 fam-found 1 # PWY-5153
+   1.14.11.- hits 1 # 1.14.11.-
+path 736 fam0 1 fam-found 1 # PWY-5160
+   2.4.1.- hits 12 # 2.4.1.-
+path 737 fam0 3 fam-found 2 # PWY-5268
+   2.3.1.- hits 13 # 2.3.1.-
+   2.4.1.- hits 12 # 2.4.1.-
+path 738 fam0 3 fam-found 2 # PWY-5284
+   2.4.1.- hits 12 # 2.4.1.-
+   2.3.1.- hits 13 # 2.3.1.-
+path 739 fam0 1 fam-found 1 # PWY-5286
+   2.4.1.- hits 12 # 2.4.1.-
+path 741 fam0 4 fam-found 2 # PWY-5307
+   2.3.1.- hits 13 # 2.3.1.-
+   2.4.1.- hits 12 # 2.4.1.-
+path 744 fam0 4 fam-found 2 # PWY-5313
+   2.4.1.- hits 12 # 2.4.1.-
+   2.3.1.- hits 13 # 2.3.1.-
+path 747 fam0 2 fam-found 2 # PWY-5161
+   2.4.1.- hits 12 # 2.4.1.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 748 fam0 1 fam-found 1 # PWY-5339
+   2.4.1.- hits 12 # 2.4.1.-
+path 752 fam0 1 fam-found 1 # PWY-5116
+   2.1.1.- hits 26 # 2.1.1.-
+path 788 fam0 2 fam-found 1 # PWY-4502
+   2.5.1.- hits 6 # 2.5.1.-
+path 790 fam0 2 fam-found 2 # PWY-5061
+   4.2.1.- hits 2 # 4.2.1.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 791 fam0 2 fam-found 2 # PWY-5729
+   2.1.1.- hits 26 # 2.1.1.-
+   1.3.1.- hits 14 # 1.3.1.-
+path 792 fam0 1 fam-found 1 # PWY-5821
+   3.2.1.- hits 4 # 3.2.1.-
+path 793 fam0 1 fam-found 1 # PWY-5825
+   3.2.1.- hits 4 # 3.2.1.-
+path 794 fam0 1 fam-found 1 # PWY-5926
+   2.4.1.- hits 12 # 2.4.1.-
+path 796 fam0 2 fam-found 1 # PWY-6427
+   2.1.1.- hits 26 # 2.1.1.-
+path 799 fam0 4 fam-found 2 # PWY-5135
+   2.1.1.- hits 26 # 2.1.1.-
+   2.5.1.- hits 6 # 2.5.1.-
+path 800 fam0 3 fam-found 3 # PWY-5466
+   1.3.1.- hits 14 # 1.3.1.-
+   1.1.1.- hits 12 # 1.1.1.-
+   1.10.3.- hits 12 # 1.10.3.-
+path 801 fam0 2 fam-found 2 # PWY-5469
+   1.-.-.- hits 31 # 1.-.-.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 802 fam0 4 fam-found 4 # PWY-5479
+   1.-.-.- hits 31 # 1.-.-.-
+   1.14.-.- hits 3 # 1.14.-.-
+   2.1.1.- hits 26 # 2.1.1.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 804 fam0 2 fam-found 1 # PWY-83
+   2.4.1.- hits 12 # 2.4.1.-
+path 805 fam0 2 fam-found 2 # PWY-5701
+   1.14.13.- hits 5 # 1.14.13.-
+   2.5.1.- hits 6 # 2.5.1.-
+path 806 fam0 4 fam-found 3 # PWY-5987
+   2.1.1.- hits 26 # 2.1.1.-
+   1.-.-.- hits 31 # 1.-.-.-
+   2.3.1.- hits 13 # 2.3.1.-
+path 808 fam0 2 fam-found 1 # PWY-84
+   2.3.1.- hits 13 # 2.3.1.-
+path 811 fam0 1 fam-found 1 # PWY-5476
+   1.10.3.- hits 12 # 1.10.3.-
+path 812 fam0 1 fam-found 1 # PWY-5477
+   2.3.1.- hits 13 # 2.3.1.-
+path 813 fam0 1 fam-found 1 # PWY-6418
+   2.3.1.- hits 13 # 2.3.1.-
+path 814 fam0 1 fam-found 1 # CAMALEXIN-SYN
+   1.14.13.- hits 5 # 1.14.13.-
+path 816 fam0 2 fam-found 1 # PWY-2961
+   1.14.-.- hits 3 # 1.14.-.-
+path 818 fam0 1 fam-found 1 # PWY-4801
+   2.3.1.- hits 13 # 2.3.1.-
+path 819 fam0 2 fam-found 2 # PWY-5393
+   1.3.1.- hits 14 # 1.3.1.-
+   2.3.1.- hits 13 # 2.3.1.-
+path 821 fam0 1 fam-found 1 # PWY-6310
+   2.3.1.- hits 13 # 2.3.1.-
+path 822 fam0 1 fam-found 1 # PWY-6312
+   2.3.1.- hits 13 # 2.3.1.-
+path 823 fam0 2 fam-found 1 # PWY-6316
+   2.3.1.- hits 13 # 2.3.1.-
+path 824 fam0 3 fam-found 2 # PWY-6432
+   6.2.1.- hits 1 # 6.2.1.-
+   2.3.1.- hits 13 # 2.3.1.-
+path 825 fam0 1 fam-found 1 # PWY-6438
+   2.3.1.- hits 13 # 2.3.1.-
+path 826 fam0 1 fam-found 1 # PWY-5379
+   2.4.1.- hits 12 # 2.4.1.-
+path 827 fam0 1 fam-found 1 # PWY-5380
+   2.4.1.- hits 12 # 2.4.1.-
+path 828 fam0 2 fam-found 1 # PWY-2301
+   3.1.3.25 hits 2 # 3.1.3.25
+path 829 fam0 1 fam-found 1 # PWY-5338
+   2.4.1.- hits 12 # 2.4.1.-
+path 845 fam0 2 fam-found 1 # PWY-5107
+   2.7.1.- hits 10 # 2.7.1.-
+path 848 fam0 1 fam-found 1 # PWY-5063
+   1.3.1.- hits 14 # 1.3.1.-
+path 870 fam0 4 fam-found 3 # PWY-5195
+   1.2.1.- hits 5 # 1.2.1.-
+   1.1.1.- hits 12 # 1.1.1.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 875 fam0 3 fam-found 2 # PWY-5773
+   2.1.1.- hits 26 # 2.1.1.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 887 fam0 3 fam-found 3 # PWY-5305
+   2.1.1.- hits 26 # 2.1.1.-
+   1.2.1.- hits 5 # 1.2.1.-
+   1.13.12.- hits 6 # 1.13.12.-
+path 889 fam0 1 fam-found 1 # PWY-5398
+   2.4.1.- hits 12 # 2.4.1.-
+path 903 fam0 1 fam-found 1 # PWY-112
+   5.4.99.- hits 5 # 5.4.99.-
+path 904 fam0 3 fam-found 2 # PWY-5203
+   1.14.13.- hits 5 # 1.14.13.-
+   5.4.99.- hits 5 # 5.4.99.-
+path 905 fam0 1 fam-found 1 # PWY-5377
+   5.4.99.- hits 5 # 5.4.99.-
+path 906 fam0 3 fam-found 2 # PWY-5672
+   5.4.99.- hits 5 # 5.4.99.-
+   2.4.1.- hits 12 # 2.4.1.-
+path 907 fam0 2 fam-found 1 # PWY-5756
+   2.4.1.- hits 12 # 2.4.1.-
+path 908 fam0 1 fam-found 1 # PWY-5759
+   2.4.1.- hits 12 # 2.4.1.-
+path 909 fam0 1 fam-found 1 # PWY-5774
+   2.4.1.- hits 12 # 2.4.1.-
+path 910 fam0 3 fam-found 2 # PWY-5992
+   1.14.13.- hits 5 # 1.14.13.-
+   5.4.99.- hits 5 # 5.4.99.-
+path 911 fam0 1 fam-found 1 # PWY-6005
+   5.4.99.- hits 5 # 5.4.99.-
+path 912 fam0 1 fam-found 1 # PWY-6007
+   4.2.1.- hits 2 # 4.2.1.-
+path 913 fam0 1 fam-found 1 # PWY-6008
+   5.4.99.- hits 5 # 5.4.99.-
+path 916 fam0 2 fam-found 1 # PWY-6109
+   5.4.99.- hits 5 # 5.4.99.-
+path 917 fam0 2 fam-found 1 # PWY-6115
+   5.4.99.- hits 5 # 5.4.99.-
+path 918 fam0 2 fam-found 1 # PWY-5132
+   2.5.1.- hits 6 # 2.5.1.-
+path 919 fam0 2 fam-found 1 # PWY-5133
+   2.5.1.- hits 6 # 2.5.1.-
+path 920 fam0 2 fam-found 1 # PWY-5134
+   2.5.1.- hits 6 # 2.5.1.-
+path 921 fam0 4 fam-found 3 # PWY-5140
+   2.5.1.- hits 6 # 2.5.1.-
+   2.3.1.- hits 13 # 2.3.1.-
+   1.3.-.- hits 8 # 1.3.-.-
+path 922 fam0 2 fam-found 1 # PWY-5808
+   2.5.1.- hits 6 # 2.5.1.-
+path 923 fam0 1 fam-found 1 # PWY-6295
+   2.3.1.- hits 13 # 2.3.1.-
+path 945 fam0 2 fam-found 2 # ETOH-ACETYLCOA-ANA-PWY
+   1.2.1.10 hits 2 # 1.2.1.10
+   1.1.1.1 hits 9 # 1.1.1.1
+path 946 fam0 2 fam-found 2 # PWY66-161
+   6.2.1.1 hits 2 # 6.2.1.1
+   1.2.1.3 hits 1 # 1.2.1.3
+path 947 fam0 3 fam-found 2 # PWY66-162
+   6.2.1.1 hits 2 # 6.2.1.1
+   1.2.1.3 hits 1 # 1.2.1.3
+path 948 fam0 3 fam-found 3 # PWY66-21
+   6.2.1.1 hits 2 # 6.2.1.1
+   1.2.1.3 hits 1 # 1.2.1.3
+   1.1.1.1 hits 9 # 1.1.1.1
+path 951 fam0 2 fam-found 2 # PWY-4261
+   1.1.5.3 hits 1 # 1.1.5.3
+   2.7.1.30 hits 6 # 2.7.1.30
+path 953 fam0 2 fam-found 1 # PWY-6131
+   2.7.1.29 hits 1 # 2.7.1.29
+path 954 fam0 3 fam-found 3 # PWY0-381
+   3.1.4.46 hits 1 # 3.1.4.46
+   2.7.1.30 hits 6 # 2.7.1.30
+   1.1.5.3 hits 1 # 1.1.5.3
+path 955 fam0 5 fam-found 4 # METHGLYUT-PWY
+   1.2.1.22 hits 2 # 1.2.1.22
+   1.1.2.4 hits 2 # 1.1.2.4
+   3.1.2.6 hits 8 # 3.1.2.6
+   4.4.1.5 hits 1 # 4.4.1.5
+path 957 fam0 3 fam-found 3 # PWY-5386
+   1.1.2.4 hits 2 # 1.1.2.4
+   3.1.2.6 hits 8 # 3.1.2.6
+   4.4.1.5 hits 1 # 4.4.1.5
+path 960 fam0 2 fam-found 1 # PWY-5459
+   1.2.1.22 hits 2 # 1.2.1.22
+path 962 fam0 1 fam-found 1 # PWY-901
+   1.1.2.4 hits 2 # 1.1.2.4
+path 964 fam0 1 fam-found 1 # PWY0-1317
+   1.2.1.22 hits 2 # 1.2.1.22
+path 966 fam0 5 fam-found 1 # GLCMANNANAUT-PWY
+   3.5.1.25 hits 2 # 3.5.1.25
+path 967 fam0 6 fam-found 3 # ORNDEG-PWY
+   1.2.1.- hits 5 # 1.2.1.-
+   2.6.1.82 hits 1 # 2.6.1.82
+   4.1.1.17 hits 1 # 4.1.1.17
+path 969 fam0 5 fam-found 2 # PWY-3661
+   4.3.1.17 hits 6 # 4.3.1.17
+   2.1.2.1 hits 2 # 2.1.2.1
+path 978 fam0 2 fam-found 1 # PWY-6473
+   2.6.1.- hits 3 # 2.6.1.-
+path 980 fam0 2 fam-found 1 # PWY-6536
+   1.2.1.16 hits 2 # 1.2.1.16
+path 981 fam0 2 fam-found 1 # PWY-6537
+   1.2.1.- hits 5 # 1.2.1.-
+path 983 fam0 4 fam-found 2 # PWY-5692
+   3.5.3.9 hits 1 # 3.5.3.9
+   3.5.2.5 hits 1 # 3.5.2.5
+path 984 fam0 3 fam-found 2 # PWY-5694
+   3.5.2.5 hits 1 # 3.5.2.5
+   4.3.2.3 hits 1 # 4.3.2.3
+path 985 fam0 2 fam-found 1 # PWY-5697
+   3.5.2.5 hits 1 # 3.5.2.5
+path 986 fam0 3 fam-found 2 # PWY-5698
+   3.5.3.9 hits 1 # 3.5.3.9
+   3.5.2.5 hits 1 # 3.5.2.5
+path 987 fam0 4 fam-found 3 # PWY-5705
+   3.5.3.9 hits 1 # 3.5.3.9
+   3.5.2.5 hits 1 # 3.5.2.5
+   4.3.2.3 hits 1 # 4.3.2.3
+path 989 fam0 7 fam-found 4 # URDEGR-PWY
+   3.5.1.5 hits 5 # 3.5.1.5
+   3.5.3.9 hits 1 # 3.5.3.9
+   3.5.2.5 hits 1 # 3.5.2.5
+   4.3.2.3 hits 1 # 4.3.2.3
+path 990 fam0 4 fam-found 4 # CARNMET-PWY
+   6.2.1.- hits 1 # 6.2.1.-
+   4.2.1.- hits 2 # 4.2.1.-
+   2.8.3.- hits 4 # 2.8.3.-
+   1.3.99.- hits 2 # 1.3.99.-
+path 992 fam0 1 fam-found 1 # PWY-3641
+   1.2.1.5 hits 1 # 1.2.1.5
+path 997 fam0 2 fam-found 1 # GLUAMCAT-PWY
+   3.5.1.25 hits 2 # 3.5.1.25
+path 999 fam0 2 fam-found 1 # PUTDEG-PWY
+   2.6.1.82 hits 1 # 2.6.1.82
+path 1000 fam0 4 fam-found 2 # PWY-0
+   3.5.1.- hits 8 # 3.5.1.-
+   1.2.1.3 hits 1 # 1.2.1.3
+path 1008 fam0 1 fam-found 1 # PWY-5704
+   3.5.1.5 hits 5 # 3.5.1.5
+path 1013 fam0 3 fam-found 3 # PWY-5084
+   1.8.1.4 hits 8 # 1.8.1.4
+   2.3.1.61 hits 1 # 2.3.1.61
+   1.2.4.2 hits 2 # 1.2.4.2
+path 1015 fam0 7 fam-found 2 # PWY-6344
+   1.5.1.2 hits 1 # 1.5.1.2
+   5.1.1.12 hits 1 # 5.1.1.12
+path 1016 fam0 4 fam-found 1 # HYDROXYPRODEG-PWY
+   4.1.3.16 hits 1 # 4.1.3.16
+path 1017 fam0 3 fam-found 2 # PWY-5159
+   1.2.1.26 hits 2 # 1.2.1.26
+   5.1.1.8 hits 3 # 5.1.1.8
+path 1018 fam0 3 fam-found 2 # ALACAT2-PWY
+   1.1.1.28 hits 2 # 1.1.1.28
+   2.6.1.2 hits 3 # 2.6.1.2
+path 1019 fam0 2 fam-found 1 # ALADEG-PWY
+   5.1.1.1 hits 3 # 5.1.1.1
+path 1020 fam0 1 fam-found 1 # ALANINE-DEG3-PWY
+   2.6.1.2 hits 3 # 2.6.1.2
+path 1029 fam0 10 fam-found 3 # ORNARGDEG-PWY
+   1.2.1.- hits 5 # 1.2.1.-
+   2.6.1.82 hits 1 # 2.6.1.82
+   4.1.1.17 hits 1 # 4.1.1.17
+path 1031 fam0 2 fam-found 2 # PWY-6422
+   1.4.99.- hits 1 # 1.4.99.-
+   1.4.1.- hits 1 # 1.4.1.-
+path 1032 fam0 1 fam-found 1 # ASPARAGINE-DEG1-PWY
+   3.5.1.1 hits 1 # 3.5.1.1
+path 1034 fam0 1 fam-found 1 # ASPARTATE-DEG1-PWY
+   2.6.1.1 hits 11 # 2.6.1.1
+path 1035 fam0 2 fam-found 1 # MALATE-ASPARTATE-SHUTTLE-PWY
+   2.6.1.1 hits 11 # 2.6.1.1
+path 1036 fam0 2 fam-found 1 # CYSTEINE-DEG-PWY
+   2.6.1.1 hits 11 # 2.6.1.1
+path 1037 fam0 1 fam-found 1 # LCYSDEG-PWY
+   4.4.1.1 hits 1 # 4.4.1.1
+path 1049 fam0 1 fam-found 1 # GLUTAMINEFUM-PWY
+   1.4.1.13 hits 13 # 1.4.1.13
+path 1050 fam0 3 fam-found 3 # GLYCLEAV-PWY
+   1.8.1.4 hits 8 # 1.8.1.4
+   2.1.2.10 hits 1 # 2.1.2.10
+   1.4.4.2 hits 5 # 1.4.4.2
+path 1058 fam0 3 fam-found 2 # PWY-5078
+   1.1.1.1 hits 9 # 1.1.1.1
+   2.6.1.42 hits 3 # 2.6.1.42
+path 1061 fam0 3 fam-found 2 # PWY-5076
+   1.1.1.1 hits 9 # 1.1.1.1
+   2.6.1.42 hits 3 # 2.6.1.42
+path 1062 fam0 6 fam-found 3 # LYSDEGII-PWY
+   3.5.1.- hits 8 # 3.5.1.-
+   1.1.1.- hits 12 # 1.1.1.-
+   2.6.1.- hits 3 # 2.6.1.-
+path 1074 fam0 3 fam-found 3 # METHIONINE-DEG1-PWY
+   2.1.1.- hits 26 # 2.1.1.-
+   3.3.1.1 hits 1 # 3.3.1.1
+   2.5.1.6 hits 5 # 2.5.1.6
+path 1075 fam0 1 fam-found 1 # PWY-5082
+   1.1.1.1 hits 9 # 1.1.1.1
+path 1076 fam0 13 fam-found 8 # PWY-5328
+   2.1.1.13 hits 9 # 2.1.1.13
+   2.6.1.1 hits 11 # 2.6.1.1
+   6.4.1.3 hits 2 # 6.4.1.3
+   5.4.99.2 hits 2 # 5.4.99.2
+   4.4.1.1 hits 1 # 4.4.1.1
+   2.1.1.- hits 26 # 2.1.1.-
+   3.3.1.1 hits 1 # 3.3.1.1
+   2.5.1.6 hits 5 # 2.5.1.6
+path 1077 fam0 1 fam-found 1 # PWY-701
+   4.4.1.11 hits 1 # 4.4.1.11
+path 1078 fam0 2 fam-found 1 # CITRULLINE-DEG-PWY
+   2.1.3.3 hits 1 # 2.1.3.3
+path 1090 fam0 4 fam-found 2 # PWY-5079
+   1.1.1.1 hits 9 # 1.1.1.1
+   2.6.1.57 hits 1 # 2.6.1.57
+path 1093 fam0 1 fam-found 1 # SERDEG-PWY
+   4.3.1.17 hits 6 # 4.3.1.17
+path 1094 fam0 2 fam-found 1 # PWY-5436
+   1.2.1.10 hits 2 # 1.2.1.10
+path 1095 fam0 3 fam-found 3 # PWY-5437
+   2.7.2.15 hits 1 # 2.7.2.15
+   2.3.1.- hits 13 # 2.3.1.-
+   4.3.1.19 hits 8 # 4.3.1.19
+path 1098 fam0 4 fam-found 2 # PWY-3162
+   1.2.1.5 hits 1 # 1.2.1.5
+   1.1.1.1 hits 9 # 1.1.1.1
+path 1102 fam0 4 fam-found 2 # PWY-6307
+   1.1.1.2 hits 1 # 1.1.1.2
+   1.2.1.3 hits 1 # 1.2.1.3
+path 1110 fam0 4 fam-found 2 # PWY3O-4108
+   1.1.1.1 hits 9 # 1.1.1.1
+   2.6.1.57 hits 1 # 2.6.1.57
+path 1111 fam0 5 fam-found 1 # TYRFUMCAT-PWY
+   1.13.11.5 hits 1 # 1.13.11.5
+path 1112 fam0 3 fam-found 2 # PWY-5057
+   1.1.1.1 hits 9 # 1.1.1.1
+   2.6.1.42 hits 3 # 2.6.1.42
+path 1115 fam0 8 fam-found 4 # 3-HYDROXYPHENYLACETATE-DEGRADATION-PWY
+   4.2.1.- hits 2 # 4.2.1.-
+   1.2.1.- hits 5 # 1.2.1.-
+   4.1.2.- hits 1 # 4.1.2.-
+   1.14.14.- hits 1 # 1.14.14.-
+path 1117 fam0 4 fam-found 2 # 4TOLCARBDEG-PWY
+   1.2.1.- hits 5 # 1.2.1.-
+   1.1.1.- hits 12 # 1.1.1.-
+path 1119 fam0 5 fam-found 2 # M-CRESOL-DEGRADATION-PWY
+   1.14.13.24 hits 1 # 1.14.13.24
+   1.14.13.- hits 5 # 1.14.13.-
+path 1128 fam0 25 fam-found 4 # PWY-2504
+   3.7.1.3 hits 1 # 3.7.1.3
+   4.2.1.10 hits 2 # 4.2.1.10
+   4.1.1.44 hits 1 # 4.1.1.44
+   2.8.3.6 hits 2 # 2.8.3.6
+path 1129 fam0 2 fam-found 1 # PWY-481
+   1.1.1.- hits 12 # 1.1.1.-
+path 1130 fam0 16 fam-found 1 # PWY-5062
+   1.14.13.114 hits 1 # 1.14.13.114
+path 1149 fam0 3 fam-found 2 # PWY-681
+   1.14.14.- hits 1 # 1.14.14.-
+   1.14.13.- hits 5 # 1.14.13.-
+path 1155 fam0 1 fam-found 1 # 2AMINOBENZDEG-PWY
+   6.2.1.32 hits 1 # 6.2.1.32
+path 1156 fam0 2 fam-found 1 # PWY-6077
+   6.2.1.32 hits 1 # 6.2.1.32
+path 1161 fam0 6 fam-found 3 # CENTBENZCOA-PWY
+   2.3.1.- hits 13 # 2.3.1.-
+   1.1.1.- hits 12 # 1.1.1.-
+   4.2.1.- hits 2 # 4.2.1.-
+path 1171 fam0 2 fam-found 1 # PWY-6085
+   1.14.11.- hits 1 # 1.14.11.-
+path 1172 fam0 2 fam-found 1 # PWY-6086
+   1.14.11.- hits 1 # 1.14.11.-
+path 1175 fam0 1 fam-found 1 # PWY-6197
+   1.14.13.- hits 5 # 1.14.13.-
+path 1181 fam0 2 fam-found 1 # PWY-6088
+   1.3.1.- hits 14 # 1.3.1.-
+path 1183 fam0 1 fam-found 1 # PWY-6228
+   1.14.13.24 hits 1 # 1.14.13.24
+path 1192 fam0 2 fam-found 1 # FLUORENE-DEG-9-ONE-PWY
+   1.14.-.- hits 3 # 1.14.-.-
+path 1193 fam0 1 fam-found 1 # PWY-1381
+   1.14.-.- hits 3 # 1.14.-.-
+path 1196 fam0 12 fam-found 6 # P3-PWY
+   2.8.3.8 hits 1 # 2.8.3.8
+   2.7.2.1 hits 4 # 2.7.2.1
+   2.3.1.8 hits 1 # 2.3.1.8
+   2.3.1.- hits 13 # 2.3.1.-
+   2.8.3.- hits 4 # 2.8.3.-
+   4.1.1.59 hits 3 # 4.1.1.59
+path 1227 fam0 2 fam-found 1 # PWY-6419
+   1.1.1.- hits 12 # 1.1.1.-
+path 1232 fam0 4 fam-found 2 # TOLSULFDEG-PWY
+   1.2.1.- hits 5 # 1.2.1.-
+   1.1.1.- hits 12 # 1.1.1.-
+path 1242 fam0 2 fam-found 1 # TOLUENE-DEG-3-OH-PWY
+   1.14.13.- hits 5 # 1.14.13.-
+path 1250 fam0 2 fam-found 1 # CO2FORM-PWY
+   2.1.1.- hits 26 # 2.1.1.-
+path 1254 fam0 2 fam-found 1 # PWY-5493
+   2.3.1.54 hits 1 # 2.3.1.54
+path 1256 fam0 6 fam-found 4 # CODH-PWY
+   2.1.1.- hits 26 # 2.1.1.-
+   1.5.1.5 hits 3 # 1.5.1.5
+   3.5.4.9 hits 3 # 3.5.4.9
+   6.3.4.3 hits 4 # 6.3.4.3
+path 1262 fam0 11 fam-found 9 # P185-PWY
+   5.1.3.1 hits 1 # 5.1.3.1
+   5.3.1.6 hits 2 # 5.3.1.6
+   2.2.1.2 hits 2 # 2.2.1.2
+   2.7.2.3 hits 2 # 2.7.2.3
+   1.2.1.12 hits 2 # 1.2.1.12
+   5.3.1.1 hits 3 # 5.3.1.1
+   3.1.3.11 hits 2 # 3.1.3.11
+   4.1.2.13 hits 3 # 4.1.2.13
+   2.7.1.29 hits 1 # 2.7.1.29
+path 1264 fam0 8 fam-found 5 # PWY-1861
+   5.3.1.6 hits 2 # 5.3.1.6
+   5.1.3.1 hits 1 # 5.1.3.1
+   2.2.1.2 hits 2 # 2.2.1.2
+   4.1.2.13 hits 3 # 4.1.2.13
+   2.7.1.11 hits 2 # 2.7.1.11
+path 1266 fam0 3 fam-found 3 # PWY-1722
+   6.3.4.3 hits 4 # 6.3.4.3
+   3.5.4.9 hits 3 # 3.5.4.9
+   1.5.1.5 hits 3 # 1.5.1.5
+path 1267 fam0 2 fam-found 1 # PWY-1723
+   1.5.1.- hits 1 # 1.5.1.-
+path 1270 fam0 6 fam-found 3 # RUMP-PWY
+   3.1.1.31 hits 1 # 3.1.1.31
+   1.1.1.49 hits 7 # 1.1.1.49
+   5.3.1.9 hits 7 # 5.3.1.9
+path 1272 fam0 2 fam-found 1 # PWY-5506
+   1.11.1.6 hits 3 # 1.11.1.6
+path 1275 fam0 2 fam-found 1 # PWY-6028
+   1.1.1.1 hits 9 # 1.1.1.1
+path 1276 fam0 6 fam-found 3 # PWY-6527
+   2.7.1.6 hits 3 # 2.7.1.6
+   2.7.7.9 hits 3 # 2.7.7.9
+   5.1.3.2 hits 2 # 5.1.3.2
+path 1281 fam0 4 fam-found 1 # PWY-6573
+   3.2.1.52 hits 2 # 3.2.1.52
+path 1283 fam0 5 fam-found 1 # DHGLUCONATE-PYR-CAT-PWY
+   1.1.99.3 hits 9 # 1.1.99.3
+path 1285 fam0 6 fam-found 3 # GLUCOSE1PMETAB-PWY
+   2.7.1.2 hits 2 # 2.7.1.2
+   5.4.2.2 hits 7 # 5.4.2.2
+   3.1.3.10 hits 1 # 3.1.3.10
+path 1288 fam0 1 fam-found 1 # MANNCAT-PWY
+   5.3.1.8 hits 4 # 5.3.1.8
+path 1289 fam0 10 fam-found 5 # NPGLUCAT-PWY
+   5.1.3.3 hits 1 # 5.1.3.3
+   2.7.1.40 hits 8 # 2.7.1.40
+   4.2.1.11 hits 6 # 4.2.1.11
+   1.2.1.3 hits 1 # 1.2.1.3
+   4.1.2.- hits 1 # 4.1.2.-
+path 1290 fam0 15 fam-found 11 # P124-PWY
+   2.7.1.2 hits 2 # 2.7.1.2
+   1.1.1.27 hits 2 # 1.1.1.27
+   2.7.1.40 hits 8 # 2.7.1.40
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.2.3 hits 2 # 2.7.2.3
+   1.2.1.12 hits 2 # 1.2.1.12
+   5.1.3.1 hits 1 # 5.1.3.1
+   5.3.1.6 hits 2 # 5.3.1.6
+   2.2.1.2 hits 2 # 2.2.1.2
+   2.7.2.1 hits 4 # 2.7.2.1
+   5.3.1.9 hits 7 # 5.3.1.9
+path 1291 fam0 2 fam-found 2 # P302-PWY
+   1.1.1.140 hits 1 # 1.1.1.140
+   1.1.1.- hits 12 # 1.1.1.-
+path 1293 fam0 10 fam-found 6 # PWY-2221
+   4.1.2.14 hits 1 # 4.1.2.14
+   1.2.1.3 hits 1 # 1.2.1.3
+   2.7.1.40 hits 8 # 2.7.1.40
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.1.45 hits 1 # 2.7.1.45
+   5.1.3.3 hits 1 # 5.1.3.3
+path 1295 fam0 24 fam-found 10 # PWY-5257
+   1.1.1.- hits 12 # 1.1.1.-
+   1.2.1.26 hits 2 # 1.2.1.26
+   4.2.1.43 hits 2 # 4.2.1.43
+   2.7.1.16 hits 2 # 2.7.1.16
+   5.1.3.4 hits 2 # 5.1.3.4
+   5.3.1.4 hits 3 # 5.3.1.4
+   2.7.1.17 hits 1 # 2.7.1.17
+   1.1.1.9 hits 1 # 1.1.1.9
+   1.1.1.11 hits 2 # 1.1.1.11
+   5.1.3.1 hits 1 # 5.1.3.1
+path 1296 fam0 2 fam-found 1 # PWY0-1300
+   3.1.1.- hits 2 # 3.1.1.-
+path 1297 fam0 1 fam-found 1 # PWY0-1301
+   3.2.1.22 hits 3 # 3.2.1.22
+path 1298 fam0 1 fam-found 1 # PWY0-1314
+   2.7.1.56 hits 2 # 2.7.1.56
+path 1300 fam0 3 fam-found 2 # RHAMCAT-PWY
+   2.7.1.5 hits 1 # 2.7.1.5
+   4.1.2.19 hits 2 # 4.1.2.19
+path 1301 fam0 2 fam-found 2 # RIBOKIN-PWY
+   5.4.99.- hits 5 # 5.4.99.-
+   2.7.1.15 hits 2 # 2.7.1.15
+path 1306 fam0 4 fam-found 2 # LACTOSECAT-PWY
+   4.1.2.40 hits 4 # 4.1.2.40
+   2.7.1.144 hits 1 # 2.7.1.144
+path 1307 fam0 5 fam-found 3 # PWY-6317
+   5.1.3.3 hits 1 # 5.1.3.3
+   5.1.3.2 hits 2 # 5.1.3.2
+   2.7.1.6 hits 3 # 2.7.1.6
+path 1308 fam0 3 fam-found 3 # ARABCAT-PWY
+   2.7.1.16 hits 2 # 2.7.1.16
+   5.1.3.4 hits 2 # 5.1.3.4
+   5.3.1.4 hits 3 # 5.3.1.4
+path 1311 fam0 1 fam-found 1 # BGALACT-PWY
+   3.2.1.23 hits 3 # 3.2.1.23
+path 1312 fam0 3 fam-found 2 # LACTOSEUTIL-PWY
+   1.1.1.- hits 12 # 1.1.1.-
+   3.2.1.23 hits 3 # 3.2.1.23
+path 1313 fam0 16 fam-found 13 # PWY-3801
+   5.3.1.9 hits 7 # 5.3.1.9
+   5.4.2.2 hits 7 # 5.4.2.2
+   2.7.1.40 hits 8 # 2.7.1.40
+   1.1.1.1 hits 9 # 1.1.1.1
+   1.1.1.27 hits 2 # 1.1.1.27
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.2.3 hits 2 # 2.7.2.3
+   1.2.1.12 hits 2 # 1.2.1.12
+   5.3.1.1 hits 3 # 5.3.1.1
+   4.1.2.13 hits 3 # 4.1.2.13
+   2.7.1.11 hits 2 # 2.7.1.11
+   2.7.1.4 hits 1 # 2.7.1.4
+   2.7.7.9 hits 3 # 2.7.7.9
+path 1314 fam0 5 fam-found 3 # PWY-5384
+   5.3.1.9 hits 7 # 5.3.1.9
+   5.4.2.2 hits 7 # 5.4.2.2
+   2.7.1.4 hits 1 # 2.7.1.4
+path 1315 fam0 8 fam-found 5 # PWY-621
+   2.7.7.9 hits 3 # 2.7.7.9
+   5.4.2.2 hits 7 # 5.4.2.2
+   5.3.1.9 hits 7 # 5.3.1.9
+   3.2.1.26 hits 4 # 3.2.1.26
+   2.7.1.4 hits 1 # 2.7.1.4
+path 1316 fam0 6 fam-found 4 # PWY66-373
+   5.3.1.1 hits 3 # 5.3.1.1
+   2.7.1.28 hits 1 # 2.7.1.28
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.1.3.3 hits 1 # 5.1.3.3
+path 1317 fam0 3 fam-found 2 # SUCROSEUTIL2-PWY
+   1.1.1.- hits 12 # 1.1.1.-
+   3.2.1.- hits 4 # 3.2.1.-
+path 1318 fam0 2 fam-found 2 # SUCUTIL-PWY
+   2.7.1.4 hits 1 # 2.7.1.4
+   3.2.1.26 hits 4 # 3.2.1.26
+path 1322 fam0 2 fam-found 1 # PWY0-1182
+   2.7.1.2 hits 2 # 2.7.1.2
+path 1324 fam0 2 fam-found 1 # TREDEGLOW-PWY
+   2.7.1.2 hits 2 # 2.7.1.2
+path 1325 fam0 1 fam-found 1 # PWY-5516
+   1.1.1.- hits 12 # 1.1.1.-
+path 1326 fam0 2 fam-found 1 # XYLCAT-PWY
+   2.7.1.17 hits 1 # 2.7.1.17
+path 1327 fam0 3 fam-found 3 # ACETATEUTIL-PWY
+   2.3.1.8 hits 1 # 2.3.1.8
+   2.7.2.1 hits 4 # 2.7.2.1
+   6.2.1.1 hits 2 # 6.2.1.1
+path 1329 fam0 4 fam-found 2 # GLYCOLATEMET-PWY
+   1.1.1.60 hits 1 # 1.1.1.60
+   2.7.1.31 hits 1 # 2.7.1.31
+path 1331 fam0 20 fam-found 15 # P441-PWY
+   2.3.1.8 hits 1 # 2.3.1.8
+   2.7.2.1 hits 4 # 2.7.2.1
+   2.3.1.54 hits 1 # 2.3.1.54
+   1.1.1.1 hits 9 # 1.1.1.1
+   1.2.1.10 hits 2 # 1.2.1.10
+   3.1.3.11 hits 2 # 3.1.3.11
+   2.7.9.2 hits 1 # 2.7.9.2
+   2.7.1.11 hits 2 # 2.7.1.11
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.3.1.1 hits 3 # 5.3.1.1
+   1.2.1.12 hits 2 # 1.2.1.12
+   2.7.2.3 hits 2 # 2.7.2.3
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.1.40 hits 8 # 2.7.1.40
+   3.5.1.25 hits 2 # 3.5.1.25
+path 1332 fam0 2 fam-found 1 # PWY-2361
+   2.8.3.6 hits 2 # 2.8.3.6
+path 1340 fam0 5 fam-found 1 # PWY-6038
+   6.2.1.22 hits 2 # 6.2.1.22
+path 1342 fam0 1 fam-found 1 # PWY0-1313
+   6.2.1.1 hits 2 # 6.2.1.1
+path 1344 fam0 4 fam-found 2 # PWY0-301
+   3.1.1.- hits 2 # 3.1.1.-
+   5.1.3.4 hits 2 # 5.1.3.4
+path 1345 fam0 3 fam-found 3 # PYRUVDEHYD-PWY
+   1.8.1.4 hits 8 # 1.8.1.4
+   2.3.1.12 hits 2 # 2.3.1.12
+   1.2.4.1 hits 2 # 1.2.4.1
+path 1347 fam0 3 fam-found 2 # PWY-5130
+   6.4.1.3 hits 2 # 6.4.1.3
+   5.4.99.2 hits 2 # 5.4.99.2
+path 1349 fam0 2 fam-found 2 # PWY0-1312
+   2.3.1.8 hits 1 # 2.3.1.8
+   2.7.2.1 hits 4 # 2.7.2.1
+path 1352 fam0 3 fam-found 2 # PROPIONMET-PWY
+   6.4.1.3 hits 2 # 6.4.1.3
+   5.4.99.2 hits 2 # 5.4.99.2
+path 1355 fam0 3 fam-found 2 # PWY0-43
+   2.8.3.- hits 4 # 2.8.3.-
+   5.4.99.2 hits 2 # 5.4.99.2
+path 1357 fam0 4 fam-found 1 # GAMMAHEXCHLORDEG-PWY
+   1.1.-.- hits 6 # 1.1.-.-
+path 1358 fam0 2 fam-found 1 # PCEDEG-PWY
+   1.97.1.- hits 2 # 1.97.1.-
+path 1364 fam0 2 fam-found 2 # ACETOACETATE-DEG-PWY
+   2.8.3.- hits 4 # 2.8.3.-
+   2.3.1.9 hits 3 # 2.3.1.9
+path 1376 fam0 2 fam-found 1 # PWY-2501
+   1.2.1.3 hits 1 # 1.2.1.3
+path 1377 fam0 1 fam-found 1 # PWY-2724
+   1.2.1.3 hits 1 # 1.2.1.3
+path 1381 fam0 1 fam-found 1 # PWY0-1337
+   3.1.2.- hits 3 # 3.1.2.-
+path 1389 fam0 2 fam-found 1 # PWY-2021
+   2.4.1.- hits 12 # 2.4.1.-
+path 1390 fam0 3 fam-found 2 # PWY-5784
+   2.4.1.- hits 12 # 2.4.1.-
+   3.5.1.- hits 8 # 3.5.1.-
+path 1392 fam0 2 fam-found 1 # PWY-5797
+   2.4.1.- hits 12 # 2.4.1.-
+path 1395 fam0 2 fam-found 1 # PWY-102
+   1.14.11.- hits 1 # 1.14.11.-
+path 1396 fam0 1 fam-found 1 # PWY-6477
+   2.1.1.- hits 26 # 2.1.1.-
+path 1397 fam0 1 fam-found 1 # PWY-6494
+   1.14.-.- hits 3 # 1.14.-.-
+path 1400 fam0 2 fam-found 2 # AMMASSIM-PWY
+   1.4.1.13 hits 13 # 1.4.1.13
+   6.3.1.2 hits 3 # 6.3.1.2
+path 1401 fam0 2 fam-found 1 # CYANCAT-PWY
+   4.2.1.1 hits 4 # 4.2.1.1
+path 1403 fam0 3 fam-found 2 # PWY-3282
+   1.4.7.1 hits 1 # 1.4.7.1
+   6.3.1.2 hits 3 # 6.3.1.2
+path 1404 fam0 5 fam-found 3 # PWY-4984
+   4.3.2.1 hits 4 # 4.3.2.1
+   6.3.4.5 hits 6 # 6.3.4.5
+   2.1.3.3 hits 1 # 2.1.3.3
+path 1405 fam0 1 fam-found 1 # PWY-6523
+   1.7.2.1 hits 1 # 1.7.2.1
+path 1407 fam0 2 fam-found 1 # P303-PWY
+   1.7.2.1 hits 1 # 1.7.2.1
+path 1409 fam0 4 fam-found 2 # DENITRIFICATION-PWY
+   1.7.2.1 hits 1 # 1.7.2.1
+   1.7.99.4 hits 1 # 1.7.99.4
+path 1411 fam0 2 fam-found 1 # PWY-5673
+   1.7.5.1 hits 11 # 1.7.5.1
+path 1417 fam0 2 fam-found 1 # PWY-5491
+   3.1.3.- hits 5 # 3.1.3.-
+path 1418 fam0 1 fam-found 1 # PWY-6348
+   3.1.3.2 hits 1 # 3.1.3.2
+path 1419 fam0 1 fam-found 1 # PWY-6357
+   3.1.3.2 hits 1 # 3.1.3.2
+path 1421 fam0 2 fam-found 1 # PWY-5340
+   2.7.7.4 hits 1 # 2.7.7.4
+path 1424 fam0 1 fam-found 1 # PWY-6321
+   2.6.1.- hits 3 # 2.6.1.-
+path 1426 fam0 2 fam-found 1 # PWY-6059
+   1.14.13.- hits 5 # 1.14.13.-
+path 1441 fam0 2 fam-found 1 # PWY-5278
+   2.7.7.4 hits 1 # 2.7.7.4
+path 1446 fam0 2 fam-found 1 # PWY-1281
+   2.3.1.8 hits 1 # 2.3.1.8
+path 1455 fam0 1 fam-found 1 # PWY-5350
+   2.8.1.1 hits 3 # 2.8.1.1
+path 1459 fam0 3 fam-found 3 # PWY0-1297
+   1.2.1.10 hits 2 # 1.2.1.10
+   4.1.2.4 hits 1 # 4.1.2.4
+   5.4.2.7 hits 3 # 5.4.2.7
+path 1464 fam0 2 fam-found 2 # PWY-6019
+   2.7.1.83 hits 1 # 2.7.1.83
+   3.2.-.- hits 1 # 3.2.-.-
+path 1466 fam0 3 fam-found 2 # PWY0-1296
+   2.4.2.1 hits 2 # 2.4.2.1
+   5.4.2.7 hits 3 # 5.4.2.7
+path 1468 fam0 5 fam-found 3 # PWY0-1298
+   1.2.1.10 hits 2 # 1.2.1.10
+   4.1.2.4 hits 1 # 4.1.2.4
+   5.4.2.7 hits 3 # 5.4.2.7
+path 1474 fam0 5 fam-found 4 # P161-PWY
+   1.1.1.1 hits 9 # 1.1.1.1
+   2.7.2.1 hits 4 # 2.7.2.1
+   2.3.1.8 hits 1 # 2.3.1.8
+   1.2.1.10 hits 2 # 1.2.1.10
+path 1479 fam0 1 fam-found 1 # P481-PWY
+   1.14.-.- hits 3 # 1.14.-.-
+path 1483 fam0 5 fam-found 2 # PWY-4061
+   3.4.11.2 hits 3 # 3.4.11.2
+   2.5.1.18 hits 2 # 2.5.1.18
+path 1494 fam0 1 fam-found 1 # PWY-5988
+   3.4.11.1 hits 7 # 3.4.11.1
+path 1495 fam0 1 fam-found 1 # PWY-6018
+   3.4.11.1 hits 7 # 3.4.11.1
+path 1497 fam0 1 fam-found 1 # PWY-4441
+   3.2.1.21 hits 8 # 3.2.1.21
+path 1498 fam0 1 fam-found 1 # PWY-5793
+   2.4.1.- hits 12 # 2.4.1.-
+path 1506 fam0 2 fam-found 1 # PWY-3121
+   3.2.1.21 hits 8 # 3.2.1.21
+path 1507 fam0 2 fam-found 1 # PWY-5976
+   3.2.1.- hits 4 # 3.2.1.-
+path 1508 fam0 2 fam-found 1 # PWY-6002
+   3.2.1.21 hits 8 # 3.2.1.21
+path 1511 fam0 4 fam-found 4 # PWY-6507
+   4.1.2.14 hits 1 # 4.1.2.14
+   2.7.1.45 hits 1 # 2.7.1.45
+   1.1.1.127 hits 1 # 1.1.1.127
+   5.3.1.17 hits 1 # 5.3.1.17
+path 1512 fam0 19 fam-found 14 # PWY-6516
+   4.1.2.14 hits 1 # 4.1.2.14
+   2.7.1.45 hits 1 # 2.7.1.45
+   1.1.1.127 hits 1 # 1.1.1.127
+   5.3.1.17 hits 1 # 5.3.1.17
+   4.2.1.42 hits 3 # 4.2.1.42
+   1.1.1.60 hits 1 # 1.1.1.60
+   4.1.2.20 hits 1 # 4.1.2.20
+   4.2.1.40 hits 2 # 4.2.1.40
+   1.2.1.26 hits 2 # 1.2.1.26
+   1.1.1.- hits 12 # 1.1.1.-
+   1.1.1.58 hits 1 # 1.1.1.58
+   4.2.1.7 hits 2 # 4.2.1.7
+   1.1.1.57 hits 1 # 1.1.1.57
+   4.2.1.8 hits 3 # 4.2.1.8
+path 1513 fam0 2 fam-found 2 # PWY0-1261
+   2.7.1.- hits 10 # 2.7.1.-
+   4.2.-.- hits 1 # 4.2.-.-
+path 1519 fam0 4 fam-found 3 # GALACTARDEG-PWY
+   4.2.1.42 hits 3 # 4.2.1.42
+   1.1.1.60 hits 1 # 1.1.1.60
+   4.1.2.20 hits 1 # 4.1.2.20
+path 1520 fam0 3 fam-found 2 # PWY-6497
+   1.2.1.26 hits 2 # 1.2.1.26
+   4.2.1.42 hits 3 # 4.2.1.42
+path 1521 fam0 4 fam-found 3 # GALACTUROCAT-PWY
+   1.1.1.58 hits 1 # 1.1.1.58
+   2.7.1.45 hits 1 # 2.7.1.45
+   4.2.1.7 hits 2 # 4.2.1.7
+path 1523 fam0 4 fam-found 3 # GLUCARDEG-PWY
+   4.2.1.40 hits 2 # 4.2.1.40
+   1.1.1.60 hits 1 # 1.1.1.60
+   4.1.2.20 hits 1 # 4.1.2.20
+path 1524 fam0 3 fam-found 2 # PWY-6499
+   4.2.1.40 hits 2 # 4.2.1.40
+   1.2.1.26 hits 2 # 1.2.1.26
+path 1525 fam0 5 fam-found 3 # GLUCUROCAT-PWY
+   1.1.1.57 hits 1 # 1.1.1.57
+   2.7.1.45 hits 1 # 2.7.1.45
+   4.2.1.8 hits 3 # 4.2.1.8
+path 1527 fam0 1 fam-found 1 # PWY-6501
+   1.1.1.- hits 12 # 1.1.1.-
+path 1528 fam0 2 fam-found 2 # DARABITOLUTIL-PWY
+   2.7.1.17 hits 1 # 2.7.1.17
+   1.1.1.11 hits 2 # 1.1.1.11
+path 1529 fam0 3 fam-found 3 # GALACTITOLCAT-PWY
+   1.1.1.- hits 12 # 1.1.1.-
+   4.1.2.40 hits 4 # 4.1.2.40
+   2.7.1.144 hits 1 # 2.7.1.144
+path 1530 fam0 2 fam-found 2 # HEXITOLDEGSUPER-PWY
+   1.1.1.140 hits 1 # 1.1.1.140
+   1.1.1.17 hits 1 # 1.1.1.17
+path 1531 fam0 2 fam-found 2 # LARABITOLUTIL-PWY
+   2.7.1.17 hits 1 # 2.7.1.17
+   1.1.1.9 hits 1 # 1.1.1.9
+path 1532 fam0 1 fam-found 1 # MANNIDEG-PWY
+   1.1.1.17 hits 1 # 1.1.1.17
+path 1533 fam0 18 fam-found 17 # P461-PWY
+   3.1.3.11 hits 2 # 3.1.3.11
+   2.7.9.2 hits 1 # 2.7.9.2
+   2.7.1.11 hits 2 # 2.7.1.11
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.3.1.1 hits 3 # 5.3.1.1
+   1.2.1.12 hits 2 # 1.2.1.12
+   2.7.2.3 hits 2 # 2.7.2.3
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.1.40 hits 8 # 2.7.1.40
+   1.1.1.17 hits 1 # 1.1.1.17
+   1.1.1.140 hits 1 # 1.1.1.140
+   1.1.1.1 hits 9 # 1.1.1.1
+   1.2.1.10 hits 2 # 1.2.1.10
+   2.3.1.54 hits 1 # 2.3.1.54
+   2.3.1.8 hits 1 # 2.3.1.8
+   2.7.2.1 hits 4 # 2.7.2.1
+   1.1.1.27 hits 2 # 1.1.1.27
+path 1538 fam0 1 fam-found 1 # SORBDEG-PWY
+   1.1.1.140 hits 1 # 1.1.1.140
+path 1540 fam0 4 fam-found 3 # P601-PWY
+   1.14.13.- hits 5 # 1.14.13.-
+   6.2.1.- hits 1 # 6.2.1.-
+   1.1.1.1 hits 9 # 1.1.1.1
+path 1541 fam0 1 fam-found 1 # PWY-6411
+   2.3.1.- hits 13 # 2.3.1.-
+path 1542 fam0 1 fam-found 1 # PWY-6412
+   2.3.1.- hits 13 # 2.3.1.-
+path 1543 fam0 1 fam-found 1 # PWY-6413
+   2.3.1.- hits 13 # 2.3.1.-
+path 1548 fam0 2 fam-found 1 # PWY-6526
+   1.14.13.- hits 5 # 1.14.13.-
+path 1549 fam0 2 fam-found 1 # DETOX1-PWY
+   1.11.1.6 hits 3 # 1.11.1.6
+path 1550 fam0 1 fam-found 1 # PWY-6502
+   3.6.1.- hits 5 # 3.6.1.-
+path 1558 fam0 2 fam-found 2 # ENTNER-DOUDOROFF-PWY
+   4.2.1.12 hits 2 # 4.2.1.12
+   4.1.2.14 hits 1 # 4.1.2.14
+path 1559 fam0 15 fam-found 14 # GLYCOLYSIS-E-D
+   3.1.1.31 hits 1 # 3.1.1.31
+   1.1.1.49 hits 7 # 1.1.1.49
+   3.1.3.11 hits 2 # 3.1.3.11
+   2.7.9.2 hits 1 # 2.7.9.2
+   5.3.1.9 hits 7 # 5.3.1.9
+   2.7.1.11 hits 2 # 2.7.1.11
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.3.1.1 hits 3 # 5.3.1.1
+   1.2.1.12 hits 2 # 1.2.1.12
+   2.7.2.3 hits 2 # 2.7.2.3
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.1.40 hits 8 # 2.7.1.40
+   4.2.1.12 hits 2 # 4.2.1.12
+   4.1.2.14 hits 1 # 4.1.2.14
+path 1561 fam0 4 fam-found 3 # PWY-5173
+   1.8.1.4 hits 8 # 1.8.1.4
+   2.3.1.12 hits 2 # 2.3.1.12
+   1.2.4.1 hits 2 # 1.2.4.1
+path 1562 fam0 3 fam-found 2 # PWY-5197
+   1.2.1.22 hits 2 # 1.2.1.22
+   1.1.1.- hits 12 # 1.1.1.-
+path 1563 fam0 20 fam-found 16 # PWY-5464
+   1.1.1.41 hits 1 # 1.1.1.41
+   1.3.5.1 hits 4 # 1.3.5.1
+   4.2.1.3 hits 9 # 4.2.1.3
+   2.3.3.1 hits 1 # 2.3.3.1
+   6.2.1.5 hits 2 # 6.2.1.5
+   4.2.1.2 hits 3 # 4.2.1.2
+   2.7.1.40 hits 8 # 2.7.1.40
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.2.3 hits 2 # 2.7.2.3
+   1.2.1.12 hits 2 # 1.2.1.12
+   5.3.1.1 hits 3 # 5.3.1.1
+   4.1.2.13 hits 3 # 4.1.2.13
+   2.7.1.11 hits 2 # 2.7.1.11
+   1.8.1.4 hits 8 # 1.8.1.4
+   2.3.1.12 hits 2 # 2.3.1.12
+   1.2.4.1 hits 2 # 1.2.4.1
+path 1565 fam0 9 fam-found 5 # PWY-5723
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.1.40 hits 8 # 2.7.1.40
+   5.1.3.1 hits 1 # 5.1.3.1
+   5.3.1.6 hits 2 # 5.3.1.6
+   2.2.1.2 hits 2 # 2.2.1.2
+path 1570 fam0 2 fam-found 1 # PWY0-1321
+   1.7.5.1 hits 11 # 1.7.5.1
+path 1571 fam0 2 fam-found 1 # PWY0-1329
+   1.3.5.1 hits 4 # 1.3.5.1
+path 1575 fam0 2 fam-found 1 # PWY0-1347
+   1.7.2.3 hits 3 # 1.7.2.3
+path 1577 fam0 2 fam-found 1 # PWY0-1352
+   1.7.5.1 hits 11 # 1.7.5.1
+path 1578 fam0 2 fam-found 1 # PWY0-1353
+   1.3.5.1 hits 4 # 1.3.5.1
+path 1579 fam0 2 fam-found 1 # PWY0-1355
+   1.7.2.3 hits 3 # 1.7.2.3
+path 1581 fam0 1 fam-found 1 # PYRUVOX-PWY
+   1.2.5.1 hits 1 # 1.2.5.1
+path 1582 fam0 13 fam-found 12 # ANAEROFRUCAT-PWY
+   3.1.3.11 hits 2 # 3.1.3.11
+   2.7.9.2 hits 1 # 2.7.9.2
+   2.7.1.11 hits 2 # 2.7.1.11
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.3.1.1 hits 3 # 5.3.1.1
+   1.2.1.12 hits 2 # 1.2.1.12
+   2.7.2.3 hits 2 # 2.7.2.3
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.1.40 hits 8 # 2.7.1.40
+   2.7.1.2 hits 2 # 2.7.1.2
+   5.3.1.9 hits 7 # 5.3.1.9
+   1.1.1.27 hits 2 # 1.1.1.27
+path 1583 fam0 14 fam-found 11 # FERMENTATION-PWY
+   1.1.1.42 hits 2 # 1.1.1.42
+   4.2.1.3 hits 9 # 4.2.1.3
+   2.3.3.1 hits 1 # 2.3.3.1
+   4.2.1.2 hits 3 # 4.2.1.2
+   1.1.1.28 hits 2 # 1.1.1.28
+   2.7.1.40 hits 8 # 2.7.1.40
+   1.1.1.1 hits 9 # 1.1.1.1
+   1.2.1.10 hits 2 # 1.2.1.10
+   2.3.1.54 hits 1 # 2.3.1.54
+   2.7.2.1 hits 4 # 2.7.2.1
+   2.3.1.8 hits 1 # 2.3.1.8
+path 1584 fam0 18 fam-found 15 # P122-PWY
+   2.7.1.2 hits 2 # 2.7.1.2
+   1.1.1.28 hits 2 # 1.1.1.28
+   5.3.1.9 hits 7 # 5.3.1.9
+   2.7.1.4 hits 1 # 2.7.1.4
+   1.1.1.27 hits 2 # 1.1.1.27
+   3.1.1.31 hits 1 # 3.1.1.31
+   1.1.1.49 hits 7 # 1.1.1.49
+   1.1.1.1 hits 9 # 1.1.1.1
+   1.2.1.10 hits 2 # 1.2.1.10
+   2.3.1.8 hits 1 # 2.3.1.8
+   2.7.1.40 hits 8 # 2.7.1.40
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.2.3 hits 2 # 2.7.2.3
+   1.2.1.12 hits 2 # 1.2.1.12
+   5.1.3.1 hits 1 # 5.1.3.1
+path 1585 fam0 4 fam-found 2 # P125-PWY
+   4.1.1.5 hits 1 # 4.1.1.5
+   2.2.1.6 hits 9 # 2.2.1.6
+path 1586 fam0 10 fam-found 5 # PROPFERM-PWY
+   2.7.2.1 hits 4 # 2.7.2.1
+   2.3.1.8 hits 1 # 2.3.1.8
+   1.1.1.28 hits 2 # 1.1.1.28
+   2.8.3.- hits 4 # 2.8.3.-
+   2.6.1.2 hits 3 # 2.6.1.2
+path 1588 fam0 6 fam-found 3 # PWY-6396
+   1.1.1.304 hits 1 # 1.1.1.304
+   2.2.1.6 hits 9 # 2.2.1.6
+   4.1.1.5 hits 1 # 4.1.1.5
+path 1589 fam0 2 fam-found 1 # PWY-5938
+   2.2.1.6 hits 9 # 2.2.1.6
+path 1590 fam0 2 fam-found 2 # PWY-5939
+   4.1.1.5 hits 1 # 4.1.1.5
+   2.2.1.6 hits 9 # 2.2.1.6
+path 1591 fam0 2 fam-found 2 # PWY-6389
+   1.1.1.304 hits 1 # 1.1.1.304
+   2.2.1.6 hits 9 # 2.2.1.6
+path 1594 fam0 7 fam-found 5 # PWY-5676
+   1.1.1.36 hits 1 # 1.1.1.36
+   2.3.1.8 hits 1 # 2.3.1.8
+   2.7.2.1 hits 4 # 2.7.2.1
+   2.8.3.8 hits 1 # 2.8.3.8
+   2.3.1.9 hits 3 # 2.3.1.9
+path 1600 fam0 3 fam-found 2 # P142-PWY
+   2.7.2.1 hits 4 # 2.7.2.1
+   2.3.1.8 hits 1 # 2.3.1.8
+path 1601 fam0 4 fam-found 4 # P41-PWY
+   1.1.1.27 hits 2 # 1.1.1.27
+   2.7.2.1 hits 4 # 2.7.2.1
+   2.3.1.8 hits 1 # 2.3.1.8
+   1.2.1.- hits 5 # 1.2.1.-
+path 1603 fam0 4 fam-found 3 # PWY-5100
+   1.1.1.27 hits 2 # 1.1.1.27
+   2.7.2.1 hits 4 # 2.7.2.1
+   2.3.1.8 hits 1 # 2.3.1.8
+path 1604 fam0 3 fam-found 3 # PWY-5480
+   1.1.1.1 hits 9 # 1.1.1.1
+   1.2.1.10 hits 2 # 1.2.1.10
+   2.3.1.54 hits 1 # 2.3.1.54
+path 1605 fam0 1 fam-found 1 # PWY-5481
+   1.1.1.27 hits 2 # 1.1.1.27
+path 1606 fam0 3 fam-found 3 # PWY-5482
+   2.7.2.1 hits 4 # 2.7.2.1
+   2.3.1.8 hits 1 # 2.3.1.8
+   1.2.1.- hits 5 # 1.2.1.-
+path 1608 fam0 3 fam-found 3 # PWY-5485
+   2.3.1.8 hits 1 # 2.3.1.8
+   2.7.2.1 hits 4 # 2.7.2.1
+   2.3.1.54 hits 1 # 2.3.1.54
+path 1609 fam0 2 fam-found 1 # PWY-5486
+   1.1.1.1 hits 9 # 1.1.1.1
+path 1611 fam0 2 fam-found 2 # PWY-5537
+   1.2.1.- hits 5 # 1.2.1.-
+   6.2.1.5 hits 2 # 6.2.1.5
+path 1612 fam0 2 fam-found 1 # PWY-5538
+   6.2.1.5 hits 2 # 6.2.1.5
+path 1613 fam0 3 fam-found 2 # PWY-5600
+   2.3.1.8 hits 1 # 2.3.1.8
+   2.7.2.1 hits 4 # 2.7.2.1
+path 1615 fam0 10 fam-found 9 # ANAGLYCOLYSIS-PWY
+   2.7.1.40 hits 8 # 2.7.1.40
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.2.3 hits 2 # 2.7.2.3
+   1.2.1.12 hits 2 # 1.2.1.12
+   5.3.1.1 hits 3 # 5.3.1.1
+   4.1.2.13 hits 3 # 4.1.2.13
+   2.7.1.11 hits 2 # 2.7.1.11
+   5.3.1.9 hits 7 # 5.3.1.9
+   2.7.1.2 hits 2 # 2.7.1.2
+path 1616 fam0 11 fam-found 10 # GLYCOLYSIS
+   3.1.3.11 hits 2 # 3.1.3.11
+   2.7.9.2 hits 1 # 2.7.9.2
+   5.3.1.9 hits 7 # 5.3.1.9
+   2.7.1.11 hits 2 # 2.7.1.11
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.3.1.1 hits 3 # 5.3.1.1
+   1.2.1.12 hits 2 # 1.2.1.12
+   2.7.2.3 hits 2 # 2.7.2.3
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.1.40 hits 8 # 2.7.1.40
+path 1617 fam0 22 fam-found 17 # GLYCOLYSIS-TCA-GLYOX-BYPASS
+   1.2.1.- hits 5 # 1.2.1.-
+   3.1.3.11 hits 2 # 3.1.3.11
+   2.7.9.2 hits 1 # 2.7.9.2
+   5.3.1.9 hits 7 # 5.3.1.9
+   2.7.1.11 hits 2 # 2.7.1.11
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.3.1.1 hits 3 # 5.3.1.1
+   1.2.1.12 hits 2 # 1.2.1.12
+   2.7.2.3 hits 2 # 2.7.2.3
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.1.40 hits 8 # 2.7.1.40
+   1.3.5.1 hits 4 # 1.3.5.1
+   4.2.1.3 hits 9 # 4.2.1.3
+   2.3.3.1 hits 1 # 2.3.3.1
+   1.1.1.42 hits 2 # 1.1.1.42
+   6.2.1.5 hits 2 # 6.2.1.5
+   4.2.1.2 hits 3 # 4.2.1.2
+path 1618 fam0 9 fam-found 5 # P341-PWY
+   2.7.1.40 hits 8 # 2.7.1.40
+   4.2.1.11 hits 6 # 4.2.1.11
+   5.3.1.1 hits 3 # 5.3.1.1
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.3.1.9 hits 7 # 5.3.1.9
+path 1619 fam0 10 fam-found 7 # PWY-1042
+   2.7.1.40 hits 8 # 2.7.1.40
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.2.3 hits 2 # 2.7.2.3
+   1.2.1.12 hits 2 # 1.2.1.12
+   5.3.1.1 hits 3 # 5.3.1.1
+   4.1.2.13 hits 3 # 4.1.2.13
+   2.7.1.11 hits 2 # 2.7.1.11
+path 1620 fam0 10 fam-found 9 # PWY-5484
+   3.1.3.11 hits 2 # 3.1.3.11
+   2.7.9.2 hits 1 # 2.7.9.2
+   2.7.1.11 hits 2 # 2.7.1.11
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.3.1.1 hits 3 # 5.3.1.1
+   1.2.1.12 hits 2 # 1.2.1.12
+   2.7.2.3 hits 2 # 2.7.2.3
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.7.1.40 hits 8 # 2.7.1.40
+path 1621 fam0 3 fam-found 3 # METH-ACETATE-PWY
+   2.1.1.- hits 26 # 2.1.1.-
+   2.3.1.8 hits 1 # 2.3.1.8
+   2.7.2.1 hits 4 # 2.7.2.1
+path 1625 fam0 2 fam-found 1 # PWY-6118
+   1.1.5.3 hits 1 # 1.1.5.3
+path 1627 fam0 3 fam-found 2 # PWY66-368
+   2.3.1.9 hits 3 # 2.3.1.9
+   2.8.3.5 hits 2 # 2.8.3.5
+path 1628 fam0 4 fam-found 3 # NONOXIPENT-PWY
+   5.3.1.6 hits 2 # 5.3.1.6
+   5.1.3.1 hits 1 # 5.1.3.1
+   2.2.1.2 hits 2 # 2.2.1.2
+path 1629 fam0 3 fam-found 2 # OXIDATIVEPENT-PWY
+   1.1.1.49 hits 7 # 1.1.1.49
+   3.1.1.31 hits 1 # 3.1.1.31
+path 1630 fam0 2 fam-found 1 # P21-PWY
+   5.1.3.1 hits 1 # 5.1.3.1
+path 1631 fam0 7 fam-found 5 # PENTOSE-P-PWY
+   1.1.1.49 hits 7 # 1.1.1.49
+   3.1.1.31 hits 1 # 3.1.1.31
+   5.3.1.6 hits 2 # 5.3.1.6
+   5.1.3.1 hits 1 # 5.1.3.1
+   2.2.1.2 hits 2 # 2.2.1.2
+path 1632 fam0 13 fam-found 8 # PHOTOALL-PWY
+   5.3.1.6 hits 2 # 5.3.1.6
+   5.1.3.1 hits 1 # 5.1.3.1
+   3.1.3.11 hits 2 # 3.1.3.11
+   4.1.2.- hits 1 # 4.1.2.-
+   4.1.2.13 hits 3 # 4.1.2.13
+   5.3.1.1 hits 3 # 5.3.1.1
+   2.7.2.3 hits 2 # 2.7.2.3
+   1.18.1.2 hits 1 # 1.18.1.2
+path 1633 fam0 1 fam-found 1 # PWY-101
+   1.18.1.2 hits 1 # 1.18.1.2
+path 1635 fam0 8 fam-found 4 # PWY-181
+   2.7.1.31 hits 1 # 2.7.1.31
+   2.1.2.1 hits 2 # 2.1.2.1
+   1.1.3.15 hits 1 # 1.1.3.15
+   3.1.3.18 hits 1 # 3.1.3.18
+path 1636 fam0 4 fam-found 2 # PWY-241
+   2.7.9.1 hits 3 # 2.7.9.1
+   1.1.1.40 hits 5 # 1.1.1.40
+path 1637 fam0 3 fam-found 2 # PWY-4302
+   1.3.5.1 hits 4 # 1.3.5.1
+   1.-.-.- hits 31 # 1.-.-.-
+path 1638 fam0 4 fam-found 3 # PWY-3781
+   1.9.3.1 hits 4 # 1.9.3.1
+   1.3.5.1 hits 4 # 1.3.5.1
+   1.10.2.2 hits 2 # 1.10.2.2
+path 1639 fam0 11 fam-found 8 # ANARESP1-PWY
+   4.2.1.11 hits 6 # 4.2.1.11
+   2.3.1.54 hits 1 # 2.3.1.54
+   4.2.1.2 hits 3 # 4.2.1.2
+   1.1.1.42 hits 2 # 1.1.1.42
+   4.2.1.3 hits 9 # 4.2.1.3
+   2.3.3.1 hits 1 # 2.3.3.1
+   1.2.1.- hits 5 # 1.2.1.-
+   2.7.1.40 hits 8 # 2.7.1.40
+path 1642 fam0 2 fam-found 1 # PWY-6530
+   1.97.1.- hits 2 # 1.97.1.-
+path 1644 fam0 10 fam-found 5 # P105-PWY
+   1.2.1.- hits 5 # 1.2.1.-
+   4.2.1.2 hits 3 # 4.2.1.2
+   1.1.1.42 hits 2 # 1.1.1.42
+   4.2.1.3 hits 9 # 4.2.1.3
+   2.3.3.1 hits 1 # 2.3.3.1
+path 1645 fam0 7 fam-found 6 # PWY-5690
+   1.1.1.41 hits 1 # 1.1.1.41
+   1.3.5.1 hits 4 # 1.3.5.1
+   4.2.1.3 hits 9 # 4.2.1.3
+   2.3.3.1 hits 1 # 2.3.3.1
+   6.2.1.5 hits 2 # 6.2.1.5
+   4.2.1.2 hits 3 # 4.2.1.2
+path 1646 fam0 10 fam-found 7 # PWY-5913
+   6.2.1.5 hits 2 # 6.2.1.5
+   2.6.1.1 hits 11 # 2.6.1.1
+   1.3.5.1 hits 4 # 1.3.5.1
+   4.2.1.3 hits 9 # 4.2.1.3
+   2.3.3.1 hits 1 # 2.3.3.1
+   1.1.1.42 hits 2 # 1.1.1.42
+   4.2.1.2 hits 3 # 4.2.1.2
+path 1647 fam0 8 fam-found 5 # REDCITCYC
+   2.8.3.5 hits 2 # 2.8.3.5
+   4.2.1.3 hits 9 # 4.2.1.3
+   2.3.3.1 hits 1 # 2.3.3.1
+   1.1.1.42 hits 2 # 1.1.1.42
+   4.2.1.2 hits 3 # 4.2.1.2
+path 1648 fam0 8 fam-found 6 # TCA
+   1.3.5.1 hits 4 # 1.3.5.1
+   4.2.1.3 hits 9 # 4.2.1.3
+   2.3.3.1 hits 1 # 2.3.3.1
+   1.1.1.42 hits 2 # 1.1.1.42
+   6.2.1.5 hits 2 # 6.2.1.5
+   4.2.1.2 hits 3 # 4.2.1.2
+path 1649 fam0 10 fam-found 6 # TCA-GLYOX-BYPASS
+   1.3.5.1 hits 4 # 1.3.5.1
+   4.2.1.3 hits 9 # 4.2.1.3
+   2.3.3.1 hits 1 # 2.3.3.1
+   1.1.1.42 hits 2 # 1.1.1.42
+   6.2.1.5 hits 2 # 6.2.1.5
+   4.2.1.2 hits 3 # 4.2.1.2
+path 1650 fam0 44 fam-found 30 # ALL-CHORISMATE-PWY
+   2.1.1.163 hits 4 # 2.1.1.163
+   2.5.1.74 hits 1 # 2.5.1.74
+   3.1.2.- hits 3 # 3.1.2.-
+   6.2.1.26 hits 1 # 6.2.1.26
+   5.4.99.5 hits 2 # 5.4.99.5
+   2.6.1.57 hits 1 # 2.6.1.57
+   4.2.1.51 hits 5 # 4.2.1.51
+   4.2.1.20 hits 6 # 4.2.1.20
+   4.1.3.27 hits 7 # 4.1.3.27
+   2.4.2.18 hits 3 # 2.4.2.18
+   5.3.1.24 hits 2 # 5.3.1.24
+   4.1.1.48 hits 2 # 4.1.1.48
+   2.5.1.54 hits 1 # 2.5.1.54
+   4.2.3.4 hits 3 # 4.2.3.4
+   4.2.1.10 hits 2 # 4.2.1.10
+   1.1.1.25 hits 3 # 1.1.1.25
+   2.7.1.71 hits 2 # 2.7.1.71
+   2.5.1.19 hits 3 # 2.5.1.19
+   4.2.3.5 hits 4 # 4.2.3.5
+   2.5.1.39 hits 1 # 2.5.1.39
+   1.14.14.- hits 1 # 1.14.14.-
+   2.1.1.- hits 26 # 2.1.1.-
+   2.1.2.2 hits 1 # 2.1.2.2
+   3.5.4.16 hits 1 # 3.5.4.16
+   3.6.1.- hits 5 # 3.6.1.-
+   2.7.6.3 hits 1 # 2.7.6.3
+   1.5.1.3 hits 2 # 1.5.1.3
+   6.3.2.12 hits 2 # 6.3.2.12
+   3.5.4.9 hits 3 # 3.5.4.9
+   2.5.1.15 hits 3 # 2.5.1.15
+path 1651 fam0 8 fam-found 3 # FUC-RHAMCAT-PWY
+   1.2.1.22 hits 2 # 1.2.1.22
+   2.7.1.5 hits 1 # 2.7.1.5
+   4.1.2.19 hits 2 # 4.1.2.19
+path 1652 fam0 7 fam-found 5 # GALACT-GLUCUROCAT-PWY
+   1.1.1.57 hits 1 # 1.1.1.57
+   2.7.1.45 hits 1 # 2.7.1.45
+   4.2.1.8 hits 3 # 4.2.1.8
+   1.1.1.58 hits 1 # 1.1.1.58
+   4.2.1.7 hits 2 # 4.2.1.7
+path 1653 fam0 5 fam-found 4 # GLUCARGALACTSUPER-PWY
+   4.2.1.42 hits 3 # 4.2.1.42
+   1.1.1.60 hits 1 # 1.1.1.60
+   4.1.2.20 hits 1 # 4.1.2.20
+   4.2.1.40 hits 2 # 4.2.1.40
+path 1654 fam0 40 fam-found 33 # PRPP-PWY
+   5.4.2.7 hits 3 # 5.4.2.7
+   2.7.6.1 hits 2 # 2.7.6.1
+   2.7.4.6 hits 1 # 2.7.4.6
+   6.3.4.2 hits 2 # 6.3.4.2
+   4.1.1.23 hits 2 # 4.1.1.23
+   2.4.2.10 hits 1 # 2.4.2.10
+   3.5.2.3 hits 8 # 3.5.2.3
+   2.1.3.2 hits 1 # 2.1.3.2
+   6.3.5.5 hits 8 # 6.3.5.5
+   3.6.3.14 hits 4 # 3.6.3.14
+   1.17.4.1 hits 24 # 1.17.4.1
+   2.7.4.3 hits 1 # 2.7.4.3
+   4.3.2.2 hits 3 # 4.3.2.2
+   6.3.4.4 hits 3 # 6.3.4.4
+   6.3.5.2 hits 9 # 6.3.5.2
+   1.1.1.205 hits 4 # 1.1.1.205
+   6.3.4.18 hits 2 # 6.3.4.18
+   3.5.4.10 hits 5 # 3.5.4.10
+   2.1.2.3 hits 5 # 2.1.2.3
+   6.3.2.6 hits 3 # 6.3.2.6
+   2.1.2.- hits 1 # 2.1.2.-
+   6.3.3.1 hits 2 # 6.3.3.1
+   6.3.5.3 hits 9 # 6.3.5.3
+   6.3.4.13 hits 7 # 6.3.4.13
+   2.4.2.14 hits 6 # 2.4.2.14
+   2.4.2.17 hits 3 # 2.4.2.17
+   3.6.1.31 hits 2 # 3.6.1.31
+   5.3.1.16 hits 3 # 5.3.1.16
+   2.4.2.- hits 5 # 2.4.2.-
+   4.2.1.19 hits 3 # 4.2.1.19
+   2.6.1.9 hits 2 # 2.6.1.9
+   3.1.3.15 hits 3 # 3.1.3.15
+   1.1.1.23 hits 3 # 1.1.1.23
+path 1657 fam0 2 fam-found 1 # PWY-5991
+   1.14.13.- hits 5 # 1.14.13.-
+path 1660 fam0 6 fam-found 3 # PWY-6544
+   1.14.13.- hits 5 # 1.14.13.-
+   1.14.-.- hits 3 # 1.14.-.-
+   1.3.99.- hits 2 # 1.3.99.-
+path 1661 fam0 25 fam-found 18 # PWY0-781
+   2.5.1.6 hits 5 # 2.5.1.6
+   1.4.3.16 hits 1 # 1.4.3.16
+   6.3.1.5 hits 1 # 6.3.1.5
+   6.3.5.1 hits 2 # 6.3.5.1
+   2.7.7.18 hits 2 # 2.7.7.18
+   2.1.1.13 hits 9 # 2.1.1.13
+   2.1.1.14 hits 2 # 2.1.1.14
+   2.3.1.46 hits 1 # 2.3.1.46
+   2.7.2.4 hits 3 # 2.7.2.4
+   1.2.1.11 hits 2 # 1.2.1.11
+   2.3.1.117 hits 4 # 2.3.1.117
+   3.5.1.18 hits 3 # 3.5.1.18
+   4.1.1.20 hits 3 # 4.1.1.20
+   5.1.1.7 hits 1 # 5.1.1.7
+   2.6.1.1 hits 11 # 2.6.1.1
+   4.2.3.1 hits 4 # 4.2.3.1
+   2.7.1.39 hits 3 # 2.7.1.39
+   1.1.1.3 hits 3 # 1.1.1.3
+path 1663 fam0 9 fam-found 6 # SULFATE-CYS-PWY
+   3.1.3.3 hits 1 # 3.1.3.3
+   1.1.1.95 hits 4 # 1.1.1.95
+   2.6.1.52 hits 1 # 2.6.1.52
+   2.5.1.47 hits 4 # 2.5.1.47
+   2.3.1.30 hits 1 # 2.3.1.30
+   2.7.7.4 hits 1 # 2.7.7.4
+path 1664 fam0 1 fam-found 1 # PWY-5934
+   1.16.1.7 hits 1 # 1.16.1.7
+path 1665 fam0 1 fam-found 1 # PWY-6135
+   3.6.3.- hits 44 # 3.6.3.-
+path 1667 fam0 1 fam-found 1 # PWY-6166
+   3.6.3.- hits 44 # 3.6.3.-
+path 1668 fam0 1 fam-found 1 # PWY-6171
+   3.6.3.- hits 44 # 3.6.3.-
+path 1669 fam0 1 fam-found 1 # PWY-6188
+   3.6.3.- hits 44 # 3.6.3.-
+path 1670 fam0 1 fam-found 1 # PWY-6213
+   3.6.3.3 hits 8 # 3.6.3.3
+path 1673 fam0 1 fam-found 1 # PWY-6240
+   2.7.9.1 hits 3 # 2.7.9.1

@@ -1,0 +1,29 @@
+##############input contig stats#############
+
+Contig count: 15962
+Contig total bases: 9575602
+Contig min length: 201
+Contig max length: 141231
+Contig mean length: 599.90
+Contig meadian length: 277.50
+Contig length stdev: 2349.17
+Contig N50: 932
+##############gene prediction stats#############
+CDS count:	18185
+bac_16SrRNA count:	2
+bac_23SrRNA count:	4
+bac_5SrRNA count:	2
+euk_5_8SrRNA count:	1
+repeat_region count:	17
+tRNA count:	75
+##############gene annotation stats#############
+CDS swissprot_hit:	5085
+CDS pfam_hit:	8075
+CDS tigrfam_hit:	875
+CDS foam_hit:	1535
+CDS metabolic_marker_hit:	6
+CDS genomedb_hit:	13760
+bac_16SrRNA SILVA database search hits:	2
+bac_23SrRNA SILVA database search hits:	4
+bac_5SrRNA SILVA database search hits:	2
+euk_5_8SrRNA SILVA database search hits:	1

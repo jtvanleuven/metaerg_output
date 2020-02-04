@@ -1,0 +1,54 @@
+data = {
+ "text":"Compound-process-gene",
+ "children": [
+ {
+  "text": "C1 compounds",
+  "children":[
+   {
+    "text": "Formate oxidation",
+    "children":[
+     {
+      "text": "formate dehydrogenase, gamma subunit",
+      "size": 1
+     }
+    ]
+   }
+  ]
+  },
+ {
+  "text": "Oxygen",
+  "children":[
+   {
+    "text": "Cytochrome (quinone) oxidase, bo type",
+    "children":[
+     {
+      "text": "CyoD",
+      "size": 2
+     },
+     {
+      "text": "CyoE",
+      "size": 1
+     }
+    ]
+   }
+  ]
+  },
+ {
+  "text": "Urea",
+  "children":[
+   {
+    "text": "Urease",
+    "children":[
+     {
+      "text": "ureB",
+      "size": 1
+     },
+     {
+      "text": "ureA",
+      "size": 1
+     }
+    ]
+   }
+  ]
+  }
+]}

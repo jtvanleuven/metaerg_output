@@ -1,0 +1,6 @@
+#Gene-Compound-Process	Count	Count_pct
+C1 compounds;Formate oxidation;formate dehydrogenase, gamma subunit;	1	0.01
+Urea;Urease;ureA;	1	0.01
+Urea;Urease;ureB;	1	0.01
+Oxygen;Cytochrome (quinone) oxidase, bo type;CyoE;	1	0.01
+Oxygen;Cytochrome (quinone) oxidase, bo type;CyoD;	2	0.01

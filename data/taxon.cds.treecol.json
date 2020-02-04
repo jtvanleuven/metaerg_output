@@ -1,0 +1,7 @@
+treecol = [
+{
+header: "Taxonomy"
+},
+{value: "Count", header: "Count"},
+{width: "100px", value: "Count_pct", header: "Count%"}
+];

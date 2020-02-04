@@ -1,0 +1,57 @@
+var mydata = {
+ "text":"Taxonomy",
+"state": {"opened": true},
+ "children": [
+ {
+  "text": "Bacteria",
+  "data": {"Count":4.00,"Count_pct":100.00},
+"state": {"opened": true},
+  "children": [
+   {
+    "text": "Firmicutes",
+    "data": {"Count":1.00,"Count_pct":25.00},
+    "children": [
+     {
+      "text": "Bacilli",
+      "data": {"Count":1.00,"Count_pct":25.00},
+      "children": [
+       {
+        "text": "Lactobacillales",
+        "data": {"Count":1.00,"Count_pct":25.00}
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "text": "Proteobacteria",
+    "data": {"Count":3.00,"Count_pct":75.00},
+    "children": [
+     {
+      "text": "Alphaproteobacteria",
+      "data": {"Count":3.00,"Count_pct":75.00},
+      "children": [
+       {
+        "text": "Rhizobiales",
+        "data": {"Count":3.00,"Count_pct":75.00},
+        "children": [
+         {
+          "text": "Rhizobiaceae",
+          "data": {"Count":2.00,"Count_pct":50.00},
+          "children": [
+           {
+            "text": "Bartonella",
+            "data": {"Count":1.00,"Count_pct":25.00}
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+  }
+ ]
+}
